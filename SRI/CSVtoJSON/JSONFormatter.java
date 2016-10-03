@@ -13,9 +13,10 @@ public class JSONFormatter
     public static void main() {
         String filename = "UpstateCEO2015 Crosstabs Final.csv";
         String testFile = "test.csv";
-        try(Scanner in = new Scanner(new File("C:\\Users\\SoftEngAdmin\\Documents\\SRI\\SRI JSON Formatting\\SRI\\" + testFile));
-        PrintWriter out = new PrintWriter("C:\\Users\\SoftEngAdmin\\Documents\\SRI\\SRI JSON Formatting\\SRI\\formattedData.json")) {
-            System.out.print("{\"Data\" : [");
+        String outFile = "data.json";
+        try(Scanner in = new Scanner(new File("..\\" + testFile));
+        PrintWriter out = new PrintWriter("..\\" + outFile)) {
+            out.print("{\"Data\" : [");
             while (in.hasNextLine()) {
                 String line = in.nextLine();
                 String ques = line.substring(0, line.length()-19);
@@ -72,37 +73,42 @@ public class JSONFormatter
                     if (in.hasNextLine())  line = in.nextLine();
                     else line = "";
                 }
-                System.out.println("{ \"Question\" : \"" + ques + "\", ");
+                if (ques.contains("\"")) {
+                    out.println("{ \"Question\" : " + ques + ", ");
+                }
+                else {
+                    out.println("{ \"Question\" : \"" + ques + "\", ");
+                }
 
-                System.out.println("\"Categories\" : [");
+                out.println("\"Categories\" : [");
                 int counter = 0;
                 for (int c = 0; c < categories.size(); c++) {
-                    System.out.println("\t{\"Category\" : \"" + categories.get(c) + "\", \"Filters\" : [");
+                    out.println("\t{\"Category\" : \"" + categories.get(c) + "\", \"Filters\" : [");
                     for (int f = counter; f < filters.size(); f++) {
                         if (filters.get(f).toLowerCase().contains(categories.get(c).toLowerCase())) {
-                            System.out.println("\t\t{\"Filter\" : \"" + filters.get(f).substring(0, filters.get(f).indexOf("#")) + "\", \"Answers\" : [");
+                            out.println("\t\t{\"Filter\" : \"" + filters.get(f).substring(0, filters.get(f).indexOf("#")) + "\", \"Answers\" : [");
                             counter++;
                         }
                         else {
-                            System.out.println("\t]},");
+                            out.println("\t]},");
                             break;
                         }
                         for (int a = 0; a < answers.size(); a++) {
-                            System.out.print("\t\t\t{\"Answer\" : \"" + answers.get(a) + "\", \"Value\" : \"" + data[a][f+1] + "\"}");
-                            if (a < answers.size()-1) System.out.println(",");
-                            else if (a == answers.size()-1 && f != filters.size()-1 && filters.get(f+1).toLowerCase().contains(categories.get(c).toLowerCase()))  System.out.println("\n\t\t]},");
-                            else System.out.println("\n\t\t]}");
+                            out.print("\t\t\t{\"Answer\" : \"" + answers.get(a) + "\", \"Value\" : \"" + data[a][f+1] + "\"}");
+                            if (a < answers.size()-1) out.println(",");
+                            else if (a == answers.size()-1 && f != filters.size()-1 && filters.get(f+1).toLowerCase().contains(categories.get(c).toLowerCase()))  out.println("\n\t\t]},");
+                            else out.println("\n\t\t]}");
                         }
                     }                    
                 }
-                System.out.println("\t]}");
-                System.out.print("]}");
+                out.println("\t]}");
+                out.print("]}");
                 if(in.hasNextLine()){
-                    System.out.println(",");
+                    out.println(",");
                 }
-                else System.out.println();
+                else out.println();
             }
-            System.out.println("]}");
+            out.println("]}");
         }
         catch (Exception e) {
             e.printStackTrace();
