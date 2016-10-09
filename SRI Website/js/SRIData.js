@@ -11171,17 +11171,3 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 ]}`;
 
 var obj = JSON.parse(text);
-
-var flag = "FLAG";
-
-/* 
-document.getElementById("somedata").innerHTML = obj.Data[0].Categories[0].Filters[0].Filter + "<br>" +
-obj.Data[0].Categories[0].Filters[0].Answers[0].Answer + "<br>" + 
-obj.Data[0].Categories[0].Filters[0].Answers[0].Value;
-
-//iterating through every question
-var output = "";
-for (i = 0; i < obj.Data.length; i++) {
-	output += obj.Data[i].Question + "<br>";
-}
-document.getElementById("question").innerHTML = output; */
