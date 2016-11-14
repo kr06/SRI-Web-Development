@@ -2775,38 +2775,38 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
 		{"Filter" : "Upstate 2014", "Answers" : [
-			{"Answer" : "Personal Income Tax Reform", "Value" : "0"},
-			{"Answer" : "Business Income Tax Reform", "Value" : "0"},
-			{"Answer" : "Estate Tax Reform", "Value" : "0"},
+			{"Answer" : "Personal Income Tax Reform", "Value" : "-1"},
+			{"Answer" : "Business Income Tax Reform", "Value" : "-1"},
+			{"Answer" : "Estate Tax Reform", "Value" : "-1"},
 			{"Answer" : "Spending Cuts", "Value" : "64"},
 			{"Answer" : "Infrastructure Development", "Value" : "42"},
 			{"Answer" : "Business Development Incentives", "Value" : "38"},
 			{"Answer" : "Ethics Reform", "Value" : "40"},
-			{"Answer" : "Sales Tax Reform", "Value" : "0"},
+			{"Answer" : "Sales Tax Reform", "Value" : "-1"},
 			{"Answer" : "Other", "Value" : "16"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
 		{"Filter" : "Upstate 2013", "Answers" : [
-			{"Answer" : "Personal Income Tax Reform", "Value" : "0"},
-			{"Answer" : "Business Income Tax Reform", "Value" : "0"},
-			{"Answer" : "Estate Tax Reform", "Value" : "0"},
+			{"Answer" : "Personal Income Tax Reform", "Value" : "-1"},
+			{"Answer" : "Business Income Tax Reform", "Value" : "-1"},
+			{"Answer" : "Estate Tax Reform", "Value" : "-1"},
 			{"Answer" : "Spending Cuts", "Value" : "72"},
 			{"Answer" : "Infrastructure Development", "Value" : "32"},
 			{"Answer" : "Business Development Incentives", "Value" : "43"},
 			{"Answer" : "Ethics Reform", "Value" : "39"},
-			{"Answer" : "Sales Tax Reform", "Value" : "0"},
+			{"Answer" : "Sales Tax Reform", "Value" : "-1"},
 			{"Answer" : "Other", "Value" : "11"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
 		{"Filter" : "Upstate 2012", "Answers" : [
-			{"Answer" : "Personal Income Tax Reform", "Value" : "0"},
-			{"Answer" : "Business Income Tax Reform", "Value" : "0"},
-			{"Answer" : "Estate Tax Reform", "Value" : "0"},
+			{"Answer" : "Personal Income Tax Reform", "Value" : "-1"},
+			{"Answer" : "Business Income Tax Reform", "Value" : "-1"},
+			{"Answer" : "Estate Tax Reform", "Value" : "-1"},
 			{"Answer" : "Spending Cuts", "Value" : "74"},
 			{"Answer" : "Infrastructure Development", "Value" : "37"},
 			{"Answer" : "Business Development Incentives", "Value" : "47"},
 			{"Answer" : "Ethics Reform", "Value" : "35"},
-			{"Answer" : "Sales Tax Reform", "Value" : "0"},
+			{"Answer" : "Sales Tax Reform", "Value" : "-1"},
 			{"Answer" : "Other", "Value" : "17"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]}
@@ -3016,38 +3016,38 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
 		{"Filter" : "Upstate 2014", "Answers" : [
-			{"Answer" : "Personal Income Tax Reform", "Value" : "0"},
-			{"Answer" : "Business Income Tax Reform", "Value" : "0"},
-			{"Answer" : "Estate Tax Reform", "Value" : "0"},
+			{"Answer" : "Personal Income Tax Reform", "Value" : "-1"},
+			{"Answer" : "Business Income Tax Reform", "Value" : "-1"},
+			{"Answer" : "Estate Tax Reform", "Value" : "-1"},
 			{"Answer" : "Spending Cuts", "Value" : "31"},
 			{"Answer" : "Infrastructure Development", "Value" : "15"},
 			{"Answer" : "Business Development Incentives", "Value" : "11"},
 			{"Answer" : "Ethics Reform", "Value" : "9"},
-			{"Answer" : "Sales Tax Reform", "Value" : "0"},
+			{"Answer" : "Sales Tax Reform", "Value" : "-1"},
 			{"Answer" : "Other", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
 		{"Filter" : "Upstate 2013", "Answers" : [
-			{"Answer" : "Personal Income Tax Reform", "Value" : "0"},
-			{"Answer" : "Business Income Tax Reform", "Value" : "0"},
-			{"Answer" : "Estate Tax Reform", "Value" : "0"},
+			{"Answer" : "Personal Income Tax Reform", "Value" : "-1"},
+			{"Answer" : "Business Income Tax Reform", "Value" : "-1"},
+			{"Answer" : "Estate Tax Reform", "Value" : "-1"},
 			{"Answer" : "Spending Cuts", "Value" : "35"},
 			{"Answer" : "Infrastructure Development", "Value" : "9"},
 			{"Answer" : "Business Development Incentives", "Value" : "15"},
 			{"Answer" : "Ethics Reform", "Value" : "6"},
-			{"Answer" : "Sales Tax Reform", "Value" : "0"},
+			{"Answer" : "Sales Tax Reform", "Value" : "-1"},
 			{"Answer" : "Other", "Value" : "6"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
 		{"Filter" : "Upstate 2012", "Answers" : [
-			{"Answer" : "Personal Income Tax Reform", "Value" : "0"},
-			{"Answer" : "Business Income Tax Reform", "Value" : "0"},
-			{"Answer" : "Estate Tax Reform", "Value" : "0"},
+			{"Answer" : "Personal Income Tax Reform", "Value" : "-1"},
+			{"Answer" : "Business Income Tax Reform", "Value" : "-1"},
+			{"Answer" : "Estate Tax Reform", "Value" : "-1"},
 			{"Answer" : "Spending Cuts", "Value" : "40"},
 			{"Answer" : "Infrastructure Development", "Value" : "10"},
 			{"Answer" : "Business Development Incentives", "Value" : "13"},
 			{"Answer" : "Ethics Reform", "Value" : "5"},
-			{"Answer" : "Sales Tax Reform", "Value" : "0"},
+			{"Answer" : "Sales Tax Reform", "Value" : "-1"},
 			{"Answer" : "Other", "Value" : "9"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]}
@@ -3690,84 +3690,84 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Support", "Value" : "77"},
 			{"Answer" : "Oppose", "Value" : "23"},
 			{"Answer" : "No opinion", "Value" : "0"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Support", "Value" : "72"},
 			{"Answer" : "Oppose", "Value" : "28"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Support", "Value" : "83"},
 			{"Answer" : "Oppose", "Value" : "17"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Support", "Value" : "80"},
 			{"Answer" : "Oppose", "Value" : "20"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Support", "Value" : "79"},
 			{"Answer" : "Oppose", "Value" : "21"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Support", "Value" : "79"},
 			{"Answer" : "Oppose", "Value" : "21"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Support", "Value" : "75"},
 			{"Answer" : "Oppose", "Value" : "25"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Support", "Value" : "74"},
 			{"Answer" : "Oppose", "Value" : "26"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Support", "Value" : "83"},
 			{"Answer" : "Oppose", "Value" : "17"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Support", "Value" : "81"},
 			{"Answer" : "Oppose", "Value" : "19"},
 			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Support", "Value" : "77"},
 			{"Answer" : "Oppose", "Value" : "23"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Support", "Value" : "75"},
 			{"Answer" : "Oppose", "Value" : "25"},
+			{"Answer" : "No opinion", "Value" : "0"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Support", "Value" : "85"},
+			{"Answer" : "Oppose", "Value" : "15"},
+			{"Answer" : "No opinion", "Value" : "0"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Support", "Value" : "79"},
+			{"Answer" : "Oppose", "Value" : "21"},
+			{"Answer" : "No opinion", "Value" : "0"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Support", "Value" : "73"},
+			{"Answer" : "Oppose", "Value" : "27"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]}
@@ -4107,40 +4107,40 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
+			{"Answer" : "Support", "Value" : "31"},
+			{"Answer" : "Oppose", "Value" : "69"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
+			{"Answer" : "Support", "Value" : "36"},
+			{"Answer" : "Oppose", "Value" : "64"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
+			{"Answer" : "Support", "Value" : "33"},
+			{"Answer" : "Oppose", "Value" : "67"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Syr", "Answers" : [
-			{"Answer" : "Support", "Value" : "31"},
-			{"Answer" : "Oppose", "Value" : "69"},
+			{"Answer" : "Support", "Value" : "30"},
+			{"Answer" : "Oppose", "Value" : "70"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]},
 	{"Category" : "Cluster", "Filters" : [
 		{"Filter" : "High", "Answers" : [
-			{"Answer" : "Support", "Value" : "36"},
-			{"Answer" : "Oppose", "Value" : "64"},
+			{"Answer" : "Support", "Value" : "30"},
+			{"Answer" : "Oppose", "Value" : "70"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Middle", "Answers" : [
-			{"Answer" : "Support", "Value" : "33"},
-			{"Answer" : "Oppose", "Value" : "67"},
+			{"Answer" : "Support", "Value" : "28"},
+			{"Answer" : "Oppose", "Value" : "72"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Low", "Answers" : [
-			{"Answer" : "Support", "Value" : "30"},
-			{"Answer" : "Oppose", "Value" : "70"},
+			{"Answer" : "Support", "Value" : "48"},
+			{"Answer" : "Oppose", "Value" : "52"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]},
@@ -4151,40 +4151,40 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "51 to 100", "Answers" : [
-			{"Answer" : "Support", "Value" : "28"},
-			{"Answer" : "Oppose", "Value" : "72"},
+			{"Answer" : "Support", "Value" : "36"},
+			{"Answer" : "Oppose", "Value" : "64"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "More than 100", "Answers" : [
-			{"Answer" : "Support", "Value" : "48"},
-			{"Answer" : "Oppose", "Value" : "52"},
+			{"Answer" : "Support", "Value" : "36"},
+			{"Answer" : "Oppose", "Value" : "64"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]},
 	{"Category" : "Industry", "Filters" : [
 		{"Filter" : "Eng & Constr", "Answers" : [
-			{"Answer" : "Support", "Value" : "30"},
-			{"Answer" : "Oppose", "Value" : "70"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Manuf", "Answers" : [
-			{"Answer" : "Support", "Value" : "36"},
-			{"Answer" : "Oppose", "Value" : "64"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Retail", "Answers" : [
-			{"Answer" : "Support", "Value" : "36"},
-			{"Answer" : "Oppose", "Value" : "64"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Service", "Answers" : [
 			{"Answer" : "Support", "Value" : "28"},
 			{"Answer" : "Oppose", "Value" : "72"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Support", "Value" : "35"},
 			{"Answer" : "Oppose", "Value" : "65"},
+			{"Answer" : "No opinion", "Value" : "0"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Support", "Value" : "31"},
+			{"Answer" : "Oppose", "Value" : "69"},
+			{"Answer" : "No opinion", "Value" : "0"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Support", "Value" : "26"},
+			{"Answer" : "Oppose", "Value" : "74"},
+			{"Answer" : "No opinion", "Value" : "0"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Support", "Value" : "52"},
+			{"Answer" : "Oppose", "Value" : "48"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]}
@@ -4205,30 +4205,30 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Support", "Value" : "42"},
 			{"Answer" : "Oppose", "Value" : "58"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
-		{"Filter" : "Syr", "Answers" : [
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Support", "Value" : "23"},
 			{"Answer" : "Oppose", "Value" : "77"},
+			{"Answer" : "No opinion", "Value" : "0"}
+		]},
+		{"Filter" : "Roch", "Answers" : [
+			{"Answer" : "Support", "Value" : "31"},
+			{"Answer" : "Oppose", "Value" : "69"},
+			{"Answer" : "No opinion", "Value" : "0"}
+		]},
+		{"Filter" : "Syr", "Answers" : [
+			{"Answer" : "Support", "Value" : "30"},
+			{"Answer" : "Oppose", "Value" : "70"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]},
 	{"Category" : "Cluster", "Filters" : [
 		{"Filter" : "High", "Answers" : [
-			{"Answer" : "Support", "Value" : "31"},
-			{"Answer" : "Oppose", "Value" : "69"},
+			{"Answer" : "Support", "Value" : "46"},
+			{"Answer" : "Oppose", "Value" : "54"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Middle", "Answers" : [
@@ -4237,52 +4237,52 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Low", "Answers" : [
-			{"Answer" : "Support", "Value" : "46"},
-			{"Answer" : "Oppose", "Value" : "54"},
+			{"Answer" : "Support", "Value" : "18"},
+			{"Answer" : "Oppose", "Value" : "82"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]},
 	{"Category" : "Company Size", "Filters" : [
 		{"Filter" : "50 or less", "Answers" : [
-			{"Answer" : "Support", "Value" : "30"},
-			{"Answer" : "Oppose", "Value" : "70"},
+			{"Answer" : "Support", "Value" : "29"},
+			{"Answer" : "Oppose", "Value" : "71"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "51 to 100", "Answers" : [
-			{"Answer" : "Support", "Value" : "18"},
-			{"Answer" : "Oppose", "Value" : "82"},
+			{"Answer" : "Support", "Value" : "44"},
+			{"Answer" : "Oppose", "Value" : "56"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "More than 100", "Answers" : [
-			{"Answer" : "Support", "Value" : "29"},
-			{"Answer" : "Oppose", "Value" : "71"},
+			{"Answer" : "Support", "Value" : "28"},
+			{"Answer" : "Oppose", "Value" : "72"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]},
 	{"Category" : "Industry", "Filters" : [
 		{"Filter" : "Eng & Constr", "Answers" : [
-			{"Answer" : "Support", "Value" : "44"},
-			{"Answer" : "Oppose", "Value" : "56"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Manuf", "Answers" : [
-			{"Answer" : "Support", "Value" : "28"},
-			{"Answer" : "Oppose", "Value" : "72"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "Support", "Value" : "47"},
 			{"Answer" : "Oppose", "Value" : "53"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
-		{"Filter" : "Service", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Support", "Value" : "30"},
 			{"Answer" : "Oppose", "Value" : "70"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "Support", "Value" : "25"},
 			{"Answer" : "Oppose", "Value" : "75"},
+			{"Answer" : "No opinion", "Value" : "0"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Support", "Value" : "36"},
+			{"Answer" : "Oppose", "Value" : "64"},
+			{"Answer" : "No opinion", "Value" : "0"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Support", "Value" : "23"},
+			{"Answer" : "Oppose", "Value" : "77"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]}
@@ -4298,30 +4298,30 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
+			{"Answer" : "Support", "Value" : "39"},
+			{"Answer" : "Oppose", "Value" : "61"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
+			{"Answer" : "Support", "Value" : "37"},
+			{"Answer" : "Oppose", "Value" : "63"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
+			{"Answer" : "Support", "Value" : "36"},
+			{"Answer" : "Oppose", "Value" : "64"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Syr", "Answers" : [
-			{"Answer" : "Support", "Value" : "39"},
-			{"Answer" : "Oppose", "Value" : "61"},
+			{"Answer" : "Support", "Value" : "41"},
+			{"Answer" : "Oppose", "Value" : "59"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]},
 	{"Category" : "Cluster", "Filters" : [
 		{"Filter" : "High", "Answers" : [
-			{"Answer" : "Support", "Value" : "37"},
-			{"Answer" : "Oppose", "Value" : "63"},
+			{"Answer" : "Support", "Value" : "46"},
+			{"Answer" : "Oppose", "Value" : "54"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Middle", "Answers" : [
@@ -4330,15 +4330,15 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Low", "Answers" : [
-			{"Answer" : "Support", "Value" : "41"},
-			{"Answer" : "Oppose", "Value" : "59"},
+			{"Answer" : "Support", "Value" : "29"},
+			{"Answer" : "Oppose", "Value" : "71"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]},
 	{"Category" : "Company Size", "Filters" : [
 		{"Filter" : "50 or less", "Answers" : [
-			{"Answer" : "Support", "Value" : "46"},
-			{"Answer" : "Oppose", "Value" : "54"},
+			{"Answer" : "Support", "Value" : "40"},
+			{"Answer" : "Oppose", "Value" : "60"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "51 to 100", "Answers" : [
@@ -4347,20 +4347,20 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "More than 100", "Answers" : [
-			{"Answer" : "Support", "Value" : "29"},
-			{"Answer" : "Oppose", "Value" : "71"},
+			{"Answer" : "Support", "Value" : "34"},
+			{"Answer" : "Oppose", "Value" : "66"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]},
 	{"Category" : "Industry", "Filters" : [
 		{"Filter" : "Eng & Constr", "Answers" : [
-			{"Answer" : "Support", "Value" : "40"},
-			{"Answer" : "Oppose", "Value" : "60"},
+			{"Answer" : "Support", "Value" : "32"},
+			{"Answer" : "Oppose", "Value" : "68"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Manuf", "Answers" : [
-			{"Answer" : "Support", "Value" : "36"},
-			{"Answer" : "Oppose", "Value" : "64"},
+			{"Answer" : "Support", "Value" : "37"},
+			{"Answer" : "Oppose", "Value" : "63"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Retail", "Answers" : [
@@ -4369,13 +4369,13 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Service", "Answers" : [
-			{"Answer" : "Support", "Value" : "32"},
-			{"Answer" : "Oppose", "Value" : "68"},
+			{"Answer" : "Support", "Value" : "48"},
+			{"Answer" : "Oppose", "Value" : "52"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Whole & Distr", "Answers" : [
-			{"Answer" : "Support", "Value" : "37"},
-			{"Answer" : "Oppose", "Value" : "63"},
+			{"Answer" : "Support", "Value" : "32"},
+			{"Answer" : "Oppose", "Value" : "68"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]}
@@ -4391,57 +4391,57 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Support", "Value" : "42"},
 			{"Answer" : "Oppose", "Value" : "58"},
 			{"Answer" : "No opinion", "Value" : "0"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Support", "Value" : "43"},
 			{"Answer" : "Oppose", "Value" : "57"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Support", "Value" : "43"},
 			{"Answer" : "Oppose", "Value" : "57"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Support", "Value" : "38"},
 			{"Answer" : "Oppose", "Value" : "62"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Support", "Value" : "41"},
 			{"Answer" : "Oppose", "Value" : "59"},
+			{"Answer" : "No opinion", "Value" : "0"}
+		]},
+		{"Filter" : "Middle", "Answers" : [
+			{"Answer" : "Support", "Value" : "41"},
+			{"Answer" : "Oppose", "Value" : "59"},
+			{"Answer" : "No opinion", "Value" : "0"}
+		]},
+		{"Filter" : "Low", "Answers" : [
+			{"Answer" : "Support", "Value" : "44"},
+			{"Answer" : "Oppose", "Value" : "56"},
+			{"Answer" : "No opinion", "Value" : "0"}
+		]}
+	]},
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
+			{"Answer" : "Support", "Value" : "45"},
+			{"Answer" : "Oppose", "Value" : "55"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "51 to 100", "Answers" : [
-			{"Answer" : "Support", "Value" : "41"},
-			{"Answer" : "Oppose", "Value" : "59"},
+			{"Answer" : "Support", "Value" : "38"},
+			{"Answer" : "Oppose", "Value" : "62"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "More than 100", "Answers" : [
-			{"Answer" : "Support", "Value" : "44"},
-			{"Answer" : "Oppose", "Value" : "56"},
+			{"Answer" : "Support", "Value" : "38"},
+			{"Answer" : "Oppose", "Value" : "62"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]},
@@ -4452,23 +4452,23 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Manuf", "Answers" : [
-			{"Answer" : "Support", "Value" : "38"},
-			{"Answer" : "Oppose", "Value" : "62"},
+			{"Answer" : "Support", "Value" : "39"},
+			{"Answer" : "Oppose", "Value" : "61"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Retail", "Answers" : [
-			{"Answer" : "Support", "Value" : "38"},
-			{"Answer" : "Oppose", "Value" : "62"},
+			{"Answer" : "Support", "Value" : "43"},
+			{"Answer" : "Oppose", "Value" : "57"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Service", "Answers" : [
-			{"Answer" : "Support", "Value" : "45"},
-			{"Answer" : "Oppose", "Value" : "55"},
+			{"Answer" : "Support", "Value" : "43"},
+			{"Answer" : "Oppose", "Value" : "57"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Whole & Distr", "Answers" : [
-			{"Answer" : "Support", "Value" : "39"},
-			{"Answer" : "Oppose", "Value" : "61"},
+			{"Answer" : "Support", "Value" : "45"},
+			{"Answer" : "Oppose", "Value" : "55"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]}
@@ -4484,84 +4484,84 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
+			{"Answer" : "Support", "Value" : "42"},
+			{"Answer" : "Oppose", "Value" : "58"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
+			{"Answer" : "Support", "Value" : "41"},
+			{"Answer" : "Oppose", "Value" : "59"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
+			{"Answer" : "Support", "Value" : "38"},
+			{"Answer" : "Oppose", "Value" : "62"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Syr", "Answers" : [
-			{"Answer" : "Support", "Value" : "42"},
-			{"Answer" : "Oppose", "Value" : "58"},
+			{"Answer" : "Support", "Value" : "48"},
+			{"Answer" : "Oppose", "Value" : "52"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]},
 	{"Category" : "Cluster", "Filters" : [
 		{"Filter" : "High", "Answers" : [
-			{"Answer" : "Support", "Value" : "41"},
-			{"Answer" : "Oppose", "Value" : "59"},
+			{"Answer" : "Support", "Value" : "48"},
+			{"Answer" : "Oppose", "Value" : "52"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
 		{"Filter" : "Middle", "Answers" : [
-			{"Answer" : "Support", "Value" : "38"},
-			{"Answer" : "Oppose", "Value" : "62"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Low", "Answers" : [
-			{"Answer" : "Support", "Value" : "48"},
-			{"Answer" : "Oppose", "Value" : "52"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]}
-	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
-			{"Answer" : "Support", "Value" : "48"},
-			{"Answer" : "Oppose", "Value" : "52"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Support", "Value" : "41"},
 			{"Answer" : "Oppose", "Value" : "59"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Support", "Value" : "34"},
 			{"Answer" : "Oppose", "Value" : "66"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Support", "Value" : "40"},
 			{"Answer" : "Oppose", "Value" : "60"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Support", "Value" : "47"},
 			{"Answer" : "Oppose", "Value" : "53"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Support", "Value" : "41"},
 			{"Answer" : "Oppose", "Value" : "59"},
 			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Support", "Value" : "39"},
 			{"Answer" : "Oppose", "Value" : "61"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Support", "Value" : "46"},
 			{"Answer" : "Oppose", "Value" : "54"},
+			{"Answer" : "No opinion", "Value" : "0"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Support", "Value" : "42"},
+			{"Answer" : "Oppose", "Value" : "58"},
+			{"Answer" : "No opinion", "Value" : "0"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Support", "Value" : "40"},
+			{"Answer" : "Oppose", "Value" : "60"},
+			{"Answer" : "No opinion", "Value" : "0"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Support", "Value" : "43"},
+			{"Answer" : "Oppose", "Value" : "57"},
 			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]}
@@ -4590,100 +4590,100 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Improving", "Value" : "0"},
-			{"Answer" : "Staying the same", "Value" : "0"},
-			{"Answer" : "Worsening", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Improving", "Value" : "25"},
 			{"Answer" : "Staying the same", "Value" : "64"},
 			{"Answer" : "Worsening", "Value" : "11"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Roch", "Answers" : [
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Improving", "Value" : "30"},
 			{"Answer" : "Staying the same", "Value" : "51"},
 			{"Answer" : "Worsening", "Value" : "19"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Syr", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Improving", "Value" : "13"},
 			{"Answer" : "Staying the same", "Value" : "60"},
 			{"Answer" : "Worsening", "Value" : "26"},
+			{"Answer" : "Refused", "Value" : "1"}
+		]},
+		{"Filter" : "Syr", "Answers" : [
+			{"Answer" : "Improving", "Value" : "8"},
+			{"Answer" : "Staying the same", "Value" : "48"},
+			{"Answer" : "Worsening", "Value" : "43"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]}
 	]},
 	{"Category" : "Cluster", "Filters" : [
 		{"Filter" : "High", "Answers" : [
-			{"Answer" : "Improving", "Value" : "8"},
-			{"Answer" : "Staying the same", "Value" : "48"},
-			{"Answer" : "Worsening", "Value" : "43"},
-			{"Answer" : "Refused", "Value" : "1"}
-		]},
-		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Improving", "Value" : "43"},
 			{"Answer" : "Staying the same", "Value" : "52"},
 			{"Answer" : "Worsening", "Value" : "5"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Improving", "Value" : "14"},
 			{"Answer" : "Staying the same", "Value" : "72"},
 			{"Answer" : "Worsening", "Value" : "13"},
 			{"Answer" : "Refused", "Value" : "0"}
-		]}
-	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+		]},
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Improving", "Value" : "5"},
 			{"Answer" : "Staying the same", "Value" : "31"},
 			{"Answer" : "Worsening", "Value" : "63"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		]}
+	]},
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Improving", "Value" : "18"},
 			{"Answer" : "Staying the same", "Value" : "57"},
 			{"Answer" : "Worsening", "Value" : "25"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Improving", "Value" : "20"},
 			{"Answer" : "Staying the same", "Value" : "60"},
 			{"Answer" : "Worsening", "Value" : "21"},
 			{"Answer" : "Refused", "Value" : "0"}
-		]}
-	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+		]},
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Improving", "Value" : "25"},
 			{"Answer" : "Staying the same", "Value" : "55"},
 			{"Answer" : "Worsening", "Value" : "19"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]},
-		{"Filter" : "Manuf", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Improving", "Value" : "32"},
 			{"Answer" : "Staying the same", "Value" : "54"},
 			{"Answer" : "Worsening", "Value" : "14"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Improving", "Value" : "18"},
 			{"Answer" : "Staying the same", "Value" : "57"},
 			{"Answer" : "Worsening", "Value" : "24"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Service", "Answers" : [
+		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "Improving", "Value" : "20"},
 			{"Answer" : "Staying the same", "Value" : "49"},
 			{"Answer" : "Worsening", "Value" : "31"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Service", "Answers" : [
 			{"Answer" : "Improving", "Value" : "20"},
 			{"Answer" : "Staying the same", "Value" : "57"},
 			{"Answer" : "Worsening", "Value" : "22"},
 			{"Answer" : "Refused", "Value" : "1"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Improving", "Value" : "20"},
+			{"Answer" : "Staying the same", "Value" : "52"},
+			{"Answer" : "Worsening", "Value" : "28"},
+			{"Answer" : "Refused", "Value" : "0"}
 		]}
 	]}
 ]},
@@ -4711,100 +4711,100 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Improving", "Value" : "0"},
-			{"Answer" : "Staying the same", "Value" : "0"},
-			{"Answer" : "Worsening", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Improving", "Value" : "18"},
 			{"Answer" : "Staying the same", "Value" : "65"},
 			{"Answer" : "Worsening", "Value" : "17"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Roch", "Answers" : [
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Improving", "Value" : "15"},
 			{"Answer" : "Staying the same", "Value" : "51"},
 			{"Answer" : "Worsening", "Value" : "34"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Syr", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Improving", "Value" : "11"},
 			{"Answer" : "Staying the same", "Value" : "59"},
 			{"Answer" : "Worsening", "Value" : "30"},
 			{"Answer" : "Refused", "Value" : "0"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Improving", "Value" : "8"},
 			{"Answer" : "Staying the same", "Value" : "53"},
 			{"Answer" : "Worsening", "Value" : "38"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]},
-		{"Filter" : "Middle", "Answers" : [
+		]}
+	]},
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Improving", "Value" : "35"},
 			{"Answer" : "Staying the same", "Value" : "57"},
 			{"Answer" : "Worsening", "Value" : "8"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Improving", "Value" : "6"},
 			{"Answer" : "Staying the same", "Value" : "72"},
 			{"Answer" : "Worsening", "Value" : "21"},
+			{"Answer" : "Refused", "Value" : "0"}
+		]},
+		{"Filter" : "Low", "Answers" : [
+			{"Answer" : "Improving", "Value" : "2"},
+			{"Answer" : "Staying the same", "Value" : "28"},
+			{"Answer" : "Worsening", "Value" : "71"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]}
 	]},
 	{"Category" : "Company Size", "Filters" : [
 		{"Filter" : "50 or less", "Answers" : [
-			{"Answer" : "Improving", "Value" : "2"},
-			{"Answer" : "Staying the same", "Value" : "28"},
-			{"Answer" : "Worsening", "Value" : "71"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Improving", "Value" : "12"},
 			{"Answer" : "Staying the same", "Value" : "58"},
 			{"Answer" : "Worsening", "Value" : "31"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Improving", "Value" : "15"},
 			{"Answer" : "Staying the same", "Value" : "68"},
 			{"Answer" : "Worsening", "Value" : "18"},
 			{"Answer" : "Refused", "Value" : "0"}
-		]}
-	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+		]},
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Improving", "Value" : "17"},
 			{"Answer" : "Staying the same", "Value" : "49"},
 			{"Answer" : "Worsening", "Value" : "34"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]},
-		{"Filter" : "Manuf", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Improving", "Value" : "25"},
 			{"Answer" : "Staying the same", "Value" : "59"},
 			{"Answer" : "Worsening", "Value" : "16"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Improving", "Value" : "9"},
 			{"Answer" : "Staying the same", "Value" : "59"},
 			{"Answer" : "Worsening", "Value" : "33"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Service", "Answers" : [
+		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "Improving", "Value" : "17"},
 			{"Answer" : "Staying the same", "Value" : "52"},
 			{"Answer" : "Worsening", "Value" : "31"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Service", "Answers" : [
 			{"Answer" : "Improving", "Value" : "9"},
 			{"Answer" : "Staying the same", "Value" : "57"},
 			{"Answer" : "Worsening", "Value" : "33"},
 			{"Answer" : "Refused", "Value" : "1"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Improving", "Value" : "17"},
+			{"Answer" : "Staying the same", "Value" : "55"},
+			{"Answer" : "Worsening", "Value" : "28"},
+			{"Answer" : "Refused", "Value" : "0"}
 		]}
 	]}
 ]},
@@ -4847,17 +4847,6 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Education", "Value" : "0"},
-			{"Answer" : "Tourism", "Value" : "0"},
-			{"Answer" : "Technology", "Value" : "0"},
-			{"Answer" : "Transportation", "Value" : "0"},
-			{"Answer" : "Medical", "Value" : "0"},
-			{"Answer" : "Green and sustainable energy", "Value" : "0"},
-			{"Answer" : "Manufacturing", "Value" : "0"},
-			{"Answer" : "Other", "Value" : "0"},
-			{"Answer" : "None of the above", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Education", "Value" : "52"},
 			{"Answer" : "Tourism", "Value" : "24"},
 			{"Answer" : "Technology", "Value" : "73"},
@@ -4868,7 +4857,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Other", "Value" : "1"},
 			{"Answer" : "None of the above", "Value" : "6"}
 		]},
-		{"Filter" : "Roch", "Answers" : [
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Education", "Value" : "35"},
 			{"Answer" : "Tourism", "Value" : "47"},
 			{"Answer" : "Technology", "Value" : "55"},
@@ -4879,7 +4868,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Other", "Value" : "1"},
 			{"Answer" : "None of the above", "Value" : "3"}
 		]},
-		{"Filter" : "Syr", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Education", "Value" : "49"},
 			{"Answer" : "Tourism", "Value" : "33"},
 			{"Answer" : "Technology", "Value" : "67"},
@@ -4889,10 +4878,8 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Manufacturing", "Value" : "40"},
 			{"Answer" : "Other", "Value" : "4"},
 			{"Answer" : "None of the above", "Value" : "4"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Education", "Value" : "44"},
 			{"Answer" : "Tourism", "Value" : "33"},
 			{"Answer" : "Technology", "Value" : "49"},
@@ -4902,8 +4889,10 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Manufacturing", "Value" : "33"},
 			{"Answer" : "Other", "Value" : "1"},
 			{"Answer" : "None of the above", "Value" : "15"}
-		]},
-		{"Filter" : "Middle", "Answers" : [
+		]}
+	]},
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Education", "Value" : "57"},
 			{"Answer" : "Tourism", "Value" : "34"},
 			{"Answer" : "Technology", "Value" : "75"},
@@ -4914,7 +4903,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Other", "Value" : "3"},
 			{"Answer" : "None of the above", "Value" : "1"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Education", "Value" : "40"},
 			{"Answer" : "Tourism", "Value" : "40"},
 			{"Answer" : "Technology", "Value" : "60"},
@@ -4924,10 +4913,8 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Manufacturing", "Value" : "42"},
 			{"Answer" : "Other", "Value" : "2"},
 			{"Answer" : "None of the above", "Value" : "7"}
-		]}
-	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+		]},
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Education", "Value" : "42"},
 			{"Answer" : "Tourism", "Value" : "25"},
 			{"Answer" : "Technology", "Value" : "51"},
@@ -4937,8 +4924,10 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Manufacturing", "Value" : "33"},
 			{"Answer" : "Other", "Value" : "2"},
 			{"Answer" : "None of the above", "Value" : "11"}
-		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		]}
+	]},
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Education", "Value" : "44"},
 			{"Answer" : "Tourism", "Value" : "39"},
 			{"Answer" : "Technology", "Value" : "58"},
@@ -4949,7 +4938,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Other", "Value" : "2"},
 			{"Answer" : "None of the above", "Value" : "8"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Education", "Value" : "51"},
 			{"Answer" : "Tourism", "Value" : "30"},
 			{"Answer" : "Technology", "Value" : "69"},
@@ -4959,10 +4948,8 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Manufacturing", "Value" : "39"},
 			{"Answer" : "Other", "Value" : "5"},
 			{"Answer" : "None of the above", "Value" : "4"}
-		]}
-	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+		]},
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Education", "Value" : "44"},
 			{"Answer" : "Tourism", "Value" : "31"},
 			{"Answer" : "Technology", "Value" : "67"},
@@ -4972,8 +4959,10 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Manufacturing", "Value" : "42"},
 			{"Answer" : "Other", "Value" : "1"},
 			{"Answer" : "None of the above", "Value" : "5"}
-		]},
-		{"Filter" : "Manuf", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Education", "Value" : "43"},
 			{"Answer" : "Tourism", "Value" : "26"},
 			{"Answer" : "Technology", "Value" : "71"},
@@ -4984,7 +4973,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Other", "Value" : "3"},
 			{"Answer" : "None of the above", "Value" : "7"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Education", "Value" : "42"},
 			{"Answer" : "Tourism", "Value" : "40"},
 			{"Answer" : "Technology", "Value" : "57"},
@@ -4995,7 +4984,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Other", "Value" : "2"},
 			{"Answer" : "None of the above", "Value" : "6"}
 		]},
-		{"Filter" : "Service", "Answers" : [
+		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "Education", "Value" : "48"},
 			{"Answer" : "Tourism", "Value" : "46"},
 			{"Answer" : "Technology", "Value" : "66"},
@@ -5006,7 +4995,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Other", "Value" : "3"},
 			{"Answer" : "None of the above", "Value" : "11"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Service", "Answers" : [
 			{"Answer" : "Education", "Value" : "49"},
 			{"Answer" : "Tourism", "Value" : "27"},
 			{"Answer" : "Technology", "Value" : "65"},
@@ -5016,6 +5005,17 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Manufacturing", "Value" : "33"},
 			{"Answer" : "Other", "Value" : "1"},
 			{"Answer" : "None of the above", "Value" : "4"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Education", "Value" : "40"},
+			{"Answer" : "Tourism", "Value" : "32"},
+			{"Answer" : "Technology", "Value" : "53"},
+			{"Answer" : "Transportation", "Value" : "8"},
+			{"Answer" : "Medical", "Value" : "62"},
+			{"Answer" : "Green and sustainable energy", "Value" : "22"},
+			{"Answer" : "Manufacturing", "Value" : "33"},
+			{"Answer" : "Other", "Value" : "2"},
+			{"Answer" : "None of the above", "Value" : "8"}
 		]}
 	]}
 ]},
@@ -5058,17 +5058,6 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Education", "Value" : "0"},
-			{"Answer" : "Tourism", "Value" : "0"},
-			{"Answer" : "Technology", "Value" : "0"},
-			{"Answer" : "Transportation", "Value" : "0"},
-			{"Answer" : "Medical", "Value" : "0"},
-			{"Answer" : "Green and sustainable energy", "Value" : "0"},
-			{"Answer" : "Manufacturing", "Value" : "0"},
-			{"Answer" : "Other", "Value" : "0"},
-			{"Answer" : "None of the above", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Education", "Value" : "10"},
 			{"Answer" : "Tourism", "Value" : "5"},
 			{"Answer" : "Technology", "Value" : "54"},
@@ -5079,7 +5068,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Other", "Value" : "1"},
 			{"Answer" : "None of the above", "Value" : "0"}
 		]},
-		{"Filter" : "Roch", "Answers" : [
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Education", "Value" : "8"},
 			{"Answer" : "Tourism", "Value" : "10"},
 			{"Answer" : "Technology", "Value" : "10"},
@@ -5090,7 +5079,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Other", "Value" : "0"},
 			{"Answer" : "None of the above", "Value" : "0"}
 		]},
-		{"Filter" : "Syr", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Education", "Value" : "10"},
 			{"Answer" : "Tourism", "Value" : "9"},
 			{"Answer" : "Technology", "Value" : "31"},
@@ -5100,10 +5089,8 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Manufacturing", "Value" : "17"},
 			{"Answer" : "Other", "Value" : "2"},
 			{"Answer" : "None of the above", "Value" : "0"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Education", "Value" : "18"},
 			{"Answer" : "Tourism", "Value" : "6"},
 			{"Answer" : "Technology", "Value" : "30"},
@@ -5113,8 +5100,10 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Manufacturing", "Value" : "22"},
 			{"Answer" : "Other", "Value" : "1"},
 			{"Answer" : "None of the above", "Value" : "0"}
-		]},
-		{"Filter" : "Middle", "Answers" : [
+		]}
+	]},
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Education", "Value" : "11"},
 			{"Answer" : "Tourism", "Value" : "6"},
 			{"Answer" : "Technology", "Value" : "39"},
@@ -5125,7 +5114,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Other", "Value" : "1"},
 			{"Answer" : "None of the above", "Value" : "0"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Education", "Value" : "8"},
 			{"Answer" : "Tourism", "Value" : "10"},
 			{"Answer" : "Technology", "Value" : "27"},
@@ -5135,10 +5124,8 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Manufacturing", "Value" : "16"},
 			{"Answer" : "Other", "Value" : "1"},
 			{"Answer" : "None of the above", "Value" : "0"}
-		]}
-	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+		]},
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Education", "Value" : "14"},
 			{"Answer" : "Tourism", "Value" : "5"},
 			{"Answer" : "Technology", "Value" : "30"},
@@ -5148,8 +5135,10 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Manufacturing", "Value" : "16"},
 			{"Answer" : "Other", "Value" : "2"},
 			{"Answer" : "None of the above", "Value" : "0"}
-		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		]}
+	]},
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Education", "Value" : "9"},
 			{"Answer" : "Tourism", "Value" : "11"},
 			{"Answer" : "Technology", "Value" : "28"},
@@ -5160,7 +5149,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Other", "Value" : "1"},
 			{"Answer" : "None of the above", "Value" : "0"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Education", "Value" : "14"},
 			{"Answer" : "Tourism", "Value" : "1"},
 			{"Answer" : "Technology", "Value" : "34"},
@@ -5170,10 +5159,8 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Manufacturing", "Value" : "13"},
 			{"Answer" : "Other", "Value" : "2"},
 			{"Answer" : "None of the above", "Value" : "0"}
-		]}
-	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+		]},
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Education", "Value" : "10"},
 			{"Answer" : "Tourism", "Value" : "7"},
 			{"Answer" : "Technology", "Value" : "35"},
@@ -5183,8 +5170,10 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Manufacturing", "Value" : "12"},
 			{"Answer" : "Other", "Value" : "0"},
 			{"Answer" : "None of the above", "Value" : "0"}
-		]},
-		{"Filter" : "Manuf", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Education", "Value" : "11"},
 			{"Answer" : "Tourism", "Value" : "7"},
 			{"Answer" : "Technology", "Value" : "37"},
@@ -5195,7 +5184,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Other", "Value" : "1"},
 			{"Answer" : "None of the above", "Value" : "0"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Education", "Value" : "10"},
 			{"Answer" : "Tourism", "Value" : "10"},
 			{"Answer" : "Technology", "Value" : "22"},
@@ -5206,7 +5195,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Other", "Value" : "1"},
 			{"Answer" : "None of the above", "Value" : "0"}
 		]},
-		{"Filter" : "Service", "Answers" : [
+		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "Education", "Value" : "9"},
 			{"Answer" : "Tourism", "Value" : "10"},
 			{"Answer" : "Technology", "Value" : "40"},
@@ -5217,7 +5206,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Other", "Value" : "0"},
 			{"Answer" : "None of the above", "Value" : "0"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Service", "Answers" : [
 			{"Answer" : "Education", "Value" : "12"},
 			{"Answer" : "Tourism", "Value" : "2"},
 			{"Answer" : "Technology", "Value" : "33"},
@@ -5226,6 +5215,17 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Green and sustainable energy", "Value" : "9"},
 			{"Answer" : "Manufacturing", "Value" : "12"},
 			{"Answer" : "Other", "Value" : "1"},
+			{"Answer" : "None of the above", "Value" : "0"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Education", "Value" : "9"},
+			{"Answer" : "Tourism", "Value" : "11"},
+			{"Answer" : "Technology", "Value" : "27"},
+			{"Answer" : "Transportation", "Value" : "2"},
+			{"Answer" : "Medical", "Value" : "27"},
+			{"Answer" : "Green and sustainable energy", "Value" : "7"},
+			{"Answer" : "Manufacturing", "Value" : "15"},
+			{"Answer" : "Other", "Value" : "2"},
 			{"Answer" : "None of the above", "Value" : "0"}
 		]}
 	]}
@@ -5257,114 +5257,114 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Excellent", "Value" : "0"},
-			{"Answer" : "Good", "Value" : "0"},
-			{"Answer" : "Fair", "Value" : "0"},
-			{"Answer" : "Poor", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "8"},
 			{"Answer" : "Good", "Value" : "42"},
 			{"Answer" : "Fair", "Value" : "37"},
 			{"Answer" : "Poor", "Value" : "14"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Roch", "Answers" : [
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "12"},
 			{"Answer" : "Good", "Value" : "38"},
 			{"Answer" : "Fair", "Value" : "33"},
 			{"Answer" : "Poor", "Value" : "16"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Syr", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "15"},
 			{"Answer" : "Good", "Value" : "44"},
 			{"Answer" : "Fair", "Value" : "35"},
 			{"Answer" : "Poor", "Value" : "6"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "14"},
 			{"Answer" : "Good", "Value" : "48"},
 			{"Answer" : "Fair", "Value" : "28"},
 			{"Answer" : "Poor", "Value" : "9"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]},
-		{"Filter" : "Middle", "Answers" : [
+		]}
+	]},
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "17"},
 			{"Answer" : "Good", "Value" : "41"},
 			{"Answer" : "Fair", "Value" : "30"},
 			{"Answer" : "Poor", "Value" : "11"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "9"},
 			{"Answer" : "Good", "Value" : "45"},
 			{"Answer" : "Fair", "Value" : "35"},
 			{"Answer" : "Poor", "Value" : "11"},
 			{"Answer" : "Refused", "Value" : "0"}
-		]}
-	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+		]},
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "11"},
 			{"Answer" : "Good", "Value" : "38"},
 			{"Answer" : "Fair", "Value" : "37"},
 			{"Answer" : "Poor", "Value" : "13"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		]}
+	]},
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "13"},
 			{"Answer" : "Good", "Value" : "44"},
 			{"Answer" : "Fair", "Value" : "33"},
 			{"Answer" : "Poor", "Value" : "10"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "10"},
 			{"Answer" : "Good", "Value" : "42"},
 			{"Answer" : "Fair", "Value" : "36"},
 			{"Answer" : "Poor", "Value" : "11"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]}
-	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+		]},
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "12"},
 			{"Answer" : "Good", "Value" : "38"},
 			{"Answer" : "Fair", "Value" : "36"},
 			{"Answer" : "Poor", "Value" : "14"},
 			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Manuf", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "18"},
 			{"Answer" : "Good", "Value" : "34"},
 			{"Answer" : "Fair", "Value" : "32"},
 			{"Answer" : "Poor", "Value" : "14"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "6"},
 			{"Answer" : "Good", "Value" : "36"},
 			{"Answer" : "Fair", "Value" : "44"},
 			{"Answer" : "Poor", "Value" : "13"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Service", "Answers" : [
+		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "12"},
 			{"Answer" : "Good", "Value" : "42"},
 			{"Answer" : "Fair", "Value" : "35"},
 			{"Answer" : "Poor", "Value" : "9"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Service", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "10"},
 			{"Answer" : "Good", "Value" : "46"},
 			{"Answer" : "Fair", "Value" : "31"},
 			{"Answer" : "Poor", "Value" : "12"},
+			{"Answer" : "Refused", "Value" : "0"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Excellent", "Value" : "8"},
+			{"Answer" : "Good", "Value" : "63"},
+			{"Answer" : "Fair", "Value" : "20"},
+			{"Answer" : "Poor", "Value" : "8"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]}
 	]}
@@ -5397,114 +5397,114 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "0"},
-			{"Answer" : "Good", "Value" : "0"},
-			{"Answer" : "Fair", "Value" : "0"},
-			{"Answer" : "Poor", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Excellent", "Value" : "0"},
 			{"Answer" : "Good", "Value" : "48"},
 			{"Answer" : "Fair", "Value" : "45"},
 			{"Answer" : "Poor", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Roch", "Answers" : [
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "3"},
 			{"Answer" : "Good", "Value" : "42"},
 			{"Answer" : "Fair", "Value" : "45"},
 			{"Answer" : "Poor", "Value" : "9"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Syr", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "3"},
 			{"Answer" : "Good", "Value" : "35"},
 			{"Answer" : "Fair", "Value" : "51"},
 			{"Answer" : "Poor", "Value" : "10"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "4"},
 			{"Answer" : "Good", "Value" : "19"},
 			{"Answer" : "Fair", "Value" : "59"},
 			{"Answer" : "Poor", "Value" : "15"},
 			{"Answer" : "Refused", "Value" : "3"}
-		]},
-		{"Filter" : "Middle", "Answers" : [
+		]}
+	]},
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "4"},
 			{"Answer" : "Good", "Value" : "46"},
 			{"Answer" : "Fair", "Value" : "45"},
 			{"Answer" : "Poor", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "2"},
 			{"Answer" : "Good", "Value" : "40"},
 			{"Answer" : "Fair", "Value" : "49"},
 			{"Answer" : "Poor", "Value" : "8"},
 			{"Answer" : "Refused", "Value" : "2"}
-		]}
-	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+		]},
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "1"},
 			{"Answer" : "Good", "Value" : "25"},
 			{"Answer" : "Fair", "Value" : "53"},
 			{"Answer" : "Poor", "Value" : "19"},
 			{"Answer" : "Refused", "Value" : "2"}
-		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		]}
+	]},
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "3"},
 			{"Answer" : "Good", "Value" : "38"},
 			{"Answer" : "Fair", "Value" : "48"},
 			{"Answer" : "Poor", "Value" : "10"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "0"},
 			{"Answer" : "Good", "Value" : "38"},
 			{"Answer" : "Fair", "Value" : "54"},
 			{"Answer" : "Poor", "Value" : "7"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]}
-	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+		]},
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "3"},
 			{"Answer" : "Good", "Value" : "40"},
 			{"Answer" : "Fair", "Value" : "46"},
 			{"Answer" : "Poor", "Value" : "8"},
 			{"Answer" : "Refused", "Value" : "3"}
-		]},
-		{"Filter" : "Manuf", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "5"},
 			{"Answer" : "Good", "Value" : "36"},
 			{"Answer" : "Fair", "Value" : "53"},
 			{"Answer" : "Poor", "Value" : "7"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "0"},
 			{"Answer" : "Good", "Value" : "36"},
 			{"Answer" : "Fair", "Value" : "49"},
 			{"Answer" : "Poor", "Value" : "12"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Service", "Answers" : [
+		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "5"},
 			{"Answer" : "Good", "Value" : "46"},
 			{"Answer" : "Fair", "Value" : "38"},
 			{"Answer" : "Poor", "Value" : "9"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Service", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "1"},
 			{"Answer" : "Good", "Value" : "40"},
 			{"Answer" : "Fair", "Value" : "49"},
 			{"Answer" : "Poor", "Value" : "10"},
 			{"Answer" : "Refused", "Value" : "1"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Excellent", "Value" : "2"},
+			{"Answer" : "Good", "Value" : "37"},
+			{"Answer" : "Fair", "Value" : "57"},
+			{"Answer" : "Poor", "Value" : "5"},
+			{"Answer" : "Refused", "Value" : "0"}
 		]}
 	]}
 ]},
@@ -5535,115 +5535,115 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Excellent", "Value" : "0"},
-			{"Answer" : "Good", "Value" : "0"},
-			{"Answer" : "Fair", "Value" : "0"},
-			{"Answer" : "Poor", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "1"},
 			{"Answer" : "Good", "Value" : "40"},
 			{"Answer" : "Fair", "Value" : "40"},
 			{"Answer" : "Poor", "Value" : "18"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Roch", "Answers" : [
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "5"},
 			{"Answer" : "Good", "Value" : "47"},
 			{"Answer" : "Fair", "Value" : "35"},
 			{"Answer" : "Poor", "Value" : "11"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Syr", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "4"},
 			{"Answer" : "Good", "Value" : "44"},
 			{"Answer" : "Fair", "Value" : "37"},
 			{"Answer" : "Poor", "Value" : "12"},
 			{"Answer" : "Refused", "Value" : "3"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "3"},
 			{"Answer" : "Good", "Value" : "19"},
 			{"Answer" : "Fair", "Value" : "54"},
 			{"Answer" : "Poor", "Value" : "22"},
 			{"Answer" : "Refused", "Value" : "3"}
-		]},
-		{"Filter" : "Middle", "Answers" : [
+		]}
+	]},
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "5"},
 			{"Answer" : "Good", "Value" : "42"},
 			{"Answer" : "Fair", "Value" : "36"},
 			{"Answer" : "Poor", "Value" : "16"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "3"},
 			{"Answer" : "Good", "Value" : "40"},
 			{"Answer" : "Fair", "Value" : "40"},
 			{"Answer" : "Poor", "Value" : "14"},
 			{"Answer" : "Refused", "Value" : "3"}
-		]}
-	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+		]},
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "4"},
 			{"Answer" : "Good", "Value" : "36"},
 			{"Answer" : "Fair", "Value" : "44"},
 			{"Answer" : "Poor", "Value" : "14"},
 			{"Answer" : "Refused", "Value" : "2"}
-		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		]}
+	]},
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "4"},
 			{"Answer" : "Good", "Value" : "41"},
 			{"Answer" : "Fair", "Value" : "36"},
 			{"Answer" : "Poor", "Value" : "17"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "2"},
 			{"Answer" : "Good", "Value" : "45"},
 			{"Answer" : "Fair", "Value" : "40"},
 			{"Answer" : "Poor", "Value" : "11"},
 			{"Answer" : "Refused", "Value" : "2"}
-		]}
-	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+		]},
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "2"},
 			{"Answer" : "Good", "Value" : "33"},
 			{"Answer" : "Fair", "Value" : "48"},
 			{"Answer" : "Poor", "Value" : "14"},
 			{"Answer" : "Refused", "Value" : "3"}
-		]},
-		{"Filter" : "Manuf", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "1"},
 			{"Answer" : "Good", "Value" : "38"},
 			{"Answer" : "Fair", "Value" : "39"},
 			{"Answer" : "Poor", "Value" : "21"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "6"},
 			{"Answer" : "Good", "Value" : "44"},
 			{"Answer" : "Fair", "Value" : "34"},
 			{"Answer" : "Poor", "Value" : "14"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Service", "Answers" : [
+		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "3"},
 			{"Answer" : "Good", "Value" : "52"},
 			{"Answer" : "Fair", "Value" : "32"},
 			{"Answer" : "Poor", "Value" : "11"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Service", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "3"},
 			{"Answer" : "Good", "Value" : "28"},
 			{"Answer" : "Fair", "Value" : "53"},
 			{"Answer" : "Poor", "Value" : "13"},
 			{"Answer" : "Refused", "Value" : "3"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Excellent", "Value" : "7"},
+			{"Answer" : "Good", "Value" : "42"},
+			{"Answer" : "Fair", "Value" : "37"},
+			{"Answer" : "Poor", "Value" : "13"},
+			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]}
 ]},
@@ -5674,115 +5674,115 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Excellent", "Value" : "0"},
-			{"Answer" : "Good", "Value" : "0"},
-			{"Answer" : "Fair", "Value" : "0"},
-			{"Answer" : "Poor", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "1"},
 			{"Answer" : "Good", "Value" : "31"},
 			{"Answer" : "Fair", "Value" : "53"},
 			{"Answer" : "Poor", "Value" : "13"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Roch", "Answers" : [
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "3"},
 			{"Answer" : "Good", "Value" : "24"},
 			{"Answer" : "Fair", "Value" : "47"},
 			{"Answer" : "Poor", "Value" : "23"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Syr", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "4"},
 			{"Answer" : "Good", "Value" : "27"},
 			{"Answer" : "Fair", "Value" : "50"},
 			{"Answer" : "Poor", "Value" : "14"},
 			{"Answer" : "Refused", "Value" : "4"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "1"},
 			{"Answer" : "Good", "Value" : "19"},
 			{"Answer" : "Fair", "Value" : "47"},
 			{"Answer" : "Poor", "Value" : "30"},
 			{"Answer" : "Refused", "Value" : "3"}
-		]},
-		{"Filter" : "Middle", "Answers" : [
+		]}
+	]},
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "6"},
 			{"Answer" : "Good", "Value" : "40"},
 			{"Answer" : "Fair", "Value" : "43"},
 			{"Answer" : "Poor", "Value" : "10"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "2"},
 			{"Answer" : "Good", "Value" : "28"},
 			{"Answer" : "Fair", "Value" : "50"},
 			{"Answer" : "Poor", "Value" : "17"},
 			{"Answer" : "Refused", "Value" : "4"}
-		]}
-	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+		]},
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "2"},
 			{"Answer" : "Good", "Value" : "8"},
 			{"Answer" : "Fair", "Value" : "55"},
 			{"Answer" : "Poor", "Value" : "33"},
 			{"Answer" : "Refused", "Value" : "3"}
-		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		]}
+	]},
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "3"},
 			{"Answer" : "Good", "Value" : "27"},
 			{"Answer" : "Fair", "Value" : "45"},
 			{"Answer" : "Poor", "Value" : "23"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "2"},
 			{"Answer" : "Good", "Value" : "22"},
 			{"Answer" : "Fair", "Value" : "61"},
 			{"Answer" : "Poor", "Value" : "13"},
 			{"Answer" : "Refused", "Value" : "3"}
-		]}
-	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+		]},
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "3"},
 			{"Answer" : "Good", "Value" : "29"},
 			{"Answer" : "Fair", "Value" : "50"},
 			{"Answer" : "Poor", "Value" : "14"},
 			{"Answer" : "Refused", "Value" : "3"}
-		]},
-		{"Filter" : "Manuf", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "5"},
 			{"Answer" : "Good", "Value" : "32"},
 			{"Answer" : "Fair", "Value" : "48"},
 			{"Answer" : "Poor", "Value" : "13"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "4"},
 			{"Answer" : "Good", "Value" : "21"},
 			{"Answer" : "Fair", "Value" : "43"},
 			{"Answer" : "Poor", "Value" : "29"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Service", "Answers" : [
+		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "2"},
 			{"Answer" : "Good", "Value" : "35"},
 			{"Answer" : "Fair", "Value" : "45"},
 			{"Answer" : "Poor", "Value" : "18"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Service", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "2"},
 			{"Answer" : "Good", "Value" : "25"},
 			{"Answer" : "Fair", "Value" : "51"},
 			{"Answer" : "Poor", "Value" : "19"},
 			{"Answer" : "Refused", "Value" : "3"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Excellent", "Value" : "2"},
+			{"Answer" : "Good", "Value" : "20"},
+			{"Answer" : "Fair", "Value" : "57"},
+			{"Answer" : "Poor", "Value" : "17"},
+			{"Answer" : "Refused", "Value" : "5"}
 		]}
 	]}
 ]},
@@ -5813,114 +5813,114 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Excellent", "Value" : "0"},
-			{"Answer" : "Good", "Value" : "0"},
-			{"Answer" : "Fair", "Value" : "0"},
-			{"Answer" : "Poor", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "9"},
 			{"Answer" : "Good", "Value" : "49"},
 			{"Answer" : "Fair", "Value" : "33"},
 			{"Answer" : "Poor", "Value" : "7"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Roch", "Answers" : [
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "11"},
 			{"Answer" : "Good", "Value" : "47"},
 			{"Answer" : "Fair", "Value" : "28"},
 			{"Answer" : "Poor", "Value" : "12"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Syr", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "12"},
 			{"Answer" : "Good", "Value" : "38"},
 			{"Answer" : "Fair", "Value" : "36"},
 			{"Answer" : "Poor", "Value" : "13"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "5"},
 			{"Answer" : "Good", "Value" : "37"},
 			{"Answer" : "Fair", "Value" : "35"},
 			{"Answer" : "Poor", "Value" : "20"},
 			{"Answer" : "Refused", "Value" : "3"}
-		]},
-		{"Filter" : "Middle", "Answers" : [
+		]}
+	]},
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "11"},
 			{"Answer" : "Good", "Value" : "53"},
 			{"Answer" : "Fair", "Value" : "26"},
 			{"Answer" : "Poor", "Value" : "9"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "10"},
 			{"Answer" : "Good", "Value" : "42"},
 			{"Answer" : "Fair", "Value" : "35"},
 			{"Answer" : "Poor", "Value" : "10"},
 			{"Answer" : "Refused", "Value" : "2"}
-		]}
-	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+		]},
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "8"},
 			{"Answer" : "Good", "Value" : "34"},
 			{"Answer" : "Fair", "Value" : "37"},
 			{"Answer" : "Poor", "Value" : "19"},
 			{"Answer" : "Refused", "Value" : "2"}
-		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		]}
+	]},
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "10"},
 			{"Answer" : "Good", "Value" : "43"},
 			{"Answer" : "Fair", "Value" : "29"},
 			{"Answer" : "Poor", "Value" : "15"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "6"},
 			{"Answer" : "Good", "Value" : "47"},
 			{"Answer" : "Fair", "Value" : "35"},
 			{"Answer" : "Poor", "Value" : "11"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]}
-	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+		]},
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "12"},
 			{"Answer" : "Good", "Value" : "41"},
 			{"Answer" : "Fair", "Value" : "39"},
 			{"Answer" : "Poor", "Value" : "7"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]},
-		{"Filter" : "Manuf", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "13"},
 			{"Answer" : "Good", "Value" : "47"},
 			{"Answer" : "Fair", "Value" : "31"},
 			{"Answer" : "Poor", "Value" : "9"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "10"},
 			{"Answer" : "Good", "Value" : "42"},
 			{"Answer" : "Fair", "Value" : "33"},
 			{"Answer" : "Poor", "Value" : "12"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "Service", "Answers" : [
+		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "9"},
 			{"Answer" : "Good", "Value" : "46"},
 			{"Answer" : "Fair", "Value" : "29"},
 			{"Answer" : "Poor", "Value" : "14"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Service", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "9"},
 			{"Answer" : "Good", "Value" : "39"},
 			{"Answer" : "Fair", "Value" : "38"},
 			{"Answer" : "Poor", "Value" : "14"},
+			{"Answer" : "Refused", "Value" : "0"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Excellent", "Value" : "8"},
+			{"Answer" : "Good", "Value" : "53"},
+			{"Answer" : "Fair", "Value" : "32"},
+			{"Answer" : "Poor", "Value" : "7"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]}
 	]}
@@ -5938,50 +5938,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Excellent", "Value" : "0"},
-			{"Answer" : "Good", "Value" : "0"},
-			{"Answer" : "Fair", "Value" : "0"},
-			{"Answer" : "Poor", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Excellent", "Value" : "0"},
-			{"Answer" : "Good", "Value" : "0"},
-			{"Answer" : "Fair", "Value" : "0"},
-			{"Answer" : "Poor", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Excellent", "Value" : "0"},
-			{"Answer" : "Good", "Value" : "0"},
-			{"Answer" : "Fair", "Value" : "0"},
-			{"Answer" : "Poor", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "3"},
 			{"Answer" : "Good", "Value" : "38"},
 			{"Answer" : "Fair", "Value" : "45"},
 			{"Answer" : "Poor", "Value" : "13"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "16"},
 			{"Answer" : "Good", "Value" : "66"},
 			{"Answer" : "Fair", "Value" : "16"},
 			{"Answer" : "Poor", "Value" : "2"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "4"},
 			{"Answer" : "Good", "Value" : "46"},
 			{"Answer" : "Fair", "Value" : "35"},
 			{"Answer" : "Poor", "Value" : "15"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "4"},
 			{"Answer" : "Good", "Value" : "30"},
 			{"Answer" : "Fair", "Value" : "25"},
@@ -5989,22 +5966,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Refused", "Value" : "4"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "10"},
 			{"Answer" : "Good", "Value" : "43"},
 			{"Answer" : "Fair", "Value" : "32"},
 			{"Answer" : "Poor", "Value" : "15"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "7"},
 			{"Answer" : "Good", "Value" : "48"},
 			{"Answer" : "Fair", "Value" : "32"},
 			{"Answer" : "Poor", "Value" : "12"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "6"},
 			{"Answer" : "Good", "Value" : "48"},
 			{"Answer" : "Fair", "Value" : "27"},
@@ -6012,41 +5989,64 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "8"},
 			{"Answer" : "Good", "Value" : "50"},
 			{"Answer" : "Fair", "Value" : "27"},
 			{"Answer" : "Poor", "Value" : "13"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "7"},
 			{"Answer" : "Good", "Value" : "44"},
 			{"Answer" : "Fair", "Value" : "33"},
 			{"Answer" : "Poor", "Value" : "15"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "6"},
 			{"Answer" : "Good", "Value" : "42"},
 			{"Answer" : "Fair", "Value" : "36"},
 			{"Answer" : "Poor", "Value" : "16"},
 			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "5"},
 			{"Answer" : "Good", "Value" : "48"},
 			{"Answer" : "Fair", "Value" : "30"},
 			{"Answer" : "Poor", "Value" : "17"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "8"},
 			{"Answer" : "Good", "Value" : "46"},
 			{"Answer" : "Fair", "Value" : "28"},
 			{"Answer" : "Poor", "Value" : "17"},
 			{"Answer" : "Refused", "Value" : "2"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Excellent", "Value" : "9"},
+			{"Answer" : "Good", "Value" : "57"},
+			{"Answer" : "Fair", "Value" : "23"},
+			{"Answer" : "Poor", "Value" : "11"},
+			{"Answer" : "Refused", "Value" : "0"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Excellent", "Value" : "10"},
+			{"Answer" : "Good", "Value" : "40"},
+			{"Answer" : "Fair", "Value" : "38"},
+			{"Answer" : "Poor", "Value" : "13"},
+			{"Answer" : "Refused", "Value" : "0"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Excellent", "Value" : "7"},
+			{"Answer" : "Good", "Value" : "50"},
+			{"Answer" : "Fair", "Value" : "35"},
+			{"Answer" : "Poor", "Value" : "8"},
+			{"Answer" : "Refused", "Value" : "0"}
 		]}
 	]}
 ]},
@@ -6063,50 +6063,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Excellent", "Value" : "0"},
-			{"Answer" : "Good", "Value" : "0"},
-			{"Answer" : "Fair", "Value" : "0"},
-			{"Answer" : "Poor", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Excellent", "Value" : "0"},
-			{"Answer" : "Good", "Value" : "0"},
-			{"Answer" : "Fair", "Value" : "0"},
-			{"Answer" : "Poor", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Excellent", "Value" : "0"},
-			{"Answer" : "Good", "Value" : "0"},
-			{"Answer" : "Fair", "Value" : "0"},
-			{"Answer" : "Poor", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "1"},
 			{"Answer" : "Good", "Value" : "17"},
 			{"Answer" : "Fair", "Value" : "35"},
 			{"Answer" : "Poor", "Value" : "42"},
 			{"Answer" : "Refused", "Value" : "6"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "5"},
 			{"Answer" : "Good", "Value" : "39"},
 			{"Answer" : "Fair", "Value" : "37"},
 			{"Answer" : "Poor", "Value" : "13"},
 			{"Answer" : "Refused", "Value" : "6"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "3"},
 			{"Answer" : "Good", "Value" : "27"},
 			{"Answer" : "Fair", "Value" : "44"},
 			{"Answer" : "Poor", "Value" : "22"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "5"},
 			{"Answer" : "Good", "Value" : "25"},
 			{"Answer" : "Fair", "Value" : "38"},
@@ -6114,22 +6091,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Refused", "Value" : "4"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "1"},
 			{"Answer" : "Good", "Value" : "27"},
 			{"Answer" : "Fair", "Value" : "41"},
 			{"Answer" : "Poor", "Value" : "26"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "3"},
 			{"Answer" : "Good", "Value" : "25"},
 			{"Answer" : "Fair", "Value" : "37"},
 			{"Answer" : "Poor", "Value" : "29"},
 			{"Answer" : "Refused", "Value" : "6"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "6"},
 			{"Answer" : "Good", "Value" : "32"},
 			{"Answer" : "Fair", "Value" : "38"},
@@ -6137,41 +6114,64 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Refused", "Value" : "4"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "4"},
 			{"Answer" : "Good", "Value" : "32"},
 			{"Answer" : "Fair", "Value" : "36"},
 			{"Answer" : "Poor", "Value" : "24"},
 			{"Answer" : "Refused", "Value" : "5"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "3"},
 			{"Answer" : "Good", "Value" : "25"},
 			{"Answer" : "Fair", "Value" : "45"},
 			{"Answer" : "Poor", "Value" : "21"},
 			{"Answer" : "Refused", "Value" : "7"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "2"},
 			{"Answer" : "Good", "Value" : "18"},
 			{"Answer" : "Fair", "Value" : "41"},
 			{"Answer" : "Poor", "Value" : "35"},
 			{"Answer" : "Refused", "Value" : "4"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "2"},
 			{"Answer" : "Good", "Value" : "29"},
 			{"Answer" : "Fair", "Value" : "40"},
 			{"Answer" : "Poor", "Value" : "25"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "2"},
 			{"Answer" : "Good", "Value" : "29"},
 			{"Answer" : "Fair", "Value" : "40"},
 			{"Answer" : "Poor", "Value" : "24"},
 			{"Answer" : "Refused", "Value" : "6"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Excellent", "Value" : "5"},
+			{"Answer" : "Good", "Value" : "31"},
+			{"Answer" : "Fair", "Value" : "45"},
+			{"Answer" : "Poor", "Value" : "17"},
+			{"Answer" : "Refused", "Value" : "3"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Excellent", "Value" : "3"},
+			{"Answer" : "Good", "Value" : "24"},
+			{"Answer" : "Fair", "Value" : "34"},
+			{"Answer" : "Poor", "Value" : "35"},
+			{"Answer" : "Refused", "Value" : "4"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Excellent", "Value" : "7"},
+			{"Answer" : "Good", "Value" : "28"},
+			{"Answer" : "Fair", "Value" : "37"},
+			{"Answer" : "Poor", "Value" : "28"},
+			{"Answer" : "Refused", "Value" : "0"}
 		]}
 	]}
 ]},
@@ -6188,50 +6188,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Excellent", "Value" : "0"},
-			{"Answer" : "Good", "Value" : "0"},
-			{"Answer" : "Fair", "Value" : "0"},
-			{"Answer" : "Poor", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Excellent", "Value" : "0"},
-			{"Answer" : "Good", "Value" : "0"},
-			{"Answer" : "Fair", "Value" : "0"},
-			{"Answer" : "Poor", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Excellent", "Value" : "0"},
-			{"Answer" : "Good", "Value" : "0"},
-			{"Answer" : "Fair", "Value" : "0"},
-			{"Answer" : "Poor", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "1"},
 			{"Answer" : "Good", "Value" : "17"},
 			{"Answer" : "Fair", "Value" : "49"},
 			{"Answer" : "Poor", "Value" : "31"},
 			{"Answer" : "Refused", "Value" : "2"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "3"},
 			{"Answer" : "Good", "Value" : "18"},
 			{"Answer" : "Fair", "Value" : "48"},
 			{"Answer" : "Poor", "Value" : "30"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "3"},
 			{"Answer" : "Good", "Value" : "18"},
 			{"Answer" : "Fair", "Value" : "47"},
 			{"Answer" : "Poor", "Value" : "28"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "1"},
 			{"Answer" : "Good", "Value" : "14"},
 			{"Answer" : "Fair", "Value" : "48"},
@@ -6239,22 +6216,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Refused", "Value" : "1"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "2"},
 			{"Answer" : "Good", "Value" : "23"},
 			{"Answer" : "Fair", "Value" : "52"},
 			{"Answer" : "Poor", "Value" : "22"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "2"},
 			{"Answer" : "Good", "Value" : "17"},
 			{"Answer" : "Fair", "Value" : "47"},
 			{"Answer" : "Poor", "Value" : "31"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "2"},
 			{"Answer" : "Good", "Value" : "10"},
 			{"Answer" : "Fair", "Value" : "45"},
@@ -6262,41 +6239,64 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Refused", "Value" : "3"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "2"},
 			{"Answer" : "Good", "Value" : "17"},
 			{"Answer" : "Fair", "Value" : "47"},
 			{"Answer" : "Poor", "Value" : "32"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "1"},
 			{"Answer" : "Good", "Value" : "18"},
 			{"Answer" : "Fair", "Value" : "51"},
 			{"Answer" : "Poor", "Value" : "27"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "4"},
 			{"Answer" : "Good", "Value" : "16"},
 			{"Answer" : "Fair", "Value" : "50"},
 			{"Answer" : "Poor", "Value" : "28"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "1"},
 			{"Answer" : "Good", "Value" : "25"},
 			{"Answer" : "Fair", "Value" : "45"},
 			{"Answer" : "Poor", "Value" : "26"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Excellent", "Value" : "5"},
 			{"Answer" : "Good", "Value" : "15"},
 			{"Answer" : "Fair", "Value" : "44"},
 			{"Answer" : "Poor", "Value" : "33"},
 			{"Answer" : "Refused", "Value" : "4"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Excellent", "Value" : "2"},
+			{"Answer" : "Good", "Value" : "17"},
+			{"Answer" : "Fair", "Value" : "60"},
+			{"Answer" : "Poor", "Value" : "20"},
+			{"Answer" : "Refused", "Value" : "2"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Excellent", "Value" : "1"},
+			{"Answer" : "Good", "Value" : "16"},
+			{"Answer" : "Fair", "Value" : "50"},
+			{"Answer" : "Poor", "Value" : "34"},
+			{"Answer" : "Refused", "Value" : "0"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Excellent", "Value" : "3"},
+			{"Answer" : "Good", "Value" : "12"},
+			{"Answer" : "Fair", "Value" : "47"},
+			{"Answer" : "Poor", "Value" : "37"},
+			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]}
 ]},
@@ -6324,100 +6324,100 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Positive impact", "Value" : "0"},
-			{"Answer" : "Negative impact", "Value" : "0"},
-			{"Answer" : "No impact", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Positive impact", "Value" : "4"},
 			{"Answer" : "Negative impact", "Value" : "76"},
 			{"Answer" : "No impact", "Value" : "18"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Roch", "Answers" : [
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Positive impact", "Value" : "5"},
 			{"Answer" : "Negative impact", "Value" : "76"},
 			{"Answer" : "No impact", "Value" : "18"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Syr", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Positive impact", "Value" : "8"},
 			{"Answer" : "Negative impact", "Value" : "71"},
 			{"Answer" : "No impact", "Value" : "21"},
+			{"Answer" : "Refused", "Value" : "0"}
+		]},
+		{"Filter" : "Syr", "Answers" : [
+			{"Answer" : "Positive impact", "Value" : "10"},
+			{"Answer" : "Negative impact", "Value" : "71"},
+			{"Answer" : "No impact", "Value" : "19"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]}
 	]},
 	{"Category" : "Cluster", "Filters" : [
 		{"Filter" : "High", "Answers" : [
-			{"Answer" : "Positive impact", "Value" : "10"},
-			{"Answer" : "Negative impact", "Value" : "71"},
-			{"Answer" : "No impact", "Value" : "19"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Positive impact", "Value" : "9"},
 			{"Answer" : "Negative impact", "Value" : "65"},
 			{"Answer" : "No impact", "Value" : "25"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Positive impact", "Value" : "8"},
 			{"Answer" : "Negative impact", "Value" : "74"},
 			{"Answer" : "No impact", "Value" : "18"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]}
-	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+		]},
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Positive impact", "Value" : "1"},
 			{"Answer" : "Negative impact", "Value" : "85"},
 			{"Answer" : "No impact", "Value" : "13"},
 			{"Answer" : "Refused", "Value" : "2"}
-		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		]}
+	]},
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Positive impact", "Value" : "8"},
 			{"Answer" : "Negative impact", "Value" : "68"},
 			{"Answer" : "No impact", "Value" : "24"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Positive impact", "Value" : "2"},
 			{"Answer" : "Negative impact", "Value" : "79"},
 			{"Answer" : "No impact", "Value" : "18"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]}
-	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+		]},
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Positive impact", "Value" : "8"},
 			{"Answer" : "Negative impact", "Value" : "79"},
 			{"Answer" : "No impact", "Value" : "11"},
 			{"Answer" : "Refused", "Value" : "2"}
-		]},
-		{"Filter" : "Manuf", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Positive impact", "Value" : "5"},
 			{"Answer" : "Negative impact", "Value" : "74"},
 			{"Answer" : "No impact", "Value" : "21"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Positive impact", "Value" : "6"},
 			{"Answer" : "Negative impact", "Value" : "75"},
 			{"Answer" : "No impact", "Value" : "20"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Service", "Answers" : [
+		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "Positive impact", "Value" : "8"},
 			{"Answer" : "Negative impact", "Value" : "75"},
 			{"Answer" : "No impact", "Value" : "17"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Service", "Answers" : [
 			{"Answer" : "Positive impact", "Value" : "10"},
 			{"Answer" : "Negative impact", "Value" : "75"},
 			{"Answer" : "No impact", "Value" : "15"},
 			{"Answer" : "Refused", "Value" : "0"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Positive impact", "Value" : "2"},
+			{"Answer" : "Negative impact", "Value" : "75"},
+			{"Answer" : "No impact", "Value" : "20"},
+			{"Answer" : "Refused", "Value" : "3"}
 		]}
 	]}
 ]},
@@ -6442,85 +6442,85 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Yes", "Value" : "0"},
-			{"Answer" : "No", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Yes", "Value" : "17"},
 			{"Answer" : "No", "Value" : "81"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Roch", "Answers" : [
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Yes", "Value" : "16"},
 			{"Answer" : "No", "Value" : "82"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Syr", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Yes", "Value" : "11"},
 			{"Answer" : "No", "Value" : "88"},
 			{"Answer" : "Refused", "Value" : "1"}
+		]},
+		{"Filter" : "Syr", "Answers" : [
+			{"Answer" : "Yes", "Value" : "11"},
+			{"Answer" : "No", "Value" : "86"},
+			{"Answer" : "Refused", "Value" : "3"}
 		]}
 	]},
 	{"Category" : "Cluster", "Filters" : [
 		{"Filter" : "High", "Answers" : [
-			{"Answer" : "Yes", "Value" : "11"},
-			{"Answer" : "No", "Value" : "86"},
-			{"Answer" : "Refused", "Value" : "3"}
-		]},
-		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Yes", "Value" : "18"},
 			{"Answer" : "No", "Value" : "79"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Yes", "Value" : "13"},
 			{"Answer" : "No", "Value" : "85"},
+			{"Answer" : "Refused", "Value" : "2"}
+		]},
+		{"Filter" : "Low", "Answers" : [
+			{"Answer" : "Yes", "Value" : "10"},
+			{"Answer" : "No", "Value" : "88"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]},
 	{"Category" : "Company Size", "Filters" : [
 		{"Filter" : "50 or less", "Answers" : [
-			{"Answer" : "Yes", "Value" : "10"},
-			{"Answer" : "No", "Value" : "88"},
-			{"Answer" : "Refused", "Value" : "2"}
-		]},
-		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Yes", "Value" : "15"},
 			{"Answer" : "No", "Value" : "84"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Yes", "Value" : "14"},
 			{"Answer" : "No", "Value" : "83"},
+			{"Answer" : "Refused", "Value" : "3"}
+		]},
+		{"Filter" : "More than 100", "Answers" : [
+			{"Answer" : "Yes", "Value" : "12"},
+			{"Answer" : "No", "Value" : "85"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]}
 	]},
 	{"Category" : "Industry", "Filters" : [
 		{"Filter" : "Eng & Constr", "Answers" : [
-			{"Answer" : "Yes", "Value" : "12"},
-			{"Answer" : "No", "Value" : "85"},
-			{"Answer" : "Refused", "Value" : "3"}
-		]},
-		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Yes", "Value" : "17"},
 			{"Answer" : "No", "Value" : "82"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Yes", "Value" : "16"},
 			{"Answer" : "No", "Value" : "81"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Service", "Answers" : [
+		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "Yes", "Value" : "12"},
 			{"Answer" : "No", "Value" : "86"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Service", "Answers" : [
 			{"Answer" : "Yes", "Value" : "13"},
 			{"Answer" : "No", "Value" : "85"},
 			{"Answer" : "Refused", "Value" : "1"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Yes", "Value" : "8"},
+			{"Answer" : "No", "Value" : "90"},
+			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]}
 ]},
@@ -6545,85 +6545,85 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Yes", "Value" : "0"},
-			{"Answer" : "No", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Yes", "Value" : "39"},
 			{"Answer" : "No", "Value" : "60"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Roch", "Answers" : [
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Yes", "Value" : "42"},
 			{"Answer" : "No", "Value" : "55"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Syr", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Yes", "Value" : "38"},
 			{"Answer" : "No", "Value" : "59"},
 			{"Answer" : "Refused", "Value" : "3"}
+		]},
+		{"Filter" : "Syr", "Answers" : [
+			{"Answer" : "Yes", "Value" : "42"},
+			{"Answer" : "No", "Value" : "57"},
+			{"Answer" : "Refused", "Value" : "1"}
 		]}
 	]},
 	{"Category" : "Cluster", "Filters" : [
 		{"Filter" : "High", "Answers" : [
-			{"Answer" : "Yes", "Value" : "42"},
-			{"Answer" : "No", "Value" : "57"},
-			{"Answer" : "Refused", "Value" : "1"}
-		]},
-		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Yes", "Value" : "25"},
 			{"Answer" : "No", "Value" : "71"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Yes", "Value" : "42"},
 			{"Answer" : "No", "Value" : "56"},
 			{"Answer" : "Refused", "Value" : "2"}
+		]},
+		{"Filter" : "Low", "Answers" : [
+			{"Answer" : "Yes", "Value" : "53"},
+			{"Answer" : "No", "Value" : "46"},
+			{"Answer" : "Refused", "Value" : "1"}
 		]}
 	]},
 	{"Category" : "Company Size", "Filters" : [
 		{"Filter" : "50 or less", "Answers" : [
-			{"Answer" : "Yes", "Value" : "53"},
-			{"Answer" : "No", "Value" : "46"},
-			{"Answer" : "Refused", "Value" : "1"}
-		]},
-		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Yes", "Value" : "36"},
 			{"Answer" : "No", "Value" : "62"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Yes", "Value" : "45"},
 			{"Answer" : "No", "Value" : "53"},
+			{"Answer" : "Refused", "Value" : "2"}
+		]},
+		{"Filter" : "More than 100", "Answers" : [
+			{"Answer" : "Yes", "Value" : "45"},
+			{"Answer" : "No", "Value" : "52"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]},
 	{"Category" : "Industry", "Filters" : [
 		{"Filter" : "Eng & Constr", "Answers" : [
-			{"Answer" : "Yes", "Value" : "45"},
-			{"Answer" : "No", "Value" : "52"},
-			{"Answer" : "Refused", "Value" : "2"}
-		]},
-		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Yes", "Value" : "44"},
 			{"Answer" : "No", "Value" : "54"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Yes", "Value" : "40"},
 			{"Answer" : "No", "Value" : "56"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "Service", "Answers" : [
+		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "Yes", "Value" : "40"},
 			{"Answer" : "No", "Value" : "58"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Service", "Answers" : [
 			{"Answer" : "Yes", "Value" : "40"},
 			{"Answer" : "No", "Value" : "60"},
 			{"Answer" : "Refused", "Value" : "1"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Yes", "Value" : "38"},
+			{"Answer" : "No", "Value" : "60"},
+			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]}
 ]},
@@ -6648,85 +6648,85 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Yes", "Value" : "0"},
-			{"Answer" : "No", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Yes", "Value" : "30"},
 			{"Answer" : "No", "Value" : "67"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Roch", "Answers" : [
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Yes", "Value" : "41"},
 			{"Answer" : "No", "Value" : "55"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Syr", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Yes", "Value" : "41"},
 			{"Answer" : "No", "Value" : "56"},
 			{"Answer" : "Refused", "Value" : "3"}
+		]},
+		{"Filter" : "Syr", "Answers" : [
+			{"Answer" : "Yes", "Value" : "35"},
+			{"Answer" : "No", "Value" : "59"},
+			{"Answer" : "Refused", "Value" : "5"}
 		]}
 	]},
 	{"Category" : "Cluster", "Filters" : [
 		{"Filter" : "High", "Answers" : [
-			{"Answer" : "Yes", "Value" : "35"},
-			{"Answer" : "No", "Value" : "59"},
-			{"Answer" : "Refused", "Value" : "5"}
-		]},
-		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Yes", "Value" : "33"},
 			{"Answer" : "No", "Value" : "64"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Yes", "Value" : "39"},
 			{"Answer" : "No", "Value" : "57"},
 			{"Answer" : "Refused", "Value" : "4"}
+		]},
+		{"Filter" : "Low", "Answers" : [
+			{"Answer" : "Yes", "Value" : "39"},
+			{"Answer" : "No", "Value" : "59"},
+			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]},
 	{"Category" : "Company Size", "Filters" : [
 		{"Filter" : "50 or less", "Answers" : [
-			{"Answer" : "Yes", "Value" : "39"},
-			{"Answer" : "No", "Value" : "59"},
-			{"Answer" : "Refused", "Value" : "2"}
-		]},
-		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Yes", "Value" : "35"},
 			{"Answer" : "No", "Value" : "62"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Yes", "Value" : "43"},
 			{"Answer" : "No", "Value" : "54"},
 			{"Answer" : "Refused", "Value" : "3"}
+		]},
+		{"Filter" : "More than 100", "Answers" : [
+			{"Answer" : "Yes", "Value" : "36"},
+			{"Answer" : "No", "Value" : "60"},
+			{"Answer" : "Refused", "Value" : "4"}
 		]}
 	]},
 	{"Category" : "Industry", "Filters" : [
 		{"Filter" : "Eng & Constr", "Answers" : [
-			{"Answer" : "Yes", "Value" : "36"},
-			{"Answer" : "No", "Value" : "60"},
-			{"Answer" : "Refused", "Value" : "4"}
-		]},
-		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Yes", "Value" : "39"},
 			{"Answer" : "No", "Value" : "57"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Yes", "Value" : "37"},
 			{"Answer" : "No", "Value" : "57"},
 			{"Answer" : "Refused", "Value" : "6"}
 		]},
-		{"Filter" : "Service", "Answers" : [
+		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "Yes", "Value" : "32"},
 			{"Answer" : "No", "Value" : "62"},
 			{"Answer" : "Refused", "Value" : "6"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Service", "Answers" : [
 			{"Answer" : "Yes", "Value" : "40"},
 			{"Answer" : "No", "Value" : "60"},
 			{"Answer" : "Refused", "Value" : "1"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Yes", "Value" : "40"},
+			{"Answer" : "No", "Value" : "60"},
+			{"Answer" : "Refused", "Value" : "0"}
 		]}
 	]}
 ]},
@@ -6751,85 +6751,85 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Yes", "Value" : "0"},
-			{"Answer" : "No", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Yes", "Value" : "13"},
 			{"Answer" : "No", "Value" : "85"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Roch", "Answers" : [
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Yes", "Value" : "36"},
 			{"Answer" : "No", "Value" : "62"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Syr", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Yes", "Value" : "28"},
 			{"Answer" : "No", "Value" : "71"},
 			{"Answer" : "Refused", "Value" : "2"}
+		]},
+		{"Filter" : "Syr", "Answers" : [
+			{"Answer" : "Yes", "Value" : "23"},
+			{"Answer" : "No", "Value" : "75"},
+			{"Answer" : "Refused", "Value" : "3"}
 		]}
 	]},
 	{"Category" : "Cluster", "Filters" : [
 		{"Filter" : "High", "Answers" : [
-			{"Answer" : "Yes", "Value" : "23"},
-			{"Answer" : "No", "Value" : "75"},
-			{"Answer" : "Refused", "Value" : "3"}
-		]},
-		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Yes", "Value" : "17"},
 			{"Answer" : "No", "Value" : "80"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Yes", "Value" : "21"},
 			{"Answer" : "No", "Value" : "77"},
+			{"Answer" : "Refused", "Value" : "2"}
+		]},
+		{"Filter" : "Low", "Answers" : [
+			{"Answer" : "Yes", "Value" : "43"},
+			{"Answer" : "No", "Value" : "56"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]},
 	{"Category" : "Company Size", "Filters" : [
 		{"Filter" : "50 or less", "Answers" : [
-			{"Answer" : "Yes", "Value" : "43"},
-			{"Answer" : "No", "Value" : "56"},
-			{"Answer" : "Refused", "Value" : "2"}
-		]},
-		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Yes", "Value" : "24"},
 			{"Answer" : "No", "Value" : "73"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Yes", "Value" : "16"},
 			{"Answer" : "No", "Value" : "83"},
 			{"Answer" : "Refused", "Value" : "1"}
+		]},
+		{"Filter" : "More than 100", "Answers" : [
+			{"Answer" : "Yes", "Value" : "34"},
+			{"Answer" : "No", "Value" : "64"},
+			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]},
 	{"Category" : "Industry", "Filters" : [
 		{"Filter" : "Eng & Constr", "Answers" : [
-			{"Answer" : "Yes", "Value" : "34"},
-			{"Answer" : "No", "Value" : "64"},
-			{"Answer" : "Refused", "Value" : "2"}
-		]},
-		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Yes", "Value" : "16"},
 			{"Answer" : "No", "Value" : "84"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Yes", "Value" : "21"},
 			{"Answer" : "No", "Value" : "75"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "Service", "Answers" : [
+		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "Yes", "Value" : "42"},
 			{"Answer" : "No", "Value" : "55"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Service", "Answers" : [
 			{"Answer" : "Yes", "Value" : "28"},
 			{"Answer" : "No", "Value" : "72"},
 			{"Answer" : "Refused", "Value" : "1"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Yes", "Value" : "22"},
+			{"Answer" : "No", "Value" : "77"},
+			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]}
 ]},
@@ -6854,85 +6854,85 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Yes", "Value" : "0"},
-			{"Answer" : "No", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Yes", "Value" : "13"},
 			{"Answer" : "No", "Value" : "86"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Roch", "Answers" : [
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Yes", "Value" : "22"},
 			{"Answer" : "No", "Value" : "76"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Syr", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Yes", "Value" : "19"},
 			{"Answer" : "No", "Value" : "79"},
 			{"Answer" : "Refused", "Value" : "2"}
+		]},
+		{"Filter" : "Syr", "Answers" : [
+			{"Answer" : "Yes", "Value" : "9"},
+			{"Answer" : "No", "Value" : "89"},
+			{"Answer" : "Refused", "Value" : "3"}
 		]}
 	]},
 	{"Category" : "Cluster", "Filters" : [
 		{"Filter" : "High", "Answers" : [
-			{"Answer" : "Yes", "Value" : "9"},
-			{"Answer" : "No", "Value" : "89"},
-			{"Answer" : "Refused", "Value" : "3"}
-		]},
-		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Yes", "Value" : "10"},
 			{"Answer" : "No", "Value" : "87"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Yes", "Value" : "12"},
 			{"Answer" : "No", "Value" : "86"},
+			{"Answer" : "Refused", "Value" : "2"}
+		]},
+		{"Filter" : "Low", "Answers" : [
+			{"Answer" : "Yes", "Value" : "33"},
+			{"Answer" : "No", "Value" : "66"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]},
 	{"Category" : "Company Size", "Filters" : [
 		{"Filter" : "50 or less", "Answers" : [
-			{"Answer" : "Yes", "Value" : "33"},
-			{"Answer" : "No", "Value" : "66"},
-			{"Answer" : "Refused", "Value" : "2"}
-		]},
-		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Yes", "Value" : "15"},
 			{"Answer" : "No", "Value" : "83"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Yes", "Value" : "12"},
 			{"Answer" : "No", "Value" : "86"},
 			{"Answer" : "Refused", "Value" : "2"}
+		]},
+		{"Filter" : "More than 100", "Answers" : [
+			{"Answer" : "Yes", "Value" : "22"},
+			{"Answer" : "No", "Value" : "75"},
+			{"Answer" : "Refused", "Value" : "3"}
 		]}
 	]},
 	{"Category" : "Industry", "Filters" : [
 		{"Filter" : "Eng & Constr", "Answers" : [
-			{"Answer" : "Yes", "Value" : "22"},
-			{"Answer" : "No", "Value" : "75"},
-			{"Answer" : "Refused", "Value" : "3"}
-		]},
-		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Yes", "Value" : "8"},
 			{"Answer" : "No", "Value" : "91"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Yes", "Value" : "11"},
 			{"Answer" : "No", "Value" : "86"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Service", "Answers" : [
+		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "Yes", "Value" : "34"},
 			{"Answer" : "No", "Value" : "65"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Service", "Answers" : [
 			{"Answer" : "Yes", "Value" : "19"},
 			{"Answer" : "No", "Value" : "80"},
 			{"Answer" : "Refused", "Value" : "1"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Yes", "Value" : "18"},
+			{"Answer" : "No", "Value" : "80"},
+			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]}
 ]},
@@ -6952,84 +6952,84 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Yes", "Value" : "0"},
-			{"Answer" : "No", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Yes", "Value" : "0"},
-			{"Answer" : "No", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Yes", "Value" : "5"},
 			{"Answer" : "No", "Value" : "93"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Syr", "Answers" : [
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Yes", "Value" : "10"},
 			{"Answer" : "No", "Value" : "87"},
 			{"Answer" : "Refused", "Value" : "3"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Yes", "Value" : "12"},
 			{"Answer" : "No", "Value" : "85"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Yes", "Value" : "5"},
 			{"Answer" : "No", "Value" : "91"},
 			{"Answer" : "Refused", "Value" : "4"}
-		]},
-		{"Filter" : "Low", "Answers" : [
+		]}
+	]},
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Yes", "Value" : "7"},
 			{"Answer" : "No", "Value" : "90"},
+			{"Answer" : "Refused", "Value" : "3"}
+		]},
+		{"Filter" : "Middle", "Answers" : [
+			{"Answer" : "Yes", "Value" : "6"},
+			{"Answer" : "No", "Value" : "91"},
+			{"Answer" : "Refused", "Value" : "3"}
+		]},
+		{"Filter" : "Low", "Answers" : [
+			{"Answer" : "Yes", "Value" : "16"},
+			{"Answer" : "No", "Value" : "81"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]}
 	]},
 	{"Category" : "Company Size", "Filters" : [
 		{"Filter" : "50 or less", "Answers" : [
-			{"Answer" : "Yes", "Value" : "6"},
-			{"Answer" : "No", "Value" : "91"},
+			{"Answer" : "Yes", "Value" : "9"},
+			{"Answer" : "No", "Value" : "88"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
 		{"Filter" : "51 to 100", "Answers" : [
-			{"Answer" : "Yes", "Value" : "16"},
-			{"Answer" : "No", "Value" : "81"},
+			{"Answer" : "Yes", "Value" : "4"},
+			{"Answer" : "No", "Value" : "93"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
 		{"Filter" : "More than 100", "Answers" : [
-			{"Answer" : "Yes", "Value" : "9"},
-			{"Answer" : "No", "Value" : "88"},
+			{"Answer" : "Yes", "Value" : "11"},
+			{"Answer" : "No", "Value" : "86"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]}
 	]},
 	{"Category" : "Industry", "Filters" : [
 		{"Filter" : "Eng & Constr", "Answers" : [
-			{"Answer" : "Yes", "Value" : "4"},
-			{"Answer" : "No", "Value" : "93"},
-			{"Answer" : "Refused", "Value" : "3"}
-		]},
-		{"Filter" : "Manuf", "Answers" : [
-			{"Answer" : "Yes", "Value" : "11"},
-			{"Answer" : "No", "Value" : "86"},
-			{"Answer" : "Refused", "Value" : "3"}
-		]},
-		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "Yes", "Value" : "8"},
 			{"Answer" : "No", "Value" : "91"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Service", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Yes", "Value" : "8"},
 			{"Answer" : "No", "Value" : "89"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "Yes", "Value" : "8"},
 			{"Answer" : "No", "Value" : "89"},
+			{"Answer" : "Refused", "Value" : "3"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Yes", "Value" : "9"},
+			{"Answer" : "No", "Value" : "88"},
+			{"Answer" : "Refused", "Value" : "3"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Yes", "Value" : "12"},
+			{"Answer" : "No", "Value" : "85"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]}
 	]}
@@ -7050,85 +7050,85 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Yes", "Value" : "0"},
-			{"Answer" : "No", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Yes", "Value" : "0"},
-			{"Answer" : "No", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Yes", "Value" : "3"},
 			{"Answer" : "No", "Value" : "93"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Syr", "Answers" : [
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Yes", "Value" : "7"},
 			{"Answer" : "No", "Value" : "89"},
 			{"Answer" : "Refused", "Value" : "4"}
+		]},
+		{"Filter" : "Roch", "Answers" : [
+			{"Answer" : "Yes", "Value" : "10"},
+			{"Answer" : "No", "Value" : "83"},
+			{"Answer" : "Refused", "Value" : "7"}
+		]},
+		{"Filter" : "Syr", "Answers" : [
+			{"Answer" : "Yes", "Value" : "3"},
+			{"Answer" : "No", "Value" : "91"},
+			{"Answer" : "Refused", "Value" : "6"}
 		]}
 	]},
 	{"Category" : "Cluster", "Filters" : [
 		{"Filter" : "High", "Answers" : [
-			{"Answer" : "Yes", "Value" : "10"},
-			{"Answer" : "No", "Value" : "83"},
-			{"Answer" : "Refused", "Value" : "7"}
-		]},
-		{"Filter" : "Middle", "Answers" : [
-			{"Answer" : "Yes", "Value" : "3"},
-			{"Answer" : "No", "Value" : "91"},
-			{"Answer" : "Refused", "Value" : "6"}
-		]},
-		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Yes", "Value" : "3"},
 			{"Answer" : "No", "Value" : "94"},
 			{"Answer" : "Refused", "Value" : "3"}
-		]}
-	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+		]},
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Yes", "Value" : "5"},
 			{"Answer" : "No", "Value" : "90"},
 			{"Answer" : "Refused", "Value" : "5"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Yes", "Value" : "13"},
 			{"Answer" : "No", "Value" : "79"},
 			{"Answer" : "Refused", "Value" : "8"}
-		]},
-		{"Filter" : "More than 100", "Answers" : [
+		]}
+	]},
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Yes", "Value" : "4"},
 			{"Answer" : "No", "Value" : "91"},
 			{"Answer" : "Refused", "Value" : "5"}
-		]}
-	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+		]},
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Yes", "Value" : "8"},
 			{"Answer" : "No", "Value" : "89"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Yes", "Value" : "10"},
 			{"Answer" : "No", "Value" : "83"},
 			{"Answer" : "Refused", "Value" : "7"}
-		]},
-		{"Filter" : "Retail", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Yes", "Value" : "6"},
 			{"Answer" : "No", "Value" : "92"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Service", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Yes", "Value" : "8"},
 			{"Answer" : "No", "Value" : "87"},
 			{"Answer" : "Refused", "Value" : "5"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "Yes", "Value" : "11"},
 			{"Answer" : "No", "Value" : "80"},
 			{"Answer" : "Refused", "Value" : "9"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Yes", "Value" : "7"},
+			{"Answer" : "No", "Value" : "88"},
+			{"Answer" : "Refused", "Value" : "5"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Yes", "Value" : "2"},
+			{"Answer" : "No", "Value" : "95"},
+			{"Answer" : "Refused", "Value" : "3"}
 		]}
 	]}
 ]},
@@ -7143,85 +7143,85 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Agree more with the Supporters", "Value" : "0"},
-			{"Answer" : "Agree more with the Critics", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Agree more with the Supporters", "Value" : "0"},
-			{"Answer" : "Agree more with the Critics", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Agree more with the Supporters", "Value" : "0"},
-			{"Answer" : "Agree more with the Critics", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Agree more with the Supporters", "Value" : "17"},
 			{"Answer" : "Agree more with the Critics", "Value" : "67"},
 			{"Answer" : "Don't know", "Value" : "16"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Agree more with the Supporters", "Value" : "11"},
 			{"Answer" : "Agree more with the Critics", "Value" : "74"},
 			{"Answer" : "Don't know", "Value" : "15"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Agree more with the Supporters", "Value" : "17"},
 			{"Answer" : "Agree more with the Critics", "Value" : "68"},
 			{"Answer" : "Don't know", "Value" : "15"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Agree more with the Supporters", "Value" : "20"},
 			{"Answer" : "Agree more with the Critics", "Value" : "63"},
 			{"Answer" : "Don't know", "Value" : "16"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Agree more with the Supporters", "Value" : "23"},
 			{"Answer" : "Agree more with the Critics", "Value" : "53"},
 			{"Answer" : "Don't know", "Value" : "25"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Agree more with the Supporters", "Value" : "15"},
 			{"Answer" : "Agree more with the Critics", "Value" : "71"},
 			{"Answer" : "Don't know", "Value" : "14"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Agree more with the Supporters", "Value" : "9"},
 			{"Answer" : "Agree more with the Critics", "Value" : "83"},
 			{"Answer" : "Don't know", "Value" : "9"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Agree more with the Supporters", "Value" : "17"},
 			{"Answer" : "Agree more with the Critics", "Value" : "68"},
 			{"Answer" : "Don't know", "Value" : "15"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Agree more with the Supporters", "Value" : "18"},
 			{"Answer" : "Agree more with the Critics", "Value" : "68"},
 			{"Answer" : "Don't know", "Value" : "15"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Agree more with the Supporters", "Value" : "14"},
 			{"Answer" : "Agree more with the Critics", "Value" : "69"},
 			{"Answer" : "Don't know", "Value" : "17"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Agree more with the Supporters", "Value" : "15"},
 			{"Answer" : "Agree more with the Critics", "Value" : "63"},
 			{"Answer" : "Don't know", "Value" : "22"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Agree more with the Supporters", "Value" : "17"},
 			{"Answer" : "Agree more with the Critics", "Value" : "67"},
 			{"Answer" : "Don't know", "Value" : "16"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Agree more with the Supporters", "Value" : "18"},
+			{"Answer" : "Agree more with the Critics", "Value" : "66"},
+			{"Answer" : "Don't know", "Value" : "15"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Agree more with the Supporters", "Value" : "19"},
+			{"Answer" : "Agree more with the Critics", "Value" : "69"},
+			{"Answer" : "Don't know", "Value" : "12"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Agree more with the Supporters", "Value" : "8"},
+			{"Answer" : "Agree more with the Critics", "Value" : "75"},
+			{"Answer" : "Don't know", "Value" : "17"}
 		]}
 	]}
 ]},
@@ -7236,85 +7236,85 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Support", "Value" : "13"},
 			{"Answer" : "Oppose", "Value" : "81"},
 			{"Answer" : "No opinion", "Value" : "6"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Support", "Value" : "1"},
 			{"Answer" : "Oppose", "Value" : "95"},
 			{"Answer" : "No opinion", "Value" : "4"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Support", "Value" : "7"},
 			{"Answer" : "Oppose", "Value" : "90"},
 			{"Answer" : "No opinion", "Value" : "3"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Support", "Value" : "8"},
 			{"Answer" : "Oppose", "Value" : "90"},
 			{"Answer" : "No opinion", "Value" : "3"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Support", "Value" : "12"},
 			{"Answer" : "Oppose", "Value" : "81"},
 			{"Answer" : "No opinion", "Value" : "8"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Support", "Value" : "7"},
 			{"Answer" : "Oppose", "Value" : "90"},
 			{"Answer" : "No opinion", "Value" : "4"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Support", "Value" : "2"},
 			{"Answer" : "Oppose", "Value" : "97"},
 			{"Answer" : "No opinion", "Value" : "1"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Support", "Value" : "7"},
 			{"Answer" : "Oppose", "Value" : "89"},
 			{"Answer" : "No opinion", "Value" : "4"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Support", "Value" : "8"},
 			{"Answer" : "Oppose", "Value" : "90"},
 			{"Answer" : "No opinion", "Value" : "2"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Support", "Value" : "7"},
 			{"Answer" : "Oppose", "Value" : "87"},
 			{"Answer" : "No opinion", "Value" : "6"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Support", "Value" : "11"},
 			{"Answer" : "Oppose", "Value" : "84"},
 			{"Answer" : "No opinion", "Value" : "5"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Support", "Value" : "4"},
 			{"Answer" : "Oppose", "Value" : "92"},
 			{"Answer" : "No opinion", "Value" : "4"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Support", "Value" : "5"},
+			{"Answer" : "Oppose", "Value" : "88"},
+			{"Answer" : "No opinion", "Value" : "8"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Support", "Value" : "11"},
+			{"Answer" : "Oppose", "Value" : "89"},
+			{"Answer" : "No opinion", "Value" : "0"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Support", "Value" : "5"},
+			{"Answer" : "Oppose", "Value" : "88"},
+			{"Answer" : "No opinion", "Value" : "7"}
 		]}
 	]}
 ]},
@@ -7329,85 +7329,85 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Support", "Value" : "15"},
 			{"Answer" : "Oppose", "Value" : "78"},
 			{"Answer" : "No opinion", "Value" : "8"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Support", "Value" : "3"},
 			{"Answer" : "Oppose", "Value" : "91"},
 			{"Answer" : "No opinion", "Value" : "5"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Support", "Value" : "7"},
 			{"Answer" : "Oppose", "Value" : "90"},
 			{"Answer" : "No opinion", "Value" : "3"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Support", "Value" : "8"},
 			{"Answer" : "Oppose", "Value" : "90"},
 			{"Answer" : "No opinion", "Value" : "3"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Support", "Value" : "13"},
 			{"Answer" : "Oppose", "Value" : "80"},
 			{"Answer" : "No opinion", "Value" : "7"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Support", "Value" : "8"},
 			{"Answer" : "Oppose", "Value" : "88"},
 			{"Answer" : "No opinion", "Value" : "4"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Support", "Value" : "2"},
 			{"Answer" : "Oppose", "Value" : "95"},
 			{"Answer" : "No opinion", "Value" : "3"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Support", "Value" : "9"},
 			{"Answer" : "Oppose", "Value" : "87"},
 			{"Answer" : "No opinion", "Value" : "4"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Support", "Value" : "9"},
 			{"Answer" : "Oppose", "Value" : "87"},
 			{"Answer" : "No opinion", "Value" : "4"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Support", "Value" : "6"},
 			{"Answer" : "Oppose", "Value" : "87"},
 			{"Answer" : "No opinion", "Value" : "7"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Support", "Value" : "11"},
 			{"Answer" : "Oppose", "Value" : "83"},
 			{"Answer" : "No opinion", "Value" : "6"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Support", "Value" : "6"},
 			{"Answer" : "Oppose", "Value" : "89"},
 			{"Answer" : "No opinion", "Value" : "5"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Support", "Value" : "3"},
+			{"Answer" : "Oppose", "Value" : "89"},
+			{"Answer" : "No opinion", "Value" : "8"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Support", "Value" : "13"},
+			{"Answer" : "Oppose", "Value" : "84"},
+			{"Answer" : "No opinion", "Value" : "3"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Support", "Value" : "5"},
+			{"Answer" : "Oppose", "Value" : "93"},
+			{"Answer" : "No opinion", "Value" : "2"}
 		]}
 	]}
 ]},
@@ -7422,85 +7422,85 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Support", "Value" : "22"},
 			{"Answer" : "Oppose", "Value" : "56"},
 			{"Answer" : "No opinion", "Value" : "22"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Support", "Value" : "19"},
 			{"Answer" : "Oppose", "Value" : "64"},
 			{"Answer" : "No opinion", "Value" : "17"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Support", "Value" : "21"},
 			{"Answer" : "Oppose", "Value" : "56"},
 			{"Answer" : "No opinion", "Value" : "22"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Support", "Value" : "22"},
 			{"Answer" : "Oppose", "Value" : "58"},
 			{"Answer" : "No opinion", "Value" : "20"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Support", "Value" : "23"},
 			{"Answer" : "Oppose", "Value" : "51"},
 			{"Answer" : "No opinion", "Value" : "26"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Support", "Value" : "18"},
 			{"Answer" : "Oppose", "Value" : "59"},
 			{"Answer" : "No opinion", "Value" : "22"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Support", "Value" : "21"},
 			{"Answer" : "Oppose", "Value" : "67"},
 			{"Answer" : "No opinion", "Value" : "11"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Support", "Value" : "22"},
 			{"Answer" : "Oppose", "Value" : "60"},
 			{"Answer" : "No opinion", "Value" : "18"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Support", "Value" : "18"},
 			{"Answer" : "Oppose", "Value" : "62"},
 			{"Answer" : "No opinion", "Value" : "21"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Support", "Value" : "20"},
 			{"Answer" : "Oppose", "Value" : "53"},
 			{"Answer" : "No opinion", "Value" : "27"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Support", "Value" : "22"},
 			{"Answer" : "Oppose", "Value" : "55"},
 			{"Answer" : "No opinion", "Value" : "23"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Support", "Value" : "19"},
 			{"Answer" : "Oppose", "Value" : "66"},
 			{"Answer" : "No opinion", "Value" : "15"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Support", "Value" : "20"},
+			{"Answer" : "Oppose", "Value" : "54"},
+			{"Answer" : "No opinion", "Value" : "26"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Support", "Value" : "20"},
+			{"Answer" : "Oppose", "Value" : "57"},
+			{"Answer" : "No opinion", "Value" : "23"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Support", "Value" : "25"},
+			{"Answer" : "Oppose", "Value" : "62"},
+			{"Answer" : "No opinion", "Value" : "13"}
 		]}
 	]}
 ]},
@@ -7515,85 +7515,85 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Support", "Value" : "92"},
 			{"Answer" : "Oppose", "Value" : "1"},
 			{"Answer" : "No opinion", "Value" : "6"}
+		]},
+		{"Filter" : "Buff", "Answers" : [
+			{"Answer" : "Support", "Value" : "91"},
+			{"Answer" : "Oppose", "Value" : "4"},
+			{"Answer" : "No opinion", "Value" : "5"}
+		]},
+		{"Filter" : "Roch", "Answers" : [
+			{"Answer" : "Support", "Value" : "93"},
+			{"Answer" : "Oppose", "Value" : "2"},
+			{"Answer" : "No opinion", "Value" : "5"}
+		]},
+		{"Filter" : "Syr", "Answers" : [
+			{"Answer" : "Support", "Value" : "91"},
+			{"Answer" : "Oppose", "Value" : "1"},
+			{"Answer" : "No opinion", "Value" : "8"}
 		]}
 	]},
 	{"Category" : "Cluster", "Filters" : [
 		{"Filter" : "High", "Answers" : [
-			{"Answer" : "Support", "Value" : "91"},
-			{"Answer" : "Oppose", "Value" : "4"},
-			{"Answer" : "No opinion", "Value" : "5"}
-		]},
-		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Support", "Value" : "93"},
 			{"Answer" : "Oppose", "Value" : "2"},
 			{"Answer" : "No opinion", "Value" : "5"}
 		]},
-		{"Filter" : "Low", "Answers" : [
-			{"Answer" : "Support", "Value" : "91"},
-			{"Answer" : "Oppose", "Value" : "1"},
+		{"Filter" : "Middle", "Answers" : [
+			{"Answer" : "Support", "Value" : "89"},
+			{"Answer" : "Oppose", "Value" : "3"},
 			{"Answer" : "No opinion", "Value" : "8"}
+		]},
+		{"Filter" : "Low", "Answers" : [
+			{"Answer" : "Support", "Value" : "97"},
+			{"Answer" : "Oppose", "Value" : "1"},
+			{"Answer" : "No opinion", "Value" : "2"}
 		]}
 	]},
 	{"Category" : "Company Size", "Filters" : [
 		{"Filter" : "50 or less", "Answers" : [
-			{"Answer" : "Support", "Value" : "93"},
-			{"Answer" : "Oppose", "Value" : "2"},
-			{"Answer" : "No opinion", "Value" : "5"}
-		]},
-		{"Filter" : "51 to 100", "Answers" : [
-			{"Answer" : "Support", "Value" : "89"},
-			{"Answer" : "Oppose", "Value" : "3"},
-			{"Answer" : "No opinion", "Value" : "8"}
-		]},
-		{"Filter" : "More than 100", "Answers" : [
-			{"Answer" : "Support", "Value" : "97"},
-			{"Answer" : "Oppose", "Value" : "1"},
-			{"Answer" : "No opinion", "Value" : "2"}
-		]}
-	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Support", "Value" : "95"},
 			{"Answer" : "Oppose", "Value" : "1"},
 			{"Answer" : "No opinion", "Value" : "4"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Support", "Value" : "90"},
 			{"Answer" : "Oppose", "Value" : "4"},
 			{"Answer" : "No opinion", "Value" : "6"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Support", "Value" : "88"},
 			{"Answer" : "Oppose", "Value" : "3"},
 			{"Answer" : "No opinion", "Value" : "8"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Support", "Value" : "97"},
 			{"Answer" : "Oppose", "Value" : "1"},
 			{"Answer" : "No opinion", "Value" : "2"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Support", "Value" : "89"},
 			{"Answer" : "Oppose", "Value" : "5"},
 			{"Answer" : "No opinion", "Value" : "6"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Support", "Value" : "94"},
+			{"Answer" : "Oppose", "Value" : "0"},
+			{"Answer" : "No opinion", "Value" : "6"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Support", "Value" : "90"},
+			{"Answer" : "Oppose", "Value" : "2"},
+			{"Answer" : "No opinion", "Value" : "7"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Support", "Value" : "100"},
+			{"Answer" : "Oppose", "Value" : "0"},
+			{"Answer" : "No opinion", "Value" : "0"}
 		]}
 	]}
 ]},
@@ -7608,84 +7608,84 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Support", "Value" : "0"},
-			{"Answer" : "Oppose", "Value" : "0"},
-			{"Answer" : "No opinion", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Support", "Value" : "14"},
 			{"Answer" : "Oppose", "Value" : "74"},
 			{"Answer" : "No opinion", "Value" : "13"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Support", "Value" : "5"},
 			{"Answer" : "Oppose", "Value" : "83"},
 			{"Answer" : "No opinion", "Value" : "11"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Support", "Value" : "12"},
 			{"Answer" : "Oppose", "Value" : "78"},
 			{"Answer" : "No opinion", "Value" : "11"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Support", "Value" : "16"},
 			{"Answer" : "Oppose", "Value" : "76"},
 			{"Answer" : "No opinion", "Value" : "8"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Support", "Value" : "17"},
 			{"Answer" : "Oppose", "Value" : "74"},
 			{"Answer" : "No opinion", "Value" : "9"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Support", "Value" : "11"},
 			{"Answer" : "Oppose", "Value" : "75"},
 			{"Answer" : "No opinion", "Value" : "14"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Support", "Value" : "5"},
 			{"Answer" : "Oppose", "Value" : "88"},
 			{"Answer" : "No opinion", "Value" : "7"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Support", "Value" : "11"},
 			{"Answer" : "Oppose", "Value" : "79"},
 			{"Answer" : "No opinion", "Value" : "10"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Support", "Value" : "11"},
 			{"Answer" : "Oppose", "Value" : "81"},
 			{"Answer" : "No opinion", "Value" : "8"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Support", "Value" : "12"},
 			{"Answer" : "Oppose", "Value" : "73"},
 			{"Answer" : "No opinion", "Value" : "15"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Support", "Value" : "13"},
 			{"Answer" : "Oppose", "Value" : "77"},
 			{"Answer" : "No opinion", "Value" : "10"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Support", "Value" : "7"},
 			{"Answer" : "Oppose", "Value" : "83"},
+			{"Answer" : "No opinion", "Value" : "10"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Support", "Value" : "8"},
+			{"Answer" : "Oppose", "Value" : "85"},
+			{"Answer" : "No opinion", "Value" : "8"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Support", "Value" : "16"},
+			{"Answer" : "Oppose", "Value" : "70"},
+			{"Answer" : "No opinion", "Value" : "13"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Support", "Value" : "12"},
+			{"Answer" : "Oppose", "Value" : "78"},
 			{"Answer" : "No opinion", "Value" : "10"}
 		]}
 	]}
@@ -7703,50 +7703,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "25"},
 			{"Answer" : "Somewhat", "Value" : "27"},
 			{"Answer" : "Not very", "Value" : "30"},
 			{"Answer" : "Not at all", "Value" : "13"},
 			{"Answer" : "Don't know", "Value" : "5"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Very", "Value" : "20"},
 			{"Answer" : "Somewhat", "Value" : "34"},
 			{"Answer" : "Not very", "Value" : "31"},
 			{"Answer" : "Not at all", "Value" : "7"},
 			{"Answer" : "Don't know", "Value" : "8"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Very", "Value" : "17"},
 			{"Answer" : "Somewhat", "Value" : "33"},
 			{"Answer" : "Not very", "Value" : "26"},
 			{"Answer" : "Not at all", "Value" : "11"},
 			{"Answer" : "Don't know", "Value" : "13"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "25"},
 			{"Answer" : "Somewhat", "Value" : "33"},
 			{"Answer" : "Not very", "Value" : "28"},
@@ -7754,22 +7731,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "10"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Very", "Value" : "25"},
 			{"Answer" : "Somewhat", "Value" : "35"},
 			{"Answer" : "Not very", "Value" : "23"},
 			{"Answer" : "Not at all", "Value" : "8"},
 			{"Answer" : "Don't know", "Value" : "8"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Very", "Value" : "20"},
 			{"Answer" : "Somewhat", "Value" : "31"},
 			{"Answer" : "Not very", "Value" : "33"},
 			{"Answer" : "Not at all", "Value" : "8"},
 			{"Answer" : "Don't know", "Value" : "8"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Very", "Value" : "17"},
 			{"Answer" : "Somewhat", "Value" : "29"},
 			{"Answer" : "Not very", "Value" : "26"},
@@ -7777,41 +7754,64 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "13"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Very", "Value" : "21"},
 			{"Answer" : "Somewhat", "Value" : "31"},
 			{"Answer" : "Not very", "Value" : "28"},
 			{"Answer" : "Not at all", "Value" : "10"},
 			{"Answer" : "Don't know", "Value" : "10"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "21"},
 			{"Answer" : "Somewhat", "Value" : "32"},
 			{"Answer" : "Not very", "Value" : "32"},
 			{"Answer" : "Not at all", "Value" : "8"},
 			{"Answer" : "Don't know", "Value" : "7"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "22"},
 			{"Answer" : "Somewhat", "Value" : "33"},
 			{"Answer" : "Not very", "Value" : "28"},
 			{"Answer" : "Not at all", "Value" : "8"},
 			{"Answer" : "Don't know", "Value" : "10"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Very", "Value" : "47"},
 			{"Answer" : "Somewhat", "Value" : "30"},
 			{"Answer" : "Not very", "Value" : "10"},
 			{"Answer" : "Not at all", "Value" : "3"},
 			{"Answer" : "Don't know", "Value" : "9"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Very", "Value" : "16"},
 			{"Answer" : "Somewhat", "Value" : "29"},
 			{"Answer" : "Not very", "Value" : "39"},
 			{"Answer" : "Not at all", "Value" : "9"},
 			{"Answer" : "Don't know", "Value" : "8"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Very", "Value" : "15"},
+			{"Answer" : "Somewhat", "Value" : "34"},
+			{"Answer" : "Not very", "Value" : "32"},
+			{"Answer" : "Not at all", "Value" : "9"},
+			{"Answer" : "Don't know", "Value" : "9"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Very", "Value" : "18"},
+			{"Answer" : "Somewhat", "Value" : "34"},
+			{"Answer" : "Not very", "Value" : "28"},
+			{"Answer" : "Not at all", "Value" : "13"},
+			{"Answer" : "Don't know", "Value" : "7"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Very", "Value" : "17"},
+			{"Answer" : "Somewhat", "Value" : "35"},
+			{"Answer" : "Not very", "Value" : "28"},
+			{"Answer" : "Not at all", "Value" : "8"},
+			{"Answer" : "Don't know", "Value" : "12"}
 		]}
 	]}
 ]},
@@ -7828,50 +7828,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "15"},
 			{"Answer" : "Somewhat", "Value" : "27"},
 			{"Answer" : "Not very", "Value" : "40"},
 			{"Answer" : "Not at all", "Value" : "17"},
 			{"Answer" : "Don't know", "Value" : "1"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Very", "Value" : "18"},
 			{"Answer" : "Somewhat", "Value" : "33"},
 			{"Answer" : "Not very", "Value" : "34"},
 			{"Answer" : "Not at all", "Value" : "14"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Very", "Value" : "13"},
 			{"Answer" : "Somewhat", "Value" : "34"},
 			{"Answer" : "Not very", "Value" : "34"},
 			{"Answer" : "Not at all", "Value" : "16"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "16"},
 			{"Answer" : "Somewhat", "Value" : "32"},
 			{"Answer" : "Not very", "Value" : "42"},
@@ -7879,22 +7856,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "0"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Very", "Value" : "19"},
 			{"Answer" : "Somewhat", "Value" : "31"},
 			{"Answer" : "Not very", "Value" : "32"},
 			{"Answer" : "Not at all", "Value" : "17"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Very", "Value" : "15"},
 			{"Answer" : "Somewhat", "Value" : "31"},
 			{"Answer" : "Not very", "Value" : "41"},
 			{"Answer" : "Not at all", "Value" : "12"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Very", "Value" : "13"},
 			{"Answer" : "Somewhat", "Value" : "33"},
 			{"Answer" : "Not very", "Value" : "33"},
@@ -7902,41 +7879,64 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "2"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Very", "Value" : "17"},
 			{"Answer" : "Somewhat", "Value" : "31"},
 			{"Answer" : "Not very", "Value" : "35"},
 			{"Answer" : "Not at all", "Value" : "17"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "11"},
 			{"Answer" : "Somewhat", "Value" : "29"},
 			{"Answer" : "Not very", "Value" : "45"},
 			{"Answer" : "Not at all", "Value" : "13"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "16"},
 			{"Answer" : "Somewhat", "Value" : "36"},
 			{"Answer" : "Not very", "Value" : "35"},
 			{"Answer" : "Not at all", "Value" : "12"},
 			{"Answer" : "Don't know", "Value" : "1"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Very", "Value" : "29"},
 			{"Answer" : "Somewhat", "Value" : "33"},
 			{"Answer" : "Not very", "Value" : "30"},
 			{"Answer" : "Not at all", "Value" : "7"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Very", "Value" : "10"},
 			{"Answer" : "Somewhat", "Value" : "22"},
 			{"Answer" : "Not very", "Value" : "46"},
 			{"Answer" : "Not at all", "Value" : "21"},
 			{"Answer" : "Don't know", "Value" : "1"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Very", "Value" : "17"},
+			{"Answer" : "Somewhat", "Value" : "37"},
+			{"Answer" : "Not very", "Value" : "34"},
+			{"Answer" : "Not at all", "Value" : "11"},
+			{"Answer" : "Don't know", "Value" : "2"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Very", "Value" : "12"},
+			{"Answer" : "Somewhat", "Value" : "32"},
+			{"Answer" : "Not very", "Value" : "36"},
+			{"Answer" : "Not at all", "Value" : "20"},
+			{"Answer" : "Don't know", "Value" : "0"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Very", "Value" : "20"},
+			{"Answer" : "Somewhat", "Value" : "33"},
+			{"Answer" : "Not very", "Value" : "37"},
+			{"Answer" : "Not at all", "Value" : "7"},
+			{"Answer" : "Don't know", "Value" : "3"}
 		]}
 	]}
 ]},
@@ -7953,50 +7953,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "8"},
 			{"Answer" : "Somewhat", "Value" : "28"},
 			{"Answer" : "Not very", "Value" : "44"},
 			{"Answer" : "Not at all", "Value" : "18"},
 			{"Answer" : "Don't know", "Value" : "2"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Very", "Value" : "11"},
 			{"Answer" : "Somewhat", "Value" : "26"},
 			{"Answer" : "Not very", "Value" : "41"},
 			{"Answer" : "Not at all", "Value" : "20"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Very", "Value" : "6"},
 			{"Answer" : "Somewhat", "Value" : "27"},
 			{"Answer" : "Not very", "Value" : "44"},
 			{"Answer" : "Not at all", "Value" : "20"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "10"},
 			{"Answer" : "Somewhat", "Value" : "34"},
 			{"Answer" : "Not very", "Value" : "39"},
@@ -8004,22 +7981,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "0"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Very", "Value" : "10"},
 			{"Answer" : "Somewhat", "Value" : "25"},
 			{"Answer" : "Not very", "Value" : "43"},
 			{"Answer" : "Not at all", "Value" : "20"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Very", "Value" : "8"},
 			{"Answer" : "Somewhat", "Value" : "28"},
 			{"Answer" : "Not very", "Value" : "44"},
 			{"Answer" : "Not at all", "Value" : "18"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Very", "Value" : "10"},
 			{"Answer" : "Somewhat", "Value" : "31"},
 			{"Answer" : "Not very", "Value" : "37"},
@@ -8027,41 +8004,64 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "2"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Very", "Value" : "11"},
 			{"Answer" : "Somewhat", "Value" : "28"},
 			{"Answer" : "Not very", "Value" : "43"},
 			{"Answer" : "Not at all", "Value" : "15"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "3"},
 			{"Answer" : "Somewhat", "Value" : "35"},
 			{"Answer" : "Not very", "Value" : "39"},
 			{"Answer" : "Not at all", "Value" : "19"},
 			{"Answer" : "Don't know", "Value" : "4"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "7"},
 			{"Answer" : "Somewhat", "Value" : "22"},
 			{"Answer" : "Not very", "Value" : "45"},
 			{"Answer" : "Not at all", "Value" : "24"},
 			{"Answer" : "Don't know", "Value" : "1"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Very", "Value" : "3"},
 			{"Answer" : "Somewhat", "Value" : "32"},
 			{"Answer" : "Not very", "Value" : "51"},
 			{"Answer" : "Not at all", "Value" : "10"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Very", "Value" : "9"},
 			{"Answer" : "Somewhat", "Value" : "33"},
 			{"Answer" : "Not very", "Value" : "43"},
 			{"Answer" : "Not at all", "Value" : "15"},
 			{"Answer" : "Don't know", "Value" : "1"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Very", "Value" : "8"},
+			{"Answer" : "Somewhat", "Value" : "32"},
+			{"Answer" : "Not very", "Value" : "40"},
+			{"Answer" : "Not at all", "Value" : "15"},
+			{"Answer" : "Don't know", "Value" : "5"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Very", "Value" : "8"},
+			{"Answer" : "Somewhat", "Value" : "20"},
+			{"Answer" : "Not very", "Value" : "37"},
+			{"Answer" : "Not at all", "Value" : "33"},
+			{"Answer" : "Don't know", "Value" : "2"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Very", "Value" : "10"},
+			{"Answer" : "Somewhat", "Value" : "30"},
+			{"Answer" : "Not very", "Value" : "48"},
+			{"Answer" : "Not at all", "Value" : "10"},
+			{"Answer" : "Don't know", "Value" : "2"}
 		]}
 	]}
 ]},
@@ -8078,50 +8078,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "3"},
 			{"Answer" : "Somewhat", "Value" : "13"},
 			{"Answer" : "Not very", "Value" : "37"},
 			{"Answer" : "Not at all", "Value" : "41"},
 			{"Answer" : "Don't know", "Value" : "6"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Very", "Value" : "1"},
 			{"Answer" : "Somewhat", "Value" : "17"},
 			{"Answer" : "Not very", "Value" : "44"},
 			{"Answer" : "Not at all", "Value" : "34"},
 			{"Answer" : "Don't know", "Value" : "4"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Very", "Value" : "6"},
 			{"Answer" : "Somewhat", "Value" : "10"},
 			{"Answer" : "Not very", "Value" : "46"},
 			{"Answer" : "Not at all", "Value" : "33"},
 			{"Answer" : "Don't know", "Value" : "5"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "5"},
 			{"Answer" : "Somewhat", "Value" : "9"},
 			{"Answer" : "Not very", "Value" : "44"},
@@ -8129,22 +8106,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "6"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Very", "Value" : "4"},
 			{"Answer" : "Somewhat", "Value" : "13"},
 			{"Answer" : "Not very", "Value" : "39"},
 			{"Answer" : "Not at all", "Value" : "41"},
 			{"Answer" : "Don't know", "Value" : "4"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Very", "Value" : "4"},
 			{"Answer" : "Somewhat", "Value" : "11"},
 			{"Answer" : "Not very", "Value" : "45"},
 			{"Answer" : "Not at all", "Value" : "35"},
 			{"Answer" : "Don't know", "Value" : "5"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Very", "Value" : "2"},
 			{"Answer" : "Somewhat", "Value" : "17"},
 			{"Answer" : "Not very", "Value" : "42"},
@@ -8152,41 +8129,64 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "6"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Very", "Value" : "4"},
 			{"Answer" : "Somewhat", "Value" : "14"},
 			{"Answer" : "Not very", "Value" : "45"},
 			{"Answer" : "Not at all", "Value" : "32"},
 			{"Answer" : "Don't know", "Value" : "5"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "4"},
 			{"Answer" : "Somewhat", "Value" : "12"},
 			{"Answer" : "Not very", "Value" : "42"},
 			{"Answer" : "Not at all", "Value" : "39"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "3"},
 			{"Answer" : "Somewhat", "Value" : "10"},
 			{"Answer" : "Not very", "Value" : "39"},
 			{"Answer" : "Not at all", "Value" : "41"},
 			{"Answer" : "Don't know", "Value" : "6"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Very", "Value" : "3"},
 			{"Answer" : "Somewhat", "Value" : "13"},
 			{"Answer" : "Not very", "Value" : "33"},
 			{"Answer" : "Not at all", "Value" : "44"},
 			{"Answer" : "Don't know", "Value" : "7"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Very", "Value" : "3"},
 			{"Answer" : "Somewhat", "Value" : "22"},
 			{"Answer" : "Not very", "Value" : "50"},
 			{"Answer" : "Not at all", "Value" : "23"},
 			{"Answer" : "Don't know", "Value" : "2"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Very", "Value" : "2"},
+			{"Answer" : "Somewhat", "Value" : "15"},
+			{"Answer" : "Not very", "Value" : "35"},
+			{"Answer" : "Not at all", "Value" : "42"},
+			{"Answer" : "Don't know", "Value" : "6"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Very", "Value" : "4"},
+			{"Answer" : "Somewhat", "Value" : "7"},
+			{"Answer" : "Not very", "Value" : "39"},
+			{"Answer" : "Not at all", "Value" : "44"},
+			{"Answer" : "Don't know", "Value" : "6"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Very", "Value" : "5"},
+			{"Answer" : "Somewhat", "Value" : "3"},
+			{"Answer" : "Not very", "Value" : "60"},
+			{"Answer" : "Not at all", "Value" : "25"},
+			{"Answer" : "Don't know", "Value" : "7"}
 		]}
 	]}
 ]},
@@ -8203,50 +8203,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "31"},
 			{"Answer" : "Somewhat", "Value" : "46"},
 			{"Answer" : "Not very", "Value" : "17"},
 			{"Answer" : "Not at all", "Value" : "5"},
 			{"Answer" : "Don't know", "Value" : "1"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Very", "Value" : "30"},
 			{"Answer" : "Somewhat", "Value" : "39"},
 			{"Answer" : "Not very", "Value" : "22"},
 			{"Answer" : "Not at all", "Value" : "7"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Very", "Value" : "27"},
 			{"Answer" : "Somewhat", "Value" : "40"},
 			{"Answer" : "Not very", "Value" : "21"},
 			{"Answer" : "Not at all", "Value" : "8"},
 			{"Answer" : "Don't know", "Value" : "4"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "32"},
 			{"Answer" : "Somewhat", "Value" : "34"},
 			{"Answer" : "Not very", "Value" : "24"},
@@ -8254,22 +8231,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "1"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Very", "Value" : "33"},
 			{"Answer" : "Somewhat", "Value" : "37"},
 			{"Answer" : "Not very", "Value" : "21"},
 			{"Answer" : "Not at all", "Value" : "8"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Very", "Value" : "28"},
 			{"Answer" : "Somewhat", "Value" : "41"},
 			{"Answer" : "Not very", "Value" : "22"},
 			{"Answer" : "Not at all", "Value" : "7"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Very", "Value" : "29"},
 			{"Answer" : "Somewhat", "Value" : "44"},
 			{"Answer" : "Not very", "Value" : "17"},
@@ -8277,41 +8254,64 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "4"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Very", "Value" : "29"},
 			{"Answer" : "Somewhat", "Value" : "39"},
 			{"Answer" : "Not very", "Value" : "21"},
 			{"Answer" : "Not at all", "Value" : "9"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "21"},
 			{"Answer" : "Somewhat", "Value" : "47"},
 			{"Answer" : "Not very", "Value" : "24"},
 			{"Answer" : "Not at all", "Value" : "6"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "36"},
 			{"Answer" : "Somewhat", "Value" : "38"},
 			{"Answer" : "Not very", "Value" : "19"},
 			{"Answer" : "Not at all", "Value" : "3"},
 			{"Answer" : "Don't know", "Value" : "4"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Very", "Value" : "29"},
 			{"Answer" : "Somewhat", "Value" : "41"},
 			{"Answer" : "Not very", "Value" : "18"},
 			{"Answer" : "Not at all", "Value" : "8"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Very", "Value" : "21"},
 			{"Answer" : "Somewhat", "Value" : "42"},
 			{"Answer" : "Not very", "Value" : "28"},
 			{"Answer" : "Not at all", "Value" : "9"},
 			{"Answer" : "Don't know", "Value" : "1"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Very", "Value" : "11"},
+			{"Answer" : "Somewhat", "Value" : "46"},
+			{"Answer" : "Not very", "Value" : "31"},
+			{"Answer" : "Not at all", "Value" : "5"},
+			{"Answer" : "Don't know", "Value" : "8"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Very", "Value" : "46"},
+			{"Answer" : "Somewhat", "Value" : "35"},
+			{"Answer" : "Not very", "Value" : "13"},
+			{"Answer" : "Not at all", "Value" : "4"},
+			{"Answer" : "Don't know", "Value" : "1"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Very", "Value" : "25"},
+			{"Answer" : "Somewhat", "Value" : "47"},
+			{"Answer" : "Not very", "Value" : "18"},
+			{"Answer" : "Not at all", "Value" : "8"},
+			{"Answer" : "Don't know", "Value" : "2"}
 		]}
 	]}
 ]},
@@ -8328,50 +8328,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "9"},
 			{"Answer" : "Somewhat", "Value" : "36"},
 			{"Answer" : "Not very", "Value" : "43"},
 			{"Answer" : "Not at all", "Value" : "10"},
 			{"Answer" : "Don't know", "Value" : "1"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Very", "Value" : "8"},
 			{"Answer" : "Somewhat", "Value" : "39"},
 			{"Answer" : "Not very", "Value" : "44"},
 			{"Answer" : "Not at all", "Value" : "9"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Very", "Value" : "8"},
 			{"Answer" : "Somewhat", "Value" : "37"},
 			{"Answer" : "Not very", "Value" : "40"},
 			{"Answer" : "Not at all", "Value" : "13"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "16"},
 			{"Answer" : "Somewhat", "Value" : "32"},
 			{"Answer" : "Not very", "Value" : "41"},
@@ -8379,22 +8356,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "1"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Very", "Value" : "12"},
 			{"Answer" : "Somewhat", "Value" : "30"},
 			{"Answer" : "Not very", "Value" : "45"},
 			{"Answer" : "Not at all", "Value" : "12"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Very", "Value" : "8"},
 			{"Answer" : "Somewhat", "Value" : "38"},
 			{"Answer" : "Not very", "Value" : "43"},
 			{"Answer" : "Not at all", "Value" : "10"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Very", "Value" : "10"},
 			{"Answer" : "Somewhat", "Value" : "40"},
 			{"Answer" : "Not very", "Value" : "37"},
@@ -8402,41 +8379,64 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "2"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Very", "Value" : "12"},
 			{"Answer" : "Somewhat", "Value" : "35"},
 			{"Answer" : "Not very", "Value" : "38"},
 			{"Answer" : "Not at all", "Value" : "14"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "8"},
 			{"Answer" : "Somewhat", "Value" : "31"},
 			{"Answer" : "Not very", "Value" : "50"},
 			{"Answer" : "Not at all", "Value" : "10"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "6"},
 			{"Answer" : "Somewhat", "Value" : "43"},
 			{"Answer" : "Not very", "Value" : "44"},
 			{"Answer" : "Not at all", "Value" : "4"},
 			{"Answer" : "Don't know", "Value" : "3"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Very", "Value" : "13"},
 			{"Answer" : "Somewhat", "Value" : "39"},
 			{"Answer" : "Not very", "Value" : "39"},
 			{"Answer" : "Not at all", "Value" : "7"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Very", "Value" : "4"},
 			{"Answer" : "Somewhat", "Value" : "29"},
 			{"Answer" : "Not very", "Value" : "56"},
 			{"Answer" : "Not at all", "Value" : "11"},
 			{"Answer" : "Don't know", "Value" : "1"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Very", "Value" : "18"},
+			{"Answer" : "Somewhat", "Value" : "55"},
+			{"Answer" : "Not very", "Value" : "22"},
+			{"Answer" : "Not at all", "Value" : "3"},
+			{"Answer" : "Don't know", "Value" : "2"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Very", "Value" : "6"},
+			{"Answer" : "Somewhat", "Value" : "31"},
+			{"Answer" : "Not very", "Value" : "45"},
+			{"Answer" : "Not at all", "Value" : "17"},
+			{"Answer" : "Don't know", "Value" : "1"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Very", "Value" : "17"},
+			{"Answer" : "Somewhat", "Value" : "32"},
+			{"Answer" : "Not very", "Value" : "40"},
+			{"Answer" : "Not at all", "Value" : "10"},
+			{"Answer" : "Don't know", "Value" : "2"}
 		]}
 	]}
 ]},
@@ -8453,50 +8453,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "9"},
 			{"Answer" : "Somewhat", "Value" : "40"},
 			{"Answer" : "Not very", "Value" : "38"},
 			{"Answer" : "Not at all", "Value" : "8"},
 			{"Answer" : "Don't know", "Value" : "4"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Very", "Value" : "13"},
 			{"Answer" : "Somewhat", "Value" : "37"},
 			{"Answer" : "Not very", "Value" : "36"},
 			{"Answer" : "Not at all", "Value" : "11"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Very", "Value" : "6"},
 			{"Answer" : "Somewhat", "Value" : "35"},
 			{"Answer" : "Not very", "Value" : "47"},
 			{"Answer" : "Not at all", "Value" : "8"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "14"},
 			{"Answer" : "Somewhat", "Value" : "34"},
 			{"Answer" : "Not very", "Value" : "46"},
@@ -8504,22 +8481,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "1"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Very", "Value" : "10"},
 			{"Answer" : "Somewhat", "Value" : "34"},
 			{"Answer" : "Not very", "Value" : "45"},
 			{"Answer" : "Not at all", "Value" : "7"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Very", "Value" : "9"},
 			{"Answer" : "Somewhat", "Value" : "41"},
 			{"Answer" : "Not very", "Value" : "39"},
 			{"Answer" : "Not at all", "Value" : "9"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Very", "Value" : "12"},
 			{"Answer" : "Somewhat", "Value" : "32"},
 			{"Answer" : "Not very", "Value" : "42"},
@@ -8527,41 +8504,64 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "4"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Very", "Value" : "10"},
 			{"Answer" : "Somewhat", "Value" : "37"},
 			{"Answer" : "Not very", "Value" : "42"},
 			{"Answer" : "Not at all", "Value" : "9"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "10"},
 			{"Answer" : "Somewhat", "Value" : "40"},
 			{"Answer" : "Not very", "Value" : "41"},
 			{"Answer" : "Not at all", "Value" : "6"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "9"},
 			{"Answer" : "Somewhat", "Value" : "35"},
 			{"Answer" : "Not very", "Value" : "41"},
 			{"Answer" : "Not at all", "Value" : "10"},
 			{"Answer" : "Don't know", "Value" : "5"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Very", "Value" : "14"},
 			{"Answer" : "Somewhat", "Value" : "40"},
 			{"Answer" : "Not very", "Value" : "38"},
 			{"Answer" : "Not at all", "Value" : "5"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Very", "Value" : "5"},
 			{"Answer" : "Somewhat", "Value" : "29"},
 			{"Answer" : "Not very", "Value" : "49"},
 			{"Answer" : "Not at all", "Value" : "15"},
 			{"Answer" : "Don't know", "Value" : "2"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Very", "Value" : "5"},
+			{"Answer" : "Somewhat", "Value" : "40"},
+			{"Answer" : "Not very", "Value" : "43"},
+			{"Answer" : "Not at all", "Value" : "6"},
+			{"Answer" : "Don't know", "Value" : "6"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Very", "Value" : "15"},
+			{"Answer" : "Somewhat", "Value" : "41"},
+			{"Answer" : "Not very", "Value" : "37"},
+			{"Answer" : "Not at all", "Value" : "6"},
+			{"Answer" : "Don't know", "Value" : "1"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Very", "Value" : "3"},
+			{"Answer" : "Somewhat", "Value" : "35"},
+			{"Answer" : "Not very", "Value" : "47"},
+			{"Answer" : "Not at all", "Value" : "10"},
+			{"Answer" : "Don't know", "Value" : "5"}
 		]}
 	]}
 ]},
@@ -8578,50 +8578,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "13"},
 			{"Answer" : "Somewhat", "Value" : "36"},
 			{"Answer" : "Not very", "Value" : "38"},
 			{"Answer" : "Not at all", "Value" : "13"},
 			{"Answer" : "Don't know", "Value" : "0"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Very", "Value" : "11"},
 			{"Answer" : "Somewhat", "Value" : "36"},
 			{"Answer" : "Not very", "Value" : "39"},
 			{"Answer" : "Not at all", "Value" : "10"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Very", "Value" : "13"},
 			{"Answer" : "Somewhat", "Value" : "29"},
 			{"Answer" : "Not very", "Value" : "43"},
 			{"Answer" : "Not at all", "Value" : "10"},
 			{"Answer" : "Don't know", "Value" : "4"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "16"},
 			{"Answer" : "Somewhat", "Value" : "29"},
 			{"Answer" : "Not very", "Value" : "43"},
@@ -8629,22 +8606,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "1"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Very", "Value" : "12"},
 			{"Answer" : "Somewhat", "Value" : "35"},
 			{"Answer" : "Not very", "Value" : "42"},
 			{"Answer" : "Not at all", "Value" : "10"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Very", "Value" : "14"},
 			{"Answer" : "Somewhat", "Value" : "31"},
 			{"Answer" : "Not very", "Value" : "43"},
 			{"Answer" : "Not at all", "Value" : "11"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Very", "Value" : "14"},
 			{"Answer" : "Somewhat", "Value" : "36"},
 			{"Answer" : "Not very", "Value" : "33"},
@@ -8652,41 +8629,64 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "4"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Very", "Value" : "12"},
 			{"Answer" : "Somewhat", "Value" : "33"},
 			{"Answer" : "Not very", "Value" : "41"},
 			{"Answer" : "Not at all", "Value" : "13"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "12"},
 			{"Answer" : "Somewhat", "Value" : "33"},
 			{"Answer" : "Not very", "Value" : "46"},
 			{"Answer" : "Not at all", "Value" : "8"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "17"},
 			{"Answer" : "Somewhat", "Value" : "34"},
 			{"Answer" : "Not very", "Value" : "36"},
 			{"Answer" : "Not at all", "Value" : "8"},
 			{"Answer" : "Don't know", "Value" : "5"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Very", "Value" : "7"},
 			{"Answer" : "Somewhat", "Value" : "40"},
 			{"Answer" : "Not very", "Value" : "46"},
 			{"Answer" : "Not at all", "Value" : "6"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Very", "Value" : "7"},
 			{"Answer" : "Somewhat", "Value" : "28"},
 			{"Answer" : "Not very", "Value" : "48"},
 			{"Answer" : "Not at all", "Value" : "16"},
 			{"Answer" : "Don't know", "Value" : "2"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Very", "Value" : "20"},
+			{"Answer" : "Somewhat", "Value" : "45"},
+			{"Answer" : "Not very", "Value" : "25"},
+			{"Answer" : "Not at all", "Value" : "9"},
+			{"Answer" : "Don't know", "Value" : "2"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Very", "Value" : "19"},
+			{"Answer" : "Somewhat", "Value" : "35"},
+			{"Answer" : "Not very", "Value" : "34"},
+			{"Answer" : "Not at all", "Value" : "10"},
+			{"Answer" : "Don't know", "Value" : "1"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Very", "Value" : "10"},
+			{"Answer" : "Somewhat", "Value" : "13"},
+			{"Answer" : "Not very", "Value" : "57"},
+			{"Answer" : "Not at all", "Value" : "15"},
+			{"Answer" : "Don't know", "Value" : "5"}
 		]}
 	]}
 ]},
@@ -8703,50 +8703,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "8"},
 			{"Answer" : "Somewhat", "Value" : "28"},
 			{"Answer" : "Not very", "Value" : "47"},
 			{"Answer" : "Not at all", "Value" : "16"},
 			{"Answer" : "Don't know", "Value" : "1"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Very", "Value" : "9"},
 			{"Answer" : "Somewhat", "Value" : "22"},
 			{"Answer" : "Not very", "Value" : "53"},
 			{"Answer" : "Not at all", "Value" : "12"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Very", "Value" : "5"},
 			{"Answer" : "Somewhat", "Value" : "27"},
 			{"Answer" : "Not very", "Value" : "47"},
 			{"Answer" : "Not at all", "Value" : "16"},
 			{"Answer" : "Don't know", "Value" : "4"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "10"},
 			{"Answer" : "Somewhat", "Value" : "34"},
 			{"Answer" : "Not very", "Value" : "39"},
@@ -8754,22 +8731,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "0"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Very", "Value" : "6"},
 			{"Answer" : "Somewhat", "Value" : "27"},
 			{"Answer" : "Not very", "Value" : "47"},
 			{"Answer" : "Not at all", "Value" : "18"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Very", "Value" : "7"},
 			{"Answer" : "Somewhat", "Value" : "29"},
 			{"Answer" : "Not very", "Value" : "51"},
 			{"Answer" : "Not at all", "Value" : "11"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Very", "Value" : "12"},
 			{"Answer" : "Somewhat", "Value" : "22"},
 			{"Answer" : "Not very", "Value" : "43"},
@@ -8777,40 +8754,63 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "4"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Very", "Value" : "8"},
 			{"Answer" : "Somewhat", "Value" : "25"},
 			{"Answer" : "Not very", "Value" : "48"},
 			{"Answer" : "Not at all", "Value" : "18"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "6"},
 			{"Answer" : "Somewhat", "Value" : "30"},
 			{"Answer" : "Not very", "Value" : "46"},
 			{"Answer" : "Not at all", "Value" : "15"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "9"},
 			{"Answer" : "Somewhat", "Value" : "28"},
 			{"Answer" : "Not very", "Value" : "49"},
 			{"Answer" : "Not at all", "Value" : "10"},
 			{"Answer" : "Don't know", "Value" : "3"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Very", "Value" : "5"},
 			{"Answer" : "Somewhat", "Value" : "24"},
 			{"Answer" : "Not very", "Value" : "54"},
 			{"Answer" : "Not at all", "Value" : "15"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Very", "Value" : "6"},
 			{"Answer" : "Somewhat", "Value" : "33"},
 			{"Answer" : "Not very", "Value" : "43"},
 			{"Answer" : "Not at all", "Value" : "17"},
+			{"Answer" : "Don't know", "Value" : "2"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Very", "Value" : "2"},
+			{"Answer" : "Somewhat", "Value" : "32"},
+			{"Answer" : "Not very", "Value" : "49"},
+			{"Answer" : "Not at all", "Value" : "14"},
+			{"Answer" : "Don't know", "Value" : "3"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Very", "Value" : "12"},
+			{"Answer" : "Somewhat", "Value" : "24"},
+			{"Answer" : "Not very", "Value" : "46"},
+			{"Answer" : "Not at all", "Value" : "17"},
+			{"Answer" : "Don't know", "Value" : "1"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Very", "Value" : "13"},
+			{"Answer" : "Somewhat", "Value" : "27"},
+			{"Answer" : "Not very", "Value" : "47"},
+			{"Answer" : "Not at all", "Value" : "12"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]}
 	]}
@@ -8828,50 +8828,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "5"},
 			{"Answer" : "Somewhat", "Value" : "14"},
 			{"Answer" : "Not very", "Value" : "57"},
 			{"Answer" : "Not at all", "Value" : "21"},
 			{"Answer" : "Don't know", "Value" : "3"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Very", "Value" : "5"},
 			{"Answer" : "Somewhat", "Value" : "18"},
 			{"Answer" : "Not very", "Value" : "57"},
 			{"Answer" : "Not at all", "Value" : "16"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Very", "Value" : "6"},
 			{"Answer" : "Somewhat", "Value" : "13"},
 			{"Answer" : "Not very", "Value" : "53"},
 			{"Answer" : "Not at all", "Value" : "22"},
 			{"Answer" : "Don't know", "Value" : "6"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "6"},
 			{"Answer" : "Somewhat", "Value" : "18"},
 			{"Answer" : "Not very", "Value" : "56"},
@@ -8879,22 +8856,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "6"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Very", "Value" : "6"},
 			{"Answer" : "Somewhat", "Value" : "15"},
 			{"Answer" : "Not very", "Value" : "54"},
 			{"Answer" : "Not at all", "Value" : "21"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Very", "Value" : "6"},
 			{"Answer" : "Somewhat", "Value" : "15"},
 			{"Answer" : "Not very", "Value" : "58"},
 			{"Answer" : "Not at all", "Value" : "17"},
 			{"Answer" : "Don't know", "Value" : "4"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Very", "Value" : "5"},
 			{"Answer" : "Somewhat", "Value" : "17"},
 			{"Answer" : "Not very", "Value" : "53"},
@@ -8902,40 +8879,63 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "6"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Very", "Value" : "4"},
 			{"Answer" : "Somewhat", "Value" : "18"},
 			{"Answer" : "Not very", "Value" : "51"},
 			{"Answer" : "Not at all", "Value" : "21"},
 			{"Answer" : "Don't know", "Value" : "5"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "9"},
 			{"Answer" : "Somewhat", "Value" : "12"},
 			{"Answer" : "Not very", "Value" : "61"},
 			{"Answer" : "Not at all", "Value" : "17"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "4"},
 			{"Answer" : "Somewhat", "Value" : "14"},
 			{"Answer" : "Not very", "Value" : "61"},
 			{"Answer" : "Not at all", "Value" : "17"},
 			{"Answer" : "Don't know", "Value" : "4"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Very", "Value" : "6"},
 			{"Answer" : "Somewhat", "Value" : "23"},
 			{"Answer" : "Not very", "Value" : "54"},
 			{"Answer" : "Not at all", "Value" : "15"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Very", "Value" : "5"},
 			{"Answer" : "Somewhat", "Value" : "13"},
 			{"Answer" : "Not very", "Value" : "56"},
 			{"Answer" : "Not at all", "Value" : "24"},
+			{"Answer" : "Don't know", "Value" : "3"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Very", "Value" : "5"},
+			{"Answer" : "Somewhat", "Value" : "17"},
+			{"Answer" : "Not very", "Value" : "52"},
+			{"Answer" : "Not at all", "Value" : "17"},
+			{"Answer" : "Don't know", "Value" : "9"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Very", "Value" : "4"},
+			{"Answer" : "Somewhat", "Value" : "11"},
+			{"Answer" : "Not very", "Value" : "60"},
+			{"Answer" : "Not at all", "Value" : "20"},
+			{"Answer" : "Don't know", "Value" : "4"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Very", "Value" : "5"},
+			{"Answer" : "Somewhat", "Value" : "13"},
+			{"Answer" : "Not very", "Value" : "62"},
+			{"Answer" : "Not at all", "Value" : "17"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]}
 	]}
@@ -8953,50 +8953,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "15"},
 			{"Answer" : "Somewhat", "Value" : "42"},
 			{"Answer" : "Not very", "Value" : "33"},
 			{"Answer" : "Not at all", "Value" : "6"},
 			{"Answer" : "Don't know", "Value" : "3"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Very", "Value" : "16"},
 			{"Answer" : "Somewhat", "Value" : "45"},
 			{"Answer" : "Not very", "Value" : "32"},
 			{"Answer" : "Not at all", "Value" : "5"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Very", "Value" : "13"},
 			{"Answer" : "Somewhat", "Value" : "48"},
 			{"Answer" : "Not very", "Value" : "29"},
 			{"Answer" : "Not at all", "Value" : "6"},
 			{"Answer" : "Don't know", "Value" : "4"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "18"},
 			{"Answer" : "Somewhat", "Value" : "47"},
 			{"Answer" : "Not very", "Value" : "28"},
@@ -9004,22 +8981,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "0"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Very", "Value" : "16"},
 			{"Answer" : "Somewhat", "Value" : "45"},
 			{"Answer" : "Not very", "Value" : "30"},
 			{"Answer" : "Not at all", "Value" : "8"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Very", "Value" : "12"},
 			{"Answer" : "Somewhat", "Value" : "50"},
 			{"Answer" : "Not very", "Value" : "32"},
 			{"Answer" : "Not at all", "Value" : "4"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Very", "Value" : "18"},
 			{"Answer" : "Somewhat", "Value" : "38"},
 			{"Answer" : "Not very", "Value" : "30"},
@@ -9027,40 +9004,63 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "4"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Very", "Value" : "19"},
 			{"Answer" : "Somewhat", "Value" : "46"},
 			{"Answer" : "Not very", "Value" : "26"},
 			{"Answer" : "Not at all", "Value" : "6"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "15"},
 			{"Answer" : "Somewhat", "Value" : "47"},
 			{"Answer" : "Not very", "Value" : "30"},
 			{"Answer" : "Not at all", "Value" : "7"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "6"},
 			{"Answer" : "Somewhat", "Value" : "45"},
 			{"Answer" : "Not very", "Value" : "40"},
 			{"Answer" : "Not at all", "Value" : "5"},
 			{"Answer" : "Don't know", "Value" : "5"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Very", "Value" : "16"},
 			{"Answer" : "Somewhat", "Value" : "47"},
 			{"Answer" : "Not very", "Value" : "30"},
 			{"Answer" : "Not at all", "Value" : "5"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Very", "Value" : "17"},
 			{"Answer" : "Somewhat", "Value" : "46"},
 			{"Answer" : "Not very", "Value" : "30"},
 			{"Answer" : "Not at all", "Value" : "6"},
+			{"Answer" : "Don't know", "Value" : "2"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Very", "Value" : "17"},
+			{"Answer" : "Somewhat", "Value" : "43"},
+			{"Answer" : "Not very", "Value" : "31"},
+			{"Answer" : "Not at all", "Value" : "5"},
+			{"Answer" : "Don't know", "Value" : "5"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Very", "Value" : "14"},
+			{"Answer" : "Somewhat", "Value" : "40"},
+			{"Answer" : "Not very", "Value" : "35"},
+			{"Answer" : "Not at all", "Value" : "9"},
+			{"Answer" : "Don't know", "Value" : "1"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Very", "Value" : "15"},
+			{"Answer" : "Somewhat", "Value" : "50"},
+			{"Answer" : "Not very", "Value" : "27"},
+			{"Answer" : "Not at all", "Value" : "7"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]}
 	]}
@@ -9078,50 +9078,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Very", "Value" : "0"},
-			{"Answer" : "Somewhat", "Value" : "0"},
-			{"Answer" : "Not very", "Value" : "0"},
-			{"Answer" : "Not at all", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "8"},
 			{"Answer" : "Somewhat", "Value" : "27"},
 			{"Answer" : "Not very", "Value" : "51"},
 			{"Answer" : "Not at all", "Value" : "14"},
 			{"Answer" : "Don't know", "Value" : "0"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Very", "Value" : "11"},
 			{"Answer" : "Somewhat", "Value" : "24"},
 			{"Answer" : "Not very", "Value" : "48"},
 			{"Answer" : "Not at all", "Value" : "17"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Very", "Value" : "5"},
 			{"Answer" : "Somewhat", "Value" : "22"},
 			{"Answer" : "Not very", "Value" : "53"},
 			{"Answer" : "Not at all", "Value" : "17"},
 			{"Answer" : "Don't know", "Value" : "3"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very", "Value" : "10"},
 			{"Answer" : "Somewhat", "Value" : "30"},
 			{"Answer" : "Not very", "Value" : "44"},
@@ -9129,22 +9106,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "1"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Very", "Value" : "7"},
 			{"Answer" : "Somewhat", "Value" : "23"},
 			{"Answer" : "Not very", "Value" : "55"},
 			{"Answer" : "Not at all", "Value" : "14"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Very", "Value" : "9"},
 			{"Answer" : "Somewhat", "Value" : "24"},
 			{"Answer" : "Not very", "Value" : "51"},
 			{"Answer" : "Not at all", "Value" : "14"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Very", "Value" : "9"},
 			{"Answer" : "Somewhat", "Value" : "29"},
 			{"Answer" : "Not very", "Value" : "39"},
@@ -9152,41 +9129,64 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "2"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Very", "Value" : "8"},
 			{"Answer" : "Somewhat", "Value" : "23"},
 			{"Answer" : "Not very", "Value" : "49"},
 			{"Answer" : "Not at all", "Value" : "19"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "6"},
 			{"Answer" : "Somewhat", "Value" : "25"},
 			{"Answer" : "Not very", "Value" : "57"},
 			{"Answer" : "Not at all", "Value" : "12"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Very", "Value" : "9"},
 			{"Answer" : "Somewhat", "Value" : "30"},
 			{"Answer" : "Not very", "Value" : "46"},
 			{"Answer" : "Not at all", "Value" : "13"},
 			{"Answer" : "Don't know", "Value" : "2"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Very", "Value" : "8"},
 			{"Answer" : "Somewhat", "Value" : "28"},
 			{"Answer" : "Not very", "Value" : "60"},
 			{"Answer" : "Not at all", "Value" : "3"},
 			{"Answer" : "Don't know", "Value" : "1"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Very", "Value" : "6"},
 			{"Answer" : "Somewhat", "Value" : "22"},
 			{"Answer" : "Not very", "Value" : "49"},
 			{"Answer" : "Not at all", "Value" : "21"},
 			{"Answer" : "Don't know", "Value" : "1"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Very", "Value" : "5"},
+			{"Answer" : "Somewhat", "Value" : "38"},
+			{"Answer" : "Not very", "Value" : "37"},
+			{"Answer" : "Not at all", "Value" : "18"},
+			{"Answer" : "Don't know", "Value" : "2"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Very", "Value" : "10"},
+			{"Answer" : "Somewhat", "Value" : "24"},
+			{"Answer" : "Not very", "Value" : "49"},
+			{"Answer" : "Not at all", "Value" : "16"},
+			{"Answer" : "Don't know", "Value" : "1"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Very", "Value" : "15"},
+			{"Answer" : "Somewhat", "Value" : "15"},
+			{"Answer" : "Not very", "Value" : "52"},
+			{"Answer" : "Not at all", "Value" : "17"},
+			{"Answer" : "Don't know", "Value" : "2"}
 		]}
 	]}
 ]},
@@ -9211,51 +9211,6 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Work related accidents", "Value" : "0"},
-			{"Answer" : "Accidents affecting non-employees that you may be liable for", "Value" : "0"},
-			{"Answer" : "Product liability", "Value" : "0"},
-			{"Answer" : "Industrial espionage", "Value" : "0"},
-			{"Answer" : "Data security", "Value" : "0"},
-			{"Answer" : "Employee theft", "Value" : "0"},
-			{"Answer" : "Professional errors and omissions", "Value" : "0"},
-			{"Answer" : "Threats to your online reputation", "Value" : "0"},
-			{"Answer" : "Wrongful termination lawsuits", "Value" : "0"},
-			{"Answer" : "Acts of God", "Value" : "0"},
-			{"Answer" : "Key employee illness or death", "Value" : "0"},
-			{"Answer" : "Issues related to human rights violations including sexual harassment", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Work related accidents", "Value" : "0"},
-			{"Answer" : "Accidents affecting non-employees that you may be liable for", "Value" : "0"},
-			{"Answer" : "Product liability", "Value" : "0"},
-			{"Answer" : "Industrial espionage", "Value" : "0"},
-			{"Answer" : "Data security", "Value" : "0"},
-			{"Answer" : "Employee theft", "Value" : "0"},
-			{"Answer" : "Professional errors and omissions", "Value" : "0"},
-			{"Answer" : "Threats to your online reputation", "Value" : "0"},
-			{"Answer" : "Wrongful termination lawsuits", "Value" : "0"},
-			{"Answer" : "Acts of God", "Value" : "0"},
-			{"Answer" : "Key employee illness or death", "Value" : "0"},
-			{"Answer" : "Issues related to human rights violations including sexual harassment", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Work related accidents", "Value" : "0"},
-			{"Answer" : "Accidents affecting non-employees that you may be liable for", "Value" : "0"},
-			{"Answer" : "Product liability", "Value" : "0"},
-			{"Answer" : "Industrial espionage", "Value" : "0"},
-			{"Answer" : "Data security", "Value" : "0"},
-			{"Answer" : "Employee theft", "Value" : "0"},
-			{"Answer" : "Professional errors and omissions", "Value" : "0"},
-			{"Answer" : "Threats to your online reputation", "Value" : "0"},
-			{"Answer" : "Wrongful termination lawsuits", "Value" : "0"},
-			{"Answer" : "Acts of God", "Value" : "0"},
-			{"Answer" : "Key employee illness or death", "Value" : "0"},
-			{"Answer" : "Issues related to human rights violations including sexual harassment", "Value" : "0"},
-			{"Answer" : "Don't know", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Work related accidents", "Value" : "26"},
 			{"Answer" : "Accidents affecting non-employees that you may be liable for", "Value" : "2"},
 			{"Answer" : "Product liability", "Value" : "4"},
@@ -9269,10 +9224,8 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Key employee illness or death", "Value" : "15"},
 			{"Answer" : "Issues related to human rights violations including sexual harassment", "Value" : "1"},
 			{"Answer" : "Don't know", "Value" : "10"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Work related accidents", "Value" : "18"},
 			{"Answer" : "Accidents affecting non-employees that you may be liable for", "Value" : "9"},
 			{"Answer" : "Product liability", "Value" : "9"},
@@ -9287,7 +9240,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Issues related to human rights violations including sexual harassment", "Value" : "4"},
 			{"Answer" : "Don't know", "Value" : "7"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Work related accidents", "Value" : "19"},
 			{"Answer" : "Accidents affecting non-employees that you may be liable for", "Value" : "7"},
 			{"Answer" : "Product liability", "Value" : "5"},
@@ -9302,7 +9255,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Issues related to human rights violations including sexual harassment", "Value" : "2"},
 			{"Answer" : "Don't know", "Value" : "6"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Work related accidents", "Value" : "24"},
 			{"Answer" : "Accidents affecting non-employees that you may be liable for", "Value" : "10"},
 			{"Answer" : "Product liability", "Value" : "4"},
@@ -9318,8 +9271,8 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "10"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Work related accidents", "Value" : "26"},
 			{"Answer" : "Accidents affecting non-employees that you may be liable for", "Value" : "7"},
 			{"Answer" : "Product liability", "Value" : "6"},
@@ -9334,7 +9287,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Issues related to human rights violations including sexual harassment", "Value" : "1"},
 			{"Answer" : "Don't know", "Value" : "7"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Work related accidents", "Value" : "20"},
 			{"Answer" : "Accidents affecting non-employees that you may be liable for", "Value" : "7"},
 			{"Answer" : "Product liability", "Value" : "6"},
@@ -9349,7 +9302,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Issues related to human rights violations including sexual harassment", "Value" : "4"},
 			{"Answer" : "Don't know", "Value" : "9"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Work related accidents", "Value" : "17"},
 			{"Answer" : "Accidents affecting non-employees that you may be liable for", "Value" : "6"},
 			{"Answer" : "Product liability", "Value" : "5"},
@@ -9365,8 +9318,8 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Don't know", "Value" : "7"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Work related accidents", "Value" : "21"},
 			{"Answer" : "Accidents affecting non-employees that you may be liable for", "Value" : "5"},
 			{"Answer" : "Product liability", "Value" : "6"},
@@ -9381,7 +9334,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Issues related to human rights violations including sexual harassment", "Value" : "3"},
 			{"Answer" : "Don't know", "Value" : "6"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Work related accidents", "Value" : "20"},
 			{"Answer" : "Accidents affecting non-employees that you may be liable for", "Value" : "9"},
 			{"Answer" : "Product liability", "Value" : "6"},
@@ -9396,7 +9349,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Issues related to human rights violations including sexual harassment", "Value" : "2"},
 			{"Answer" : "Don't know", "Value" : "10"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Work related accidents", "Value" : "24"},
 			{"Answer" : "Accidents affecting non-employees that you may be liable for", "Value" : "10"},
 			{"Answer" : "Product liability", "Value" : "4"},
@@ -9410,8 +9363,10 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Key employee illness or death", "Value" : "8"},
 			{"Answer" : "Issues related to human rights violations including sexual harassment", "Value" : "3"},
 			{"Answer" : "Don't know", "Value" : "10"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Work related accidents", "Value" : "51"},
 			{"Answer" : "Accidents affecting non-employees that you may be liable for", "Value" : "10"},
 			{"Answer" : "Product liability", "Value" : "3"},
@@ -9426,7 +9381,7 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Issues related to human rights violations including sexual harassment", "Value" : "0"},
 			{"Answer" : "Don't know", "Value" : "2"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Work related accidents", "Value" : "17"},
 			{"Answer" : "Accidents affecting non-employees that you may be liable for", "Value" : "1"},
 			{"Answer" : "Product liability", "Value" : "10"},
@@ -9440,6 +9395,51 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Key employee illness or death", "Value" : "25"},
 			{"Answer" : "Issues related to human rights violations including sexual harassment", "Value" : "4"},
 			{"Answer" : "Don't know", "Value" : "11"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Work related accidents", "Value" : "14"},
+			{"Answer" : "Accidents affecting non-employees that you may be liable for", "Value" : "14"},
+			{"Answer" : "Product liability", "Value" : "2"},
+			{"Answer" : "Industrial espionage", "Value" : "0"},
+			{"Answer" : "Data security", "Value" : "18"},
+			{"Answer" : "Employee theft", "Value" : "11"},
+			{"Answer" : "Professional errors and omissions", "Value" : "2"},
+			{"Answer" : "Threats to your online reputation", "Value" : "8"},
+			{"Answer" : "Wrongful termination lawsuits", "Value" : "0"},
+			{"Answer" : "Acts of God", "Value" : "3"},
+			{"Answer" : "Key employee illness or death", "Value" : "11"},
+			{"Answer" : "Issues related to human rights violations including sexual harassment", "Value" : "3"},
+			{"Answer" : "Don't know", "Value" : "15"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Work related accidents", "Value" : "16"},
+			{"Answer" : "Accidents affecting non-employees that you may be liable for", "Value" : "5"},
+			{"Answer" : "Product liability", "Value" : "4"},
+			{"Answer" : "Industrial espionage", "Value" : "0"},
+			{"Answer" : "Data security", "Value" : "36"},
+			{"Answer" : "Employee theft", "Value" : "1"},
+			{"Answer" : "Professional errors and omissions", "Value" : "7"},
+			{"Answer" : "Threats to your online reputation", "Value" : "1"},
+			{"Answer" : "Wrongful termination lawsuits", "Value" : "3"},
+			{"Answer" : "Acts of God", "Value" : "1"},
+			{"Answer" : "Key employee illness or death", "Value" : "13"},
+			{"Answer" : "Issues related to human rights violations including sexual harassment", "Value" : "4"},
+			{"Answer" : "Don't know", "Value" : "8"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Work related accidents", "Value" : "22"},
+			{"Answer" : "Accidents affecting non-employees that you may be liable for", "Value" : "7"},
+			{"Answer" : "Product liability", "Value" : "5"},
+			{"Answer" : "Industrial espionage", "Value" : "2"},
+			{"Answer" : "Data security", "Value" : "18"},
+			{"Answer" : "Employee theft", "Value" : "5"},
+			{"Answer" : "Professional errors and omissions", "Value" : "3"},
+			{"Answer" : "Threats to your online reputation", "Value" : "3"},
+			{"Answer" : "Wrongful termination lawsuits", "Value" : "2"},
+			{"Answer" : "Acts of God", "Value" : "2"},
+			{"Answer" : "Key employee illness or death", "Value" : "23"},
+			{"Answer" : "Issues related to human rights violations including sexual harassment", "Value" : "5"},
+			{"Answer" : "Don't know", "Value" : "3"}
 		]}
 	]}
 ]},
@@ -9455,100 +9455,100 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "47"},
 			{"Answer" : "Have not", "Value" : "44"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "7"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "44"},
 			{"Answer" : "Have not", "Value" : "43"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "9"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "42"},
 			{"Answer" : "Have not", "Value" : "46"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "8"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "48"},
 			{"Answer" : "Have not", "Value" : "39"},
 			{"Answer" : "Have not but planning to", "Value" : "0"},
 			{"Answer" : "Refused", "Value" : "13"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "52"},
 			{"Answer" : "Have not", "Value" : "37"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "8"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "44"},
 			{"Answer" : "Have not", "Value" : "46"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "8"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "40"},
 			{"Answer" : "Have not", "Value" : "47"},
 			{"Answer" : "Have not but planning to", "Value" : "2"},
 			{"Answer" : "Refused", "Value" : "11"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "44"},
 			{"Answer" : "Have not", "Value" : "47"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "6"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "45"},
 			{"Answer" : "Have not", "Value" : "39"},
 			{"Answer" : "Have not but planning to", "Value" : "2"},
 			{"Answer" : "Refused", "Value" : "14"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "47"},
 			{"Answer" : "Have not", "Value" : "38"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "11"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "48"},
 			{"Answer" : "Have not", "Value" : "39"},
 			{"Answer" : "Have not but planning to", "Value" : "1"},
 			{"Answer" : "Refused", "Value" : "11"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "44"},
 			{"Answer" : "Have not", "Value" : "43"},
 			{"Answer" : "Have not but planning to", "Value" : "5"},
 			{"Answer" : "Refused", "Value" : "9"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "46"},
+			{"Answer" : "Have not", "Value" : "42"},
+			{"Answer" : "Have not but planning to", "Value" : "3"},
+			{"Answer" : "Refused", "Value" : "9"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "50"},
+			{"Answer" : "Have not", "Value" : "41"},
+			{"Answer" : "Have not but planning to", "Value" : "3"},
+			{"Answer" : "Refused", "Value" : "6"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "25"},
+			{"Answer" : "Have not", "Value" : "67"},
+			{"Answer" : "Have not but planning to", "Value" : "2"},
+			{"Answer" : "Refused", "Value" : "7"}
 		]}
 	]}
 ]},
@@ -9564,100 +9564,100 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "51"},
 			{"Answer" : "Have not", "Value" : "44"},
 			{"Answer" : "Have not but planning to", "Value" : "5"},
 			{"Answer" : "Refused", "Value" : "0"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "53"},
 			{"Answer" : "Have not", "Value" : "40"},
 			{"Answer" : "Have not but planning to", "Value" : "5"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "50"},
 			{"Answer" : "Have not", "Value" : "46"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "57"},
 			{"Answer" : "Have not", "Value" : "41"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "59"},
 			{"Answer" : "Have not", "Value" : "37"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "48"},
 			{"Answer" : "Have not", "Value" : "47"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "52"},
 			{"Answer" : "Have not", "Value" : "43"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "44"},
 			{"Answer" : "Have not", "Value" : "51"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "60"},
 			{"Answer" : "Have not", "Value" : "36"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "62"},
 			{"Answer" : "Have not", "Value" : "32"},
 			{"Answer" : "Have not but planning to", "Value" : "5"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "66"},
 			{"Answer" : "Have not", "Value" : "31"},
 			{"Answer" : "Have not but planning to", "Value" : "2"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "43"},
 			{"Answer" : "Have not", "Value" : "50"},
 			{"Answer" : "Have not but planning to", "Value" : "5"},
 			{"Answer" : "Refused", "Value" : "2"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "48"},
+			{"Answer" : "Have not", "Value" : "52"},
+			{"Answer" : "Have not but planning to", "Value" : "0"},
+			{"Answer" : "Refused", "Value" : "0"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "64"},
+			{"Answer" : "Have not", "Value" : "32"},
+			{"Answer" : "Have not but planning to", "Value" : "4"},
+			{"Answer" : "Refused", "Value" : "0"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "32"},
+			{"Answer" : "Have not", "Value" : "62"},
+			{"Answer" : "Have not but planning to", "Value" : "7"},
+			{"Answer" : "Refused", "Value" : "0"}
 		]}
 	]}
 ]},
@@ -9673,99 +9673,99 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "26"},
 			{"Answer" : "Have not", "Value" : "72"},
 			{"Answer" : "Have not but planning to", "Value" : "1"},
 			{"Answer" : "Refused", "Value" : "0"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "24"},
 			{"Answer" : "Have not", "Value" : "69"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "16"},
 			{"Answer" : "Have not", "Value" : "78"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "22"},
 			{"Answer" : "Have not", "Value" : "71"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "22"},
 			{"Answer" : "Have not", "Value" : "70"},
 			{"Answer" : "Have not but planning to", "Value" : "5"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "20"},
 			{"Answer" : "Have not", "Value" : "77"},
 			{"Answer" : "Have not but planning to", "Value" : "2"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "26"},
 			{"Answer" : "Have not", "Value" : "69"},
 			{"Answer" : "Have not but planning to", "Value" : "2"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "14"},
 			{"Answer" : "Have not", "Value" : "81"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "20"},
 			{"Answer" : "Have not", "Value" : "72"},
 			{"Answer" : "Have not but planning to", "Value" : "5"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "39"},
 			{"Answer" : "Have not", "Value" : "59"},
 			{"Answer" : "Have not but planning to", "Value" : "1"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "28"},
 			{"Answer" : "Have not", "Value" : "63"},
 			{"Answer" : "Have not but planning to", "Value" : "2"},
 			{"Answer" : "Refused", "Value" : "7"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "16"},
 			{"Answer" : "Have not", "Value" : "78"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
+			{"Answer" : "Refused", "Value" : "2"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "14"},
+			{"Answer" : "Have not", "Value" : "85"},
+			{"Answer" : "Have not but planning to", "Value" : "2"},
+			{"Answer" : "Refused", "Value" : "0"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "28"},
+			{"Answer" : "Have not", "Value" : "69"},
+			{"Answer" : "Have not but planning to", "Value" : "3"},
+			{"Answer" : "Refused", "Value" : "1"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "15"},
+			{"Answer" : "Have not", "Value" : "78"},
+			{"Answer" : "Have not but planning to", "Value" : "5"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]}
@@ -9782,100 +9782,100 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "71"},
 			{"Answer" : "Have not", "Value" : "24"},
 			{"Answer" : "Have not but planning to", "Value" : "5"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "69"},
 			{"Answer" : "Have not", "Value" : "26"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "62"},
 			{"Answer" : "Have not", "Value" : "30"},
 			{"Answer" : "Have not but planning to", "Value" : "8"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "75"},
 			{"Answer" : "Have not", "Value" : "19"},
 			{"Answer" : "Have not but planning to", "Value" : "6"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "74"},
 			{"Answer" : "Have not", "Value" : "20"},
 			{"Answer" : "Have not but planning to", "Value" : "5"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "70"},
 			{"Answer" : "Have not", "Value" : "26"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "58"},
 			{"Answer" : "Have not", "Value" : "33"},
 			{"Answer" : "Have not but planning to", "Value" : "8"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "62"},
 			{"Answer" : "Have not", "Value" : "32"},
 			{"Answer" : "Have not but planning to", "Value" : "6"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "66"},
 			{"Answer" : "Have not", "Value" : "26"},
 			{"Answer" : "Have not but planning to", "Value" : "6"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "82"},
 			{"Answer" : "Have not", "Value" : "13"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "80"},
 			{"Answer" : "Have not", "Value" : "15"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "66"},
 			{"Answer" : "Have not", "Value" : "28"},
 			{"Answer" : "Have not but planning to", "Value" : "6"},
 			{"Answer" : "Refused", "Value" : "1"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "66"},
+			{"Answer" : "Have not", "Value" : "32"},
+			{"Answer" : "Have not but planning to", "Value" : "2"},
+			{"Answer" : "Refused", "Value" : "0"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "72"},
+			{"Answer" : "Have not", "Value" : "23"},
+			{"Answer" : "Have not but planning to", "Value" : "4"},
+			{"Answer" : "Refused", "Value" : "1"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "40"},
+			{"Answer" : "Have not", "Value" : "45"},
+			{"Answer" : "Have not but planning to", "Value" : "15"},
+			{"Answer" : "Refused", "Value" : "0"}
 		]}
 	]}
 ]},
@@ -9891,100 +9891,100 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "65"},
 			{"Answer" : "Have not", "Value" : "28"},
 			{"Answer" : "Have not but planning to", "Value" : "6"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "64"},
 			{"Answer" : "Have not", "Value" : "30"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "61"},
 			{"Answer" : "Have not", "Value" : "31"},
 			{"Answer" : "Have not but planning to", "Value" : "6"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "66"},
 			{"Answer" : "Have not", "Value" : "30"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "62"},
 			{"Answer" : "Have not", "Value" : "28"},
 			{"Answer" : "Have not but planning to", "Value" : "8"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "68"},
 			{"Answer" : "Have not", "Value" : "27"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "57"},
 			{"Answer" : "Have not", "Value" : "38"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "58"},
 			{"Answer" : "Have not", "Value" : "36"},
 			{"Answer" : "Have not but planning to", "Value" : "5"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "67"},
 			{"Answer" : "Have not", "Value" : "24"},
 			{"Answer" : "Have not but planning to", "Value" : "6"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "72"},
 			{"Answer" : "Have not", "Value" : "22"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "67"},
 			{"Answer" : "Have not", "Value" : "28"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "60"},
 			{"Answer" : "Have not", "Value" : "31"},
 			{"Answer" : "Have not but planning to", "Value" : "6"},
 			{"Answer" : "Refused", "Value" : "3"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "55"},
+			{"Answer" : "Have not", "Value" : "38"},
+			{"Answer" : "Have not but planning to", "Value" : "5"},
+			{"Answer" : "Refused", "Value" : "2"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "73"},
+			{"Answer" : "Have not", "Value" : "24"},
+			{"Answer" : "Have not but planning to", "Value" : "3"},
+			{"Answer" : "Refused", "Value" : "0"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "50"},
+			{"Answer" : "Have not", "Value" : "40"},
+			{"Answer" : "Have not but planning to", "Value" : "10"},
+			{"Answer" : "Refused", "Value" : "0"}
 		]}
 	]}
 ]},
@@ -10000,100 +10000,100 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "48"},
 			{"Answer" : "Have not", "Value" : "48"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "34"},
 			{"Answer" : "Have not", "Value" : "55"},
 			{"Answer" : "Have not but planning to", "Value" : "7"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "37"},
 			{"Answer" : "Have not", "Value" : "58"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "32"},
 			{"Answer" : "Have not", "Value" : "61"},
 			{"Answer" : "Have not but planning to", "Value" : "6"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "39"},
 			{"Answer" : "Have not", "Value" : "55"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "37"},
 			{"Answer" : "Have not", "Value" : "55"},
 			{"Answer" : "Have not but planning to", "Value" : "6"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "40"},
 			{"Answer" : "Have not", "Value" : "54"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "33"},
 			{"Answer" : "Have not", "Value" : "60"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "35"},
 			{"Answer" : "Have not", "Value" : "57"},
 			{"Answer" : "Have not but planning to", "Value" : "5"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "50"},
 			{"Answer" : "Have not", "Value" : "43"},
 			{"Answer" : "Have not but planning to", "Value" : "5"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "26"},
 			{"Answer" : "Have not", "Value" : "68"},
 			{"Answer" : "Have not but planning to", "Value" : "1"},
 			{"Answer" : "Refused", "Value" : "5"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "28"},
 			{"Answer" : "Have not", "Value" : "65"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "3"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "43"},
+			{"Answer" : "Have not", "Value" : "51"},
+			{"Answer" : "Have not but planning to", "Value" : "3"},
+			{"Answer" : "Refused", "Value" : "3"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "56"},
+			{"Answer" : "Have not", "Value" : "35"},
+			{"Answer" : "Have not but planning to", "Value" : "7"},
+			{"Answer" : "Refused", "Value" : "1"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "27"},
+			{"Answer" : "Have not", "Value" : "70"},
+			{"Answer" : "Have not but planning to", "Value" : "3"},
+			{"Answer" : "Refused", "Value" : "0"}
 		]}
 	]}
 ]},
@@ -10109,48 +10109,48 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "0"},
-			{"Answer" : "Have not", "Value" : "0"},
-			{"Answer" : "Have not but planning to", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "21"},
 			{"Answer" : "Have not", "Value" : "78"},
 			{"Answer" : "Have not but planning to", "Value" : "1"},
 			{"Answer" : "Refused", "Value" : "1"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "21"},
 			{"Answer" : "Have not", "Value" : "69"},
 			{"Answer" : "Have not but planning to", "Value" : "7"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "17"},
 			{"Answer" : "Have not", "Value" : "75"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "15"},
 			{"Answer" : "Have not", "Value" : "76"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "5"}
+		]}
+	]},
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "17"},
+			{"Answer" : "Have not", "Value" : "77"},
+			{"Answer" : "Have not but planning to", "Value" : "4"},
+			{"Answer" : "Refused", "Value" : "2"}
+		]},
+		{"Filter" : "Middle", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "16"},
+			{"Answer" : "Have not", "Value" : "76"},
+			{"Answer" : "Have not but planning to", "Value" : "4"},
+			{"Answer" : "Refused", "Value" : "4"}
+		]},
+		{"Filter" : "Low", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "27"},
+			{"Answer" : "Have not", "Value" : "67"},
+			{"Answer" : "Have not but planning to", "Value" : "2"},
+			{"Answer" : "Refused", "Value" : "4"}
 		]}
 	]},
 	{"Category" : "Company Size", "Filters" : [
@@ -10158,51 +10158,51 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Took this step", "Value" : "17"},
 			{"Answer" : "Have not", "Value" : "77"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
-			{"Answer" : "Refused", "Value" : "2"}
-		]},
-		{"Filter" : "51 to 100", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "16"},
-			{"Answer" : "Have not", "Value" : "76"},
-			{"Answer" : "Have not but planning to", "Value" : "4"},
-			{"Answer" : "Refused", "Value" : "4"}
-		]},
-		{"Filter" : "More than 100", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "27"},
-			{"Answer" : "Have not", "Value" : "67"},
-			{"Answer" : "Have not but planning to", "Value" : "2"},
-			{"Answer" : "Refused", "Value" : "4"}
-		]}
-	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
-			{"Answer" : "Took this step", "Value" : "17"},
-			{"Answer" : "Have not", "Value" : "77"},
-			{"Answer" : "Have not but planning to", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "22"},
 			{"Answer" : "Have not", "Value" : "72"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "20"},
 			{"Answer" : "Have not", "Value" : "71"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "4"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "23"},
 			{"Answer" : "Have not", "Value" : "68"},
 			{"Answer" : "Have not but planning to", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "6"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Took this step", "Value" : "18"},
 			{"Answer" : "Have not", "Value" : "75"},
 			{"Answer" : "Have not but planning to", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "2"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "26"},
+			{"Answer" : "Have not", "Value" : "69"},
+			{"Answer" : "Have not but planning to", "Value" : "2"},
+			{"Answer" : "Refused", "Value" : "3"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "16"},
+			{"Answer" : "Have not", "Value" : "78"},
+			{"Answer" : "Have not but planning to", "Value" : "3"},
+			{"Answer" : "Refused", "Value" : "3"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Took this step", "Value" : "8"},
+			{"Answer" : "Have not", "Value" : "88"},
+			{"Answer" : "Have not but planning to", "Value" : "3"},
+			{"Answer" : "Refused", "Value" : "0"}
 		]}
 	]}
 ]},
@@ -10218,100 +10218,100 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Safer", "Value" : "0"},
-			{"Answer" : "Less safe", "Value" : "0"},
-			{"Answer" : "About the same", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Safer", "Value" : "0"},
-			{"Answer" : "Less safe", "Value" : "0"},
-			{"Answer" : "About the same", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Safer", "Value" : "0"},
-			{"Answer" : "Less safe", "Value" : "0"},
-			{"Answer" : "About the same", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Safer", "Value" : "17"},
 			{"Answer" : "Less safe", "Value" : "33"},
 			{"Answer" : "About the same", "Value" : "50"},
 			{"Answer" : "Refused", "Value" : "0"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Safer", "Value" : "11"},
 			{"Answer" : "Less safe", "Value" : "45"},
 			{"Answer" : "About the same", "Value" : "44"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Safer", "Value" : "13"},
 			{"Answer" : "Less safe", "Value" : "40"},
 			{"Answer" : "About the same", "Value" : "47"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Safer", "Value" : "14"},
 			{"Answer" : "Less safe", "Value" : "43"},
 			{"Answer" : "About the same", "Value" : "43"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Safer", "Value" : "25"},
 			{"Answer" : "Less safe", "Value" : "28"},
 			{"Answer" : "About the same", "Value" : "46"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Safer", "Value" : "10"},
 			{"Answer" : "Less safe", "Value" : "38"},
 			{"Answer" : "About the same", "Value" : "52"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Safer", "Value" : "6"},
 			{"Answer" : "Less safe", "Value" : "59"},
 			{"Answer" : "About the same", "Value" : "35"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Safer", "Value" : "13"},
 			{"Answer" : "Less safe", "Value" : "42"},
 			{"Answer" : "About the same", "Value" : "45"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Safer", "Value" : "11"},
 			{"Answer" : "Less safe", "Value" : "30"},
 			{"Answer" : "About the same", "Value" : "59"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Safer", "Value" : "17"},
 			{"Answer" : "Less safe", "Value" : "41"},
 			{"Answer" : "About the same", "Value" : "41"},
 			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Safer", "Value" : "15"},
 			{"Answer" : "Less safe", "Value" : "32"},
 			{"Answer" : "About the same", "Value" : "53"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Safer", "Value" : "17"},
 			{"Answer" : "Less safe", "Value" : "37"},
 			{"Answer" : "About the same", "Value" : "45"},
 			{"Answer" : "Refused", "Value" : "1"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Safer", "Value" : "9"},
+			{"Answer" : "Less safe", "Value" : "38"},
+			{"Answer" : "About the same", "Value" : "52"},
+			{"Answer" : "Refused", "Value" : "0"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Safer", "Value" : "11"},
+			{"Answer" : "Less safe", "Value" : "47"},
+			{"Answer" : "About the same", "Value" : "42"},
+			{"Answer" : "Refused", "Value" : "0"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Safer", "Value" : "12"},
+			{"Answer" : "Less safe", "Value" : "42"},
+			{"Answer" : "About the same", "Value" : "47"},
+			{"Answer" : "Refused", "Value" : "0"}
 		]}
 	]}
 ]},
@@ -10336,85 +10336,85 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "New York", "Value" : "0"},
-			{"Answer" : "Someplace else", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "New York", "Value" : "33"},
 			{"Answer" : "Someplace else", "Value" : "63"},
 			{"Answer" : "Refused", "Value" : "5"}
 		]},
-		{"Filter" : "Roch", "Answers" : [
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "New York", "Value" : "31"},
 			{"Answer" : "Someplace else", "Value" : "67"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Syr", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "New York", "Value" : "26"},
 			{"Answer" : "Someplace else", "Value" : "72"},
 			{"Answer" : "Refused", "Value" : "3"}
+		]},
+		{"Filter" : "Syr", "Answers" : [
+			{"Answer" : "New York", "Value" : "28"},
+			{"Answer" : "Someplace else", "Value" : "68"},
+			{"Answer" : "Refused", "Value" : "4"}
 		]}
 	]},
 	{"Category" : "Cluster", "Filters" : [
 		{"Filter" : "High", "Answers" : [
-			{"Answer" : "New York", "Value" : "28"},
-			{"Answer" : "Someplace else", "Value" : "68"},
-			{"Answer" : "Refused", "Value" : "4"}
-		]},
-		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "New York", "Value" : "46"},
 			{"Answer" : "Someplace else", "Value" : "52"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "New York", "Value" : "27"},
 			{"Answer" : "Someplace else", "Value" : "69"},
 			{"Answer" : "Refused", "Value" : "4"}
+		]},
+		{"Filter" : "Low", "Answers" : [
+			{"Answer" : "New York", "Value" : "14"},
+			{"Answer" : "Someplace else", "Value" : "83"},
+			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]},
 	{"Category" : "Company Size", "Filters" : [
 		{"Filter" : "50 or less", "Answers" : [
-			{"Answer" : "New York", "Value" : "14"},
-			{"Answer" : "Someplace else", "Value" : "83"},
-			{"Answer" : "Refused", "Value" : "2"}
-		]},
-		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "New York", "Value" : "29"},
 			{"Answer" : "Someplace else", "Value" : "68"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "New York", "Value" : "26"},
 			{"Answer" : "Someplace else", "Value" : "71"},
 			{"Answer" : "Refused", "Value" : "3"}
+		]},
+		{"Filter" : "More than 100", "Answers" : [
+			{"Answer" : "New York", "Value" : "32"},
+			{"Answer" : "Someplace else", "Value" : "62"},
+			{"Answer" : "Refused", "Value" : "6"}
 		]}
 	]},
 	{"Category" : "Industry", "Filters" : [
 		{"Filter" : "Eng & Constr", "Answers" : [
-			{"Answer" : "New York", "Value" : "32"},
-			{"Answer" : "Someplace else", "Value" : "62"},
-			{"Answer" : "Refused", "Value" : "6"}
-		]},
-		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "New York", "Value" : "29"},
 			{"Answer" : "Someplace else", "Value" : "67"},
 			{"Answer" : "Refused", "Value" : "5"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "New York", "Value" : "26"},
 			{"Answer" : "Someplace else", "Value" : "72"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Service", "Answers" : [
+		{"Filter" : "Retail", "Answers" : [
 			{"Answer" : "New York", "Value" : "32"},
 			{"Answer" : "Someplace else", "Value" : "62"},
 			{"Answer" : "Refused", "Value" : "6"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Service", "Answers" : [
 			{"Answer" : "New York", "Value" : "30"},
 			{"Answer" : "Someplace else", "Value" : "66"},
 			{"Answer" : "Refused", "Value" : "4"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "New York", "Value" : "18"},
+			{"Answer" : "Someplace else", "Value" : "80"},
+			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]}
 ]},
@@ -10431,50 +10431,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Very significant obstacle", "Value" : "0"},
-			{"Answer" : "Somewhat significant", "Value" : "0"},
-			{"Answer" : "Not very significant", "Value" : "0"},
-			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Very significant obstacle", "Value" : "0"},
-			{"Answer" : "Somewhat significant", "Value" : "0"},
-			{"Answer" : "Not very significant", "Value" : "0"},
-			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Very significant obstacle", "Value" : "0"},
-			{"Answer" : "Somewhat significant", "Value" : "0"},
-			{"Answer" : "Not very significant", "Value" : "0"},
-			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "24"},
 			{"Answer" : "Somewhat significant", "Value" : "34"},
 			{"Answer" : "Not very significant", "Value" : "24"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "12"},
 			{"Answer" : "Refused", "Value" : "6"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "24"},
 			{"Answer" : "Somewhat significant", "Value" : "35"},
 			{"Answer" : "Not very significant", "Value" : "22"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "14"},
 			{"Answer" : "Refused", "Value" : "6"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "24"},
 			{"Answer" : "Somewhat significant", "Value" : "33"},
 			{"Answer" : "Not very significant", "Value" : "26"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "11"},
 			{"Answer" : "Refused", "Value" : "6"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "23"},
 			{"Answer" : "Somewhat significant", "Value" : "33"},
 			{"Answer" : "Not very significant", "Value" : "33"},
@@ -10482,22 +10459,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Refused", "Value" : "1"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "29"},
 			{"Answer" : "Somewhat significant", "Value" : "30"},
 			{"Answer" : "Not very significant", "Value" : "24"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "11"},
 			{"Answer" : "Refused", "Value" : "6"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "18"},
 			{"Answer" : "Somewhat significant", "Value" : "36"},
 			{"Answer" : "Not very significant", "Value" : "27"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "15"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "30"},
 			{"Answer" : "Somewhat significant", "Value" : "34"},
 			{"Answer" : "Not very significant", "Value" : "24"},
@@ -10505,41 +10482,64 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Refused", "Value" : "6"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "23"},
 			{"Answer" : "Somewhat significant", "Value" : "37"},
 			{"Answer" : "Not very significant", "Value" : "25"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "14"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "22"},
 			{"Answer" : "Somewhat significant", "Value" : "33"},
 			{"Answer" : "Not very significant", "Value" : "31"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "10"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "29"},
 			{"Answer" : "Somewhat significant", "Value" : "30"},
 			{"Answer" : "Not very significant", "Value" : "22"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "9"},
 			{"Answer" : "Refused", "Value" : "10"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "33"},
 			{"Answer" : "Somewhat significant", "Value" : "40"},
 			{"Answer" : "Not very significant", "Value" : "15"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "9"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "15"},
 			{"Answer" : "Somewhat significant", "Value" : "37"},
 			{"Answer" : "Not very significant", "Value" : "26"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "13"},
 			{"Answer" : "Refused", "Value" : "8"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Very significant obstacle", "Value" : "29"},
+			{"Answer" : "Somewhat significant", "Value" : "34"},
+			{"Answer" : "Not very significant", "Value" : "22"},
+			{"Answer" : "Not at all a significant obstacle", "Value" : "9"},
+			{"Answer" : "Refused", "Value" : "6"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Very significant obstacle", "Value" : "28"},
+			{"Answer" : "Somewhat significant", "Value" : "31"},
+			{"Answer" : "Not very significant", "Value" : "27"},
+			{"Answer" : "Not at all a significant obstacle", "Value" : "12"},
+			{"Answer" : "Refused", "Value" : "3"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Very significant obstacle", "Value" : "20"},
+			{"Answer" : "Somewhat significant", "Value" : "35"},
+			{"Answer" : "Not very significant", "Value" : "25"},
+			{"Answer" : "Not at all a significant obstacle", "Value" : "15"},
+			{"Answer" : "Refused", "Value" : "5"}
 		]}
 	]}
 ]},
@@ -10556,50 +10556,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Very significant obstacle", "Value" : "0"},
-			{"Answer" : "Somewhat significant", "Value" : "0"},
-			{"Answer" : "Not very significant", "Value" : "0"},
-			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Very significant obstacle", "Value" : "0"},
-			{"Answer" : "Somewhat significant", "Value" : "0"},
-			{"Answer" : "Not very significant", "Value" : "0"},
-			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Very significant obstacle", "Value" : "0"},
-			{"Answer" : "Somewhat significant", "Value" : "0"},
-			{"Answer" : "Not very significant", "Value" : "0"},
-			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "38"},
 			{"Answer" : "Somewhat significant", "Value" : "42"},
 			{"Answer" : "Not very significant", "Value" : "13"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "1"},
 			{"Answer" : "Refused", "Value" : "6"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "51"},
 			{"Answer" : "Somewhat significant", "Value" : "32"},
 			{"Answer" : "Not very significant", "Value" : "9"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "2"},
 			{"Answer" : "Refused", "Value" : "5"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "43"},
 			{"Answer" : "Somewhat significant", "Value" : "37"},
 			{"Answer" : "Not very significant", "Value" : "15"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "1"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "48"},
 			{"Answer" : "Somewhat significant", "Value" : "29"},
 			{"Answer" : "Not very significant", "Value" : "15"},
@@ -10607,22 +10584,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Refused", "Value" : "3"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "39"},
 			{"Answer" : "Somewhat significant", "Value" : "41"},
 			{"Answer" : "Not very significant", "Value" : "13"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "2"},
 			{"Answer" : "Refused", "Value" : "5"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "37"},
 			{"Answer" : "Somewhat significant", "Value" : "38"},
 			{"Answer" : "Not very significant", "Value" : "16"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "5"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "66"},
 			{"Answer" : "Somewhat significant", "Value" : "24"},
 			{"Answer" : "Not very significant", "Value" : "6"},
@@ -10630,40 +10607,63 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Refused", "Value" : "4"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "47"},
 			{"Answer" : "Somewhat significant", "Value" : "34"},
 			{"Answer" : "Not very significant", "Value" : "15"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "39"},
 			{"Answer" : "Somewhat significant", "Value" : "45"},
 			{"Answer" : "Not very significant", "Value" : "14"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "1"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "45"},
 			{"Answer" : "Somewhat significant", "Value" : "34"},
 			{"Answer" : "Not very significant", "Value" : "9"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "2"},
 			{"Answer" : "Refused", "Value" : "10"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "48"},
 			{"Answer" : "Somewhat significant", "Value" : "37"},
 			{"Answer" : "Not very significant", "Value" : "11"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "1"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "40"},
 			{"Answer" : "Somewhat significant", "Value" : "36"},
 			{"Answer" : "Not very significant", "Value" : "16"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "4"},
+			{"Answer" : "Refused", "Value" : "5"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Very significant obstacle", "Value" : "49"},
+			{"Answer" : "Somewhat significant", "Value" : "32"},
+			{"Answer" : "Not very significant", "Value" : "9"},
+			{"Answer" : "Not at all a significant obstacle", "Value" : "2"},
+			{"Answer" : "Refused", "Value" : "8"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Very significant obstacle", "Value" : "50"},
+			{"Answer" : "Somewhat significant", "Value" : "34"},
+			{"Answer" : "Not very significant", "Value" : "12"},
+			{"Answer" : "Not at all a significant obstacle", "Value" : "1"},
+			{"Answer" : "Refused", "Value" : "4"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Very significant obstacle", "Value" : "33"},
+			{"Answer" : "Somewhat significant", "Value" : "38"},
+			{"Answer" : "Not very significant", "Value" : "20"},
+			{"Answer" : "Not at all a significant obstacle", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "5"}
 		]}
 	]}
@@ -10681,50 +10681,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Very significant obstacle", "Value" : "0"},
-			{"Answer" : "Somewhat significant", "Value" : "0"},
-			{"Answer" : "Not very significant", "Value" : "0"},
-			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Very significant obstacle", "Value" : "0"},
-			{"Answer" : "Somewhat significant", "Value" : "0"},
-			{"Answer" : "Not very significant", "Value" : "0"},
-			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Very significant obstacle", "Value" : "0"},
-			{"Answer" : "Somewhat significant", "Value" : "0"},
-			{"Answer" : "Not very significant", "Value" : "0"},
-			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "29"},
 			{"Answer" : "Somewhat significant", "Value" : "33"},
 			{"Answer" : "Not very significant", "Value" : "29"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "4"},
 			{"Answer" : "Refused", "Value" : "4"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "30"},
 			{"Answer" : "Somewhat significant", "Value" : "29"},
 			{"Answer" : "Not very significant", "Value" : "29"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "8"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "19"},
 			{"Answer" : "Somewhat significant", "Value" : "39"},
 			{"Answer" : "Not very significant", "Value" : "27"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "12"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "15"},
 			{"Answer" : "Somewhat significant", "Value" : "47"},
 			{"Answer" : "Not very significant", "Value" : "28"},
@@ -10732,22 +10709,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Refused", "Value" : "3"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "25"},
 			{"Answer" : "Somewhat significant", "Value" : "35"},
 			{"Answer" : "Not very significant", "Value" : "34"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "26"},
 			{"Answer" : "Somewhat significant", "Value" : "35"},
 			{"Answer" : "Not very significant", "Value" : "26"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "10"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "21"},
 			{"Answer" : "Somewhat significant", "Value" : "38"},
 			{"Answer" : "Not very significant", "Value" : "28"},
@@ -10755,41 +10732,64 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Refused", "Value" : "3"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "24"},
 			{"Answer" : "Somewhat significant", "Value" : "33"},
 			{"Answer" : "Not very significant", "Value" : "33"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "9"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "26"},
 			{"Answer" : "Somewhat significant", "Value" : "45"},
 			{"Answer" : "Not very significant", "Value" : "23"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "6"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "22"},
 			{"Answer" : "Somewhat significant", "Value" : "36"},
 			{"Answer" : "Not very significant", "Value" : "25"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "8"},
 			{"Answer" : "Refused", "Value" : "9"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "28"},
 			{"Answer" : "Somewhat significant", "Value" : "37"},
 			{"Answer" : "Not very significant", "Value" : "28"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "6"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "34"},
 			{"Answer" : "Somewhat significant", "Value" : "33"},
 			{"Answer" : "Not very significant", "Value" : "23"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "5"},
 			{"Answer" : "Refused", "Value" : "5"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Very significant obstacle", "Value" : "18"},
+			{"Answer" : "Somewhat significant", "Value" : "37"},
+			{"Answer" : "Not very significant", "Value" : "35"},
+			{"Answer" : "Not at all a significant obstacle", "Value" : "3"},
+			{"Answer" : "Refused", "Value" : "6"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Very significant obstacle", "Value" : "20"},
+			{"Answer" : "Somewhat significant", "Value" : "37"},
+			{"Answer" : "Not very significant", "Value" : "31"},
+			{"Answer" : "Not at all a significant obstacle", "Value" : "9"},
+			{"Answer" : "Refused", "Value" : "2"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Very significant obstacle", "Value" : "17"},
+			{"Answer" : "Somewhat significant", "Value" : "38"},
+			{"Answer" : "Not very significant", "Value" : "30"},
+			{"Answer" : "Not at all a significant obstacle", "Value" : "13"},
+			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]}
 ]},
@@ -10806,50 +10806,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Very significant obstacle", "Value" : "0"},
-			{"Answer" : "Somewhat significant", "Value" : "0"},
-			{"Answer" : "Not very significant", "Value" : "0"},
-			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Very significant obstacle", "Value" : "0"},
-			{"Answer" : "Somewhat significant", "Value" : "0"},
-			{"Answer" : "Not very significant", "Value" : "0"},
-			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Very significant obstacle", "Value" : "0"},
-			{"Answer" : "Somewhat significant", "Value" : "0"},
-			{"Answer" : "Not very significant", "Value" : "0"},
-			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "7"},
 			{"Answer" : "Somewhat significant", "Value" : "10"},
 			{"Answer" : "Not very significant", "Value" : "51"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "29"},
 			{"Answer" : "Refused", "Value" : "3"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "5"},
 			{"Answer" : "Somewhat significant", "Value" : "22"},
 			{"Answer" : "Not very significant", "Value" : "47"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "22"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "8"},
 			{"Answer" : "Somewhat significant", "Value" : "22"},
 			{"Answer" : "Not very significant", "Value" : "46"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "20"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "11"},
 			{"Answer" : "Somewhat significant", "Value" : "20"},
 			{"Answer" : "Not very significant", "Value" : "44"},
@@ -10857,22 +10834,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Refused", "Value" : "4"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "5"},
 			{"Answer" : "Somewhat significant", "Value" : "15"},
 			{"Answer" : "Not very significant", "Value" : "56"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "19"},
 			{"Answer" : "Refused", "Value" : "5"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "8"},
 			{"Answer" : "Somewhat significant", "Value" : "18"},
 			{"Answer" : "Not very significant", "Value" : "44"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "27"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "10"},
 			{"Answer" : "Somewhat significant", "Value" : "24"},
 			{"Answer" : "Not very significant", "Value" : "44"},
@@ -10880,41 +10857,64 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Refused", "Value" : "3"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "9"},
 			{"Answer" : "Somewhat significant", "Value" : "20"},
 			{"Answer" : "Not very significant", "Value" : "50"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "21"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "7"},
 			{"Answer" : "Somewhat significant", "Value" : "15"},
 			{"Answer" : "Not very significant", "Value" : "54"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "25"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "6"},
 			{"Answer" : "Somewhat significant", "Value" : "20"},
 			{"Answer" : "Not very significant", "Value" : "40"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "26"},
 			{"Answer" : "Refused", "Value" : "8"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "6"},
 			{"Answer" : "Somewhat significant", "Value" : "13"},
 			{"Answer" : "Not very significant", "Value" : "64"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "15"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "7"},
 			{"Answer" : "Somewhat significant", "Value" : "18"},
 			{"Answer" : "Not very significant", "Value" : "44"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "25"},
 			{"Answer" : "Refused", "Value" : "6"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Very significant obstacle", "Value" : "11"},
+			{"Answer" : "Somewhat significant", "Value" : "12"},
+			{"Answer" : "Not very significant", "Value" : "46"},
+			{"Answer" : "Not at all a significant obstacle", "Value" : "26"},
+			{"Answer" : "Refused", "Value" : "5"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Very significant obstacle", "Value" : "7"},
+			{"Answer" : "Somewhat significant", "Value" : "23"},
+			{"Answer" : "Not very significant", "Value" : "49"},
+			{"Answer" : "Not at all a significant obstacle", "Value" : "19"},
+			{"Answer" : "Refused", "Value" : "2"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Very significant obstacle", "Value" : "8"},
+			{"Answer" : "Somewhat significant", "Value" : "20"},
+			{"Answer" : "Not very significant", "Value" : "43"},
+			{"Answer" : "Not at all a significant obstacle", "Value" : "27"},
+			{"Answer" : "Refused", "Value" : "2"}
 		]}
 	]}
 ]},
@@ -10931,50 +10931,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Very significant obstacle", "Value" : "0"},
-			{"Answer" : "Somewhat significant", "Value" : "0"},
-			{"Answer" : "Not very significant", "Value" : "0"},
-			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Very significant obstacle", "Value" : "0"},
-			{"Answer" : "Somewhat significant", "Value" : "0"},
-			{"Answer" : "Not very significant", "Value" : "0"},
-			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Very significant obstacle", "Value" : "0"},
-			{"Answer" : "Somewhat significant", "Value" : "0"},
-			{"Answer" : "Not very significant", "Value" : "0"},
-			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "42"},
 			{"Answer" : "Somewhat significant", "Value" : "41"},
 			{"Answer" : "Not very significant", "Value" : "9"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "4"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "59"},
 			{"Answer" : "Somewhat significant", "Value" : "28"},
 			{"Answer" : "Not very significant", "Value" : "7"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "1"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "52"},
 			{"Answer" : "Somewhat significant", "Value" : "35"},
 			{"Answer" : "Not very significant", "Value" : "7"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "2"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "48"},
 			{"Answer" : "Somewhat significant", "Value" : "35"},
 			{"Answer" : "Not very significant", "Value" : "11"},
@@ -10982,22 +10959,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Refused", "Value" : "1"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "37"},
 			{"Answer" : "Somewhat significant", "Value" : "46"},
 			{"Answer" : "Not very significant", "Value" : "12"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "2"},
 			{"Answer" : "Refused", "Value" : "3"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "50"},
 			{"Answer" : "Somewhat significant", "Value" : "35"},
 			{"Answer" : "Not very significant", "Value" : "8"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "3"},
 			{"Answer" : "Refused", "Value" : "4"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "67"},
 			{"Answer" : "Somewhat significant", "Value" : "22"},
 			{"Answer" : "Not very significant", "Value" : "5"},
@@ -11005,41 +10982,64 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Refused", "Value" : "4"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "53"},
 			{"Answer" : "Somewhat significant", "Value" : "37"},
 			{"Answer" : "Not very significant", "Value" : "8"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "1"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "54"},
 			{"Answer" : "Somewhat significant", "Value" : "39"},
 			{"Answer" : "Not very significant", "Value" : "7"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
 			{"Answer" : "Refused", "Value" : "0"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "45"},
 			{"Answer" : "Somewhat significant", "Value" : "29"},
 			{"Answer" : "Not very significant", "Value" : "10"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "6"},
 			{"Answer" : "Refused", "Value" : "9"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "45"},
 			{"Answer" : "Somewhat significant", "Value" : "45"},
 			{"Answer" : "Not very significant", "Value" : "8"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "48"},
 			{"Answer" : "Somewhat significant", "Value" : "37"},
 			{"Answer" : "Not very significant", "Value" : "9"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "1"},
 			{"Answer" : "Refused", "Value" : "6"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Very significant obstacle", "Value" : "55"},
+			{"Answer" : "Somewhat significant", "Value" : "29"},
+			{"Answer" : "Not very significant", "Value" : "9"},
+			{"Answer" : "Not at all a significant obstacle", "Value" : "2"},
+			{"Answer" : "Refused", "Value" : "5"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Very significant obstacle", "Value" : "53"},
+			{"Answer" : "Somewhat significant", "Value" : "29"},
+			{"Answer" : "Not very significant", "Value" : "10"},
+			{"Answer" : "Not at all a significant obstacle", "Value" : "7"},
+			{"Answer" : "Refused", "Value" : "1"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Very significant obstacle", "Value" : "58"},
+			{"Answer" : "Somewhat significant", "Value" : "33"},
+			{"Answer" : "Not very significant", "Value" : "5"},
+			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
+			{"Answer" : "Refused", "Value" : "3"}
 		]}
 	]}
 ]},
@@ -11056,50 +11056,27 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 	]},
 	{"Category" : "Region", "Filters" : [
 		{"Filter" : "Alb", "Answers" : [
-			{"Answer" : "Very significant obstacle", "Value" : "0"},
-			{"Answer" : "Somewhat significant", "Value" : "0"},
-			{"Answer" : "Not very significant", "Value" : "0"},
-			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Buff", "Answers" : [
-			{"Answer" : "Very significant obstacle", "Value" : "0"},
-			{"Answer" : "Somewhat significant", "Value" : "0"},
-			{"Answer" : "Not very significant", "Value" : "0"},
-			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Roch", "Answers" : [
-			{"Answer" : "Very significant obstacle", "Value" : "0"},
-			{"Answer" : "Somewhat significant", "Value" : "0"},
-			{"Answer" : "Not very significant", "Value" : "0"},
-			{"Answer" : "Not at all a significant obstacle", "Value" : "0"},
-			{"Answer" : "Refused", "Value" : "0"}
-		]},
-		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "7"},
 			{"Answer" : "Somewhat significant", "Value" : "31"},
 			{"Answer" : "Not very significant", "Value" : "40"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "17"},
 			{"Answer" : "Refused", "Value" : "5"}
-		]}
-	]},
-	{"Category" : "Cluster", "Filters" : [
-		{"Filter" : "High", "Answers" : [
+		]},
+		{"Filter" : "Buff", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "11"},
 			{"Answer" : "Somewhat significant", "Value" : "28"},
 			{"Answer" : "Not very significant", "Value" : "41"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "14"},
 			{"Answer" : "Refused", "Value" : "7"}
 		]},
-		{"Filter" : "Middle", "Answers" : [
+		{"Filter" : "Roch", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "17"},
 			{"Answer" : "Somewhat significant", "Value" : "29"},
 			{"Answer" : "Not very significant", "Value" : "35"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "12"},
 			{"Answer" : "Refused", "Value" : "6"}
 		]},
-		{"Filter" : "Low", "Answers" : [
+		{"Filter" : "Syr", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "20"},
 			{"Answer" : "Somewhat significant", "Value" : "35"},
 			{"Answer" : "Not very significant", "Value" : "29"},
@@ -11107,22 +11084,22 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Refused", "Value" : "1"}
 		]}
 	]},
-	{"Category" : "Company Size", "Filters" : [
-		{"Filter" : "50 or less", "Answers" : [
+	{"Category" : "Cluster", "Filters" : [
+		{"Filter" : "High", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "6"},
 			{"Answer" : "Somewhat significant", "Value" : "32"},
 			{"Answer" : "Not very significant", "Value" : "42"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "14"},
 			{"Answer" : "Refused", "Value" : "6"}
 		]},
-		{"Filter" : "51 to 100", "Answers" : [
+		{"Filter" : "Middle", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "14"},
 			{"Answer" : "Somewhat significant", "Value" : "31"},
 			{"Answer" : "Not very significant", "Value" : "34"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "16"},
 			{"Answer" : "Refused", "Value" : "5"}
 		]},
-		{"Filter" : "More than 100", "Answers" : [
+		{"Filter" : "Low", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "19"},
 			{"Answer" : "Somewhat significant", "Value" : "25"},
 			{"Answer" : "Not very significant", "Value" : "37"},
@@ -11130,41 +11107,64 @@ var text = `{"Data" : [{ "Question" : "Q1. Which of the following industry categ
 			{"Answer" : "Refused", "Value" : "6"}
 		]}
 	]},
-	{"Category" : "Industry", "Filters" : [
-		{"Filter" : "Eng & Constr", "Answers" : [
+	{"Category" : "Company Size", "Filters" : [
+		{"Filter" : "50 or less", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "14"},
 			{"Answer" : "Somewhat significant", "Value" : "32"},
 			{"Answer" : "Not very significant", "Value" : "40"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "13"},
 			{"Answer" : "Refused", "Value" : "1"}
 		]},
-		{"Filter" : "Manuf", "Answers" : [
+		{"Filter" : "51 to 100", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "15"},
 			{"Answer" : "Somewhat significant", "Value" : "25"},
 			{"Answer" : "Not very significant", "Value" : "48"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "11"},
 			{"Answer" : "Refused", "Value" : "2"}
 		]},
-		{"Filter" : "Retail", "Answers" : [
+		{"Filter" : "More than 100", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "11"},
 			{"Answer" : "Somewhat significant", "Value" : "31"},
 			{"Answer" : "Not very significant", "Value" : "26"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "20"},
 			{"Answer" : "Refused", "Value" : "12"}
-		]},
-		{"Filter" : "Service", "Answers" : [
+		]}
+	]},
+	{"Category" : "Industry", "Filters" : [
+		{"Filter" : "Eng & Constr", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "9"},
 			{"Answer" : "Somewhat significant", "Value" : "29"},
 			{"Answer" : "Not very significant", "Value" : "46"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "11"},
 			{"Answer" : "Refused", "Value" : "5"}
 		]},
-		{"Filter" : "Whole & Distr", "Answers" : [
+		{"Filter" : "Manuf", "Answers" : [
 			{"Answer" : "Very significant obstacle", "Value" : "13"},
 			{"Answer" : "Somewhat significant", "Value" : "32"},
 			{"Answer" : "Not very significant", "Value" : "37"},
 			{"Answer" : "Not at all a significant obstacle", "Value" : "12"},
 			{"Answer" : "Refused", "Value" : "6"}
+		]},
+		{"Filter" : "Retail", "Answers" : [
+			{"Answer" : "Very significant obstacle", "Value" : "11"},
+			{"Answer" : "Somewhat significant", "Value" : "26"},
+			{"Answer" : "Not very significant", "Value" : "38"},
+			{"Answer" : "Not at all a significant obstacle", "Value" : "17"},
+			{"Answer" : "Refused", "Value" : "8"}
+		]},
+		{"Filter" : "Service", "Answers" : [
+			{"Answer" : "Very significant obstacle", "Value" : "13"},
+			{"Answer" : "Somewhat significant", "Value" : "28"},
+			{"Answer" : "Not very significant", "Value" : "36"},
+			{"Answer" : "Not at all a significant obstacle", "Value" : "17"},
+			{"Answer" : "Refused", "Value" : "5"}
+		]},
+		{"Filter" : "Whole & Distr", "Answers" : [
+			{"Answer" : "Very significant obstacle", "Value" : "15"},
+			{"Answer" : "Somewhat significant", "Value" : "33"},
+			{"Answer" : "Not very significant", "Value" : "35"},
+			{"Answer" : "Not at all a significant obstacle", "Value" : "13"},
+			{"Answer" : "Refused", "Value" : "3"}
 		]}
 	]}
 ]}

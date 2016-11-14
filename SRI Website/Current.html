@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>SRI</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+
+    <!-- Plugin CSS -->
+    <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link href="css/creative.min.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	<style type="text/css">
+		.custom {
+			width: 150px !important;
+		}
+		
+		.sharp {
+			border-radius: 0;
+			width: 200px !important;
+			align: center;
+			height: 20px;
+		}
+		
+		.sidebar-offcanvas{
+			width: 300px;
+			max-height: 500px;
+			overflow-y:scroll; 
+		}
+		
+		footer {
+		  position: relative;
+		  margin-top: -250px; /* negative value of footer height */
+		  margin-bottom: -250px
+		  height: 150px;
+		  clear:both;
+		  padding-top:200px;
+		  padding-bottom:100px;
+		  background-color: #033077;
+		  color: white;
+		} 
+		
+		.flot-x-axis div.flot-tick-label { 
+			/* Rotate Axis Labels */
+			transform: translateX(50%) rotate(20deg); /* CSS3 */
+			transform-origin: 0 0;
+			
+			-ms-transform: translateX(50%) rotate(20deg); /* IE */
+			-ms-transform-origin: 0 0;
+
+			-moz-transform: translateX(50%) rotate(20deg); /* Firefox */
+			-moz-transform-origin: 0 0;
+
+			-webkit-transform: translateX(50%) rotate(20deg); /* Safari and Chrome */
+			-webkit-transform-origin: 0 0;
+
+			-o-transform: translateX(50%) rotate(20deg); /* Opera */
+			-o-transform-origin: 0 0;
+			
+			white-space: nowrap;
+		}
+	</style>
+	
+
+</head>
+
+<body id="page-top">
+
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">Siena Research Institute</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a class="page-scroll" href="#about">Home</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#services">Data</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <header id="about">
+        <div class="header-content">
+            <div class="header-content-inner">
+                <h1 id="homeHeading">Siena Research Institute</h1>
+                <hr>
+                <p>Founded in 1980 at Siena College in New York's Capital District, the Siena Research Institute (SRI) conducts 
+					regional, statewide and national surveys on business, economic, political, voter, social, academic and historical 
+					issues. The surveys include both expert and public opinion polls. Siena students and students from other colleges 
+					participate in each and every survey conducted. Their experiences allow them to gain experience in political science, 
+					computing, communications, sociology, and psychology in a professional setting. SRI frequently employs interns that participate 
+					in special projects including event planning, in-depth research, report writing and analysis.</p>
+                <a href="https://www.siena.edu/centers-institutes/siena-research-institute" class="btn btn-primary btn-xl page-scroll">FIND OUT MORE</a>
+            </div>
+        </div>
+    </header>
+
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Data</h2>
+                </div>
+            </div>
+        </div>
+		
+		<div class="col-lg-3 col-md-3">
+			<div style="padding-left:35px; padding-bottom: 10px;">
+			<button class="btn btn-primary btn-xs sharp" id="increase" type="button" onclick="if(currQuestion < 82){currQuestion+=1};getQues();console.log(currQuestion);">Next Question</button>
+			<button class="btn btn-primary btn-xs sharp" id="increase" type="button" onclick="if(currQuestion > 0){currQuestion-=1};getQues();console.log(currQuestion);">Prev Question</button>
+			</div>
+			<div class="col-xs-3 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation" style="float:left">
+				<div class="well sidebar-nav">
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(0)" id="increase0" type="button" onclick="currQuestion = 0;console.log(currQuestion);">Question 1</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(1)" id="increase1" type="button" onclick="currQuestion = 1;console.log(currQuestion);">Question 2</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(2)" id="increase2" type="button" onclick="currQuestion = 2;console.log(currQuestion);">Question 3</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(3)" id="increase3" type="button" onclick="currQuestion = 3;console.log(currQuestion);">Question 4</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(4)" id="increase4" type="button" onclick="currQuestion = 4;console.log(currQuestion);">Question 5</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(5)" id="increase5" type="button" onclick="currQuestion = 5;console.log(currQuestion);">Question 6</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(6)" id="increase6" type="button" onclick="currQuestion = 6;console.log(currQuestion);">Question 7</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(7)" id="increase7" type="button" onclick="currQuestion = 7;console.log(currQuestion);">Question 8</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(8)" id="increase8" type="button" onclick="currQuestion = 8;console.log(currQuestion);">Question 9</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(9)" id="increase9" type="button" onclick="currQuestion = 9;console.log(currQuestion);">Question 10</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(10)" id="increase10" type="button" onclick="currQuestion = 10;console.log(currQuestion);">Question 11</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(11)" id="increase11" type="button" onclick="currQuestion = 11;console.log(currQuestion);">Question 12</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(12)" id="increase12" type="button" onclick="currQuestion = 12;console.log(currQuestion);">Question 13</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(13)" id="increase13" type="button" onclick="currQuestion = 13;console.log(currQuestion);">Question 14</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(14)" id="increase14" type="button" onclick="currQuestion = 14;console.log(currQuestion);">Question 15</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(15)" id="increase15" type="button" onclick="currQuestion = 15;console.log(currQuestion);">Question 16</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(16)" id="increase16" type="button" onclick="currQuestion = 16;console.log(currQuestion);">Question 17</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(17)" id="increase17" type="button" onclick="currQuestion = 17;console.log(currQuestion);">Question 18</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(18)" id="increase18" type="button" onclick="currQuestion = 18;console.log(currQuestion);">Question 19</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(19)" id="increase19" type="button" onclick="currQuestion = 19;console.log(currQuestion);">Question 20</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(20)" id="increase20" type="button" onclick="currQuestion = 20;console.log(currQuestion);">Question 21A</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(21)" id="increase21" type="button" onclick="currQuestion = 21;console.log(currQuestion);">Question 21B</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(22)" id="increase22" type="button" onclick="currQuestion = 22;console.log(currQuestion);">Question 21C</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(23)" id="increase23" type="button" onclick="currQuestion = 23;console.log(currQuestion);">Question 21D</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(24)" id="increase24" type="button" onclick="currQuestion = 24;console.log(currQuestion);">Question 21E</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(25)" id="increase25" type="button" onclick="currQuestion = 25;console.log(currQuestion);">Question 21F</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(26)" id="increase26" type="button" onclick="currQuestion = 26;console.log(currQuestion);">Question 21G</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(27)" id="increase27" type="button" onclick="currQuestion = 27;console.log(currQuestion);">Question 21H</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(28)" id="increase28" type="button" onclick="currQuestion = 28;console.log(currQuestion);">Question 21I</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(29)" id="increase29" type="button" onclick="currQuestion = 29;console.log(currQuestion);">Question 22</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(30)" id="increase30" type="button" onclick="currQuestion = 30;console.log(currQuestion);">Question 23</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(31)" id="increase31" type="button" onclick="currQuestion = 31;console.log(currQuestion);">Question 24</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(32)" id="increase32" type="button" onclick="currQuestion = 32;console.log(currQuestion);">Question 25</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(33)" id="increase33" type="button" onclick="currQuestion = 33;console.log(currQuestion);">Question 26A</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(34)" id="increase34" type="button" onclick="currQuestion = 34;console.log(currQuestion);">Question 26B</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(35)" id="increase35" type="button" onclick="currQuestion = 35;console.log(currQuestion);">Question 26C</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(36)" id="increase36" type="button" onclick="currQuestion = 36;console.log(currQuestion);">Question 26D</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(37)" id="increase37" type="button" onclick="currQuestion = 37;console.log(currQuestion);">Question 26E</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(38)" id="increase38" type="button" onclick="currQuestion = 38;console.log(currQuestion);">Question 26F</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(39)" id="increase39" type="button" onclick="currQuestion = 39;console.log(currQuestion);">Question 26G</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(40)" id="increase40" type="button" onclick="currQuestion = 40;console.log(currQuestion);">Question 26H</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(41)" id="increase41" type="button" onclick="currQuestion = 41;console.log(currQuestion);">Question 27</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(42)" id="increase42" type="button" onclick="currQuestion = 42;console.log(currQuestion);">Question 28A</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(43)" id="increase43" type="button" onclick="currQuestion = 43;console.log(currQuestion);">Question 28B</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(44)" id="increase44" type="button" onclick="currQuestion = 44;console.log(currQuestion);">Question 28C</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(45)" id="increase45" type="button" onclick="currQuestion = 45;console.log(currQuestion);">Question 28D</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(46)" id="increase46" type="button" onclick="currQuestion = 46;console.log(currQuestion);">Question 28E</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(47)" id="increase47" type="button" onclick="currQuestion = 47;console.log(currQuestion);">Question 28F</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(48)" id="increase48" type="button" onclick="currQuestion = 48;console.log(currQuestion);">Question 28G</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(49)" id="increase49" type="button" onclick="currQuestion = 49;console.log(currQuestion);">Question 29</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(50)" id="increase50" type="button" onclick="currQuestion = 50;console.log(currQuestion);">Question 30A</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(51)" id="increase51" type="button" onclick="currQuestion = 51;console.log(currQuestion);">Question 30B</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(52)" id="increase52" type="button" onclick="currQuestion = 52;console.log(currQuestion);">Question 30C</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(53)" id="increase53" type="button" onclick="currQuestion = 53;console.log(currQuestion);">Question 30D</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(54)" id="increase54" type="button" onclick="currQuestion = 54;console.log(currQuestion);">Question 30E</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(55)" id="increase55" type="button" onclick="currQuestion = 55;console.log(currQuestion);">Question 31A</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(56)" id="increase56" type="button" onclick="currQuestion = 56;console.log(currQuestion);">Question 31B</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(57)" id="increase57" type="button" onclick="currQuestion = 57;console.log(currQuestion);">Question 31C</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(58)" id="increase58" type="button" onclick="currQuestion = 58;console.log(currQuestion);">Question 31D</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(59)" id="increase59" type="button" onclick="currQuestion = 59;console.log(currQuestion);">Question 31E</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(60)" id="increase60" type="button" onclick="currQuestion = 60;console.log(currQuestion);">Question 31F</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(61)" id="increase61" type="button" onclick="currQuestion = 61;console.log(currQuestion);">Question 31G</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(62)" id="increase62" type="button" onclick="currQuestion = 62;console.log(currQuestion);">Question 31H</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(63)" id="increase63" type="button" onclick="currQuestion = 63;console.log(currQuestion);">Question 31I</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(64)" id="increase64" type="button" onclick="currQuestion = 64;console.log(currQuestion);">Question 31J</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(65)" id="increase65" type="button" onclick="currQuestion = 65;console.log(currQuestion);">Question 31K</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(66)" id="increase66" type="button" onclick="currQuestion = 66;console.log(currQuestion);">Question 31L</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(67)" id="increase67" type="button" onclick="currQuestion = 67;console.log(currQuestion);">Question 32</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(68)" id="increase68" type="button" onclick="currQuestion = 68;console.log(currQuestion);">Question 33A</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(69)" id="increase69" type="button" onclick="currQuestion = 69;console.log(currQuestion);">Question 33B</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(70)" id="increase70" type="button" onclick="currQuestion = 70;console.log(currQuestion);">Question 33C</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(71)" id="increase71" type="button" onclick="currQuestion = 71;console.log(currQuestion);">Question 33D</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(72)" id="increase72" type="button" onclick="currQuestion = 72;console.log(currQuestion);">Question 33E</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(73)" id="increase73" type="button" onclick="currQuestion = 73;console.log(currQuestion);">Question 33F</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(74)" id="increase74" type="button" onclick="currQuestion = 74;console.log(currQuestion);">Question 33G</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(75)" id="increase75" type="button" onclick="currQuestion = 75;console.log(currQuestion);">Question 34</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(76)" id="increase76" type="button" onclick="currQuestion = 76;console.log(currQuestion);">Question 35</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(77)" id="increase77" type="button" onclick="currQuestion = 77;console.log(currQuestion);">Question 36A</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(78)" id="increase78" type="button" onclick="currQuestion = 78;console.log(currQuestion);">Question 36B</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(79)" id="increase79" type="button" onclick="currQuestion = 79;console.log(currQuestion);">Question 36C</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(80)" id="increase80" type="button" onclick="currQuestion = 80;console.log(currQuestion);">Question 36D</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(81)" id="increase81" type="button" onclick="currQuestion = 81;console.log(currQuestion);">Question 36E</button>
+			<button class="btn btn-primary btn-xs sharp" onmouseover="myOverFunction(82)" id="increase82" type="button" onclick="currQuestion = 82;console.log(currQuestion);">Question 36F</button>
+			</div>
+		</div>
+		
+		<div style="float:left;width:250px;word-wrap:break-word;padding-left:30px">
+				<p>* Move cursor over questions above to display question.</p>
+		</div>
+			
+		</div>
+		<div class="col-lg-9 col-md-9">
+			<div style="margin:15px">
+				<div class="panel-group" id="accordion">
+					<div id="questionAccord">
+						<div class="panel panel-default">
+							<div class="panel-heading">
+								<h4 class="panel-title" id="accessQuestion">
+									<p title="1">Question:</p>
+								</h4>
+							</div>
+							<div id="collapse" class="panel-collapse collapse in">
+								<div class="panel-body">
+									<form id="radioCategories" class="btn-group">
+										  
+									</form>
+									<button style="float:right;" id = "sideBySideButton">Flip to overlap or side by side</button>
+									<div style="padding-top: 20px; padding-left: 15px;">
+										<div id="placeholder" class="demo-placeholder" style="float:left; width:950px; height:450px"></div>
+										<p id="choices" style="float:right; width:135px;"></p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<br><p></p><br><br><p></p><br><br><p></p><br><br><p></p><br><br><p></p><br><br><p></p><br>
+			<p><span id="demo"></span></p>
+		<br><p></p><br><br><p></p><br><br><p></p><br><br><p></p><br><br><p></p><br><br><p></p><br><br>
+    </section>
+
+	<footer class="text-center">
+        <div class="footer-above">
+			<div class="container" id="contact">
+				<div class="row">
+					<div class="col-lg-8 col-lg-offset-2 text-center">
+						<h2 class="section-heading">Something to say to SRI? Get in touch!</h2>
+						<p></p>
+					</div>
+					<div class="col-lg-4 col-lg-offset-2 text-center">
+						<i class="fa fa-phone fa-3x sr-contact"></i>
+						<p>(518)-783-4270</p>
+					</div>
+					<div class="col-lg-4 text-center">
+						<i class="fa fa-envelope-o fa-3x sr-contact"></i>
+						<p><a href="mailto:lkfoster@siena.edu" style="color: white;">lkfoster@siena.edu</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+    <!-- jQuery -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+	
+	
+    <!-- Theme JavaScript -->
+    <script src="js/creative.min.js"></script>
+	
+	<link href="examples.css" rel="stylesheet" type="text/css">
+	<script language="javascript" type="text/javascript" src="jquery.js"></script>
+	<script language="javascript" type="text/javascript" src="jquery.flot.js"></script>
+	<script language="javascript" type="text/javascript" src="jquery.flot.categories.js"></script>
+	<script language="javascript" type="text/javascript" src="jquery.flot.orderBars.js"></script>
+	<script language="javascript" type="text/javascript" src="jquery-ui.min.js"></script>
+	<script language="javascript" type="text/javascript" src="jquery.flot.resize.js"></script>
+	<script language="javascript" type="text/javascript" src="jquery.flot.pie.js"></script>
+	<script src="js/SRIData.js"></script>
+	<script type="text/javascript" src="js/SRIjs.js"></script>
+	<!-- <script type="text/javascript" src="js/jsCopy.js"></script> -->
+
+</body>
+
+</html>

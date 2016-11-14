@@ -14,9 +14,9 @@
  * The plugin adjust the point by adding a value depanding of the barwidth
  * Exemple for 3 series (barwidth : 0.1) :
  *
- *          first bar dÃ©calage : -0.15
- *          second bar dÃ©calage : -0.05
- *          third bar dÃ©calage : 0.05
+ *          first bar décalage : -0.15
+ *          second bar décalage : -0.05
+ *          third bar décalage : 0.05
  *
  */
 
@@ -73,14 +73,24 @@
             pixelInXWidthEquivalent = AxeSize / gridDimSize;
         }
 
-        function getAxeMinMaxValues(series,AxeIdx){
+        /* function getAxeMinMaxValues(series,AxeIdx){
             var minMaxValues = new Array();
             for(var i = 0; i < series.length; i++){
                 minMaxValues[0] = series[i].data[0][AxeIdx];
                 minMaxValues[1] = series[i].data[series[i].data.length - 1][AxeIdx];
             }
             return minMaxValues;
-        }
+        } */
+		
+		function getAxeMinMaxValues(series, AxeIdx) {
+			var minMaxValues = new Array();
+			for (var i = 0; i < series.length; i++) {
+			  series[i].data[series[i].data.length - 1][AxeIdx];
+				minMaxValues[0] = 0;
+				minMaxValues[1] = series[i].data.length - 1;
+			}
+			return minMaxValues;
+		}
 
         function retrieveBarSeries(plot){
             orderedBarSeries = findOthersBarsToReOrders(plot.getData());
